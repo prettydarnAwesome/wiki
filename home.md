@@ -14,3 +14,7 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 * [Zonalhaz](zonalhaz)
 
 Click one of the above buddies to go find out information about them!
+
+#Other stuff
+
+* [Group games we should play](games to play)
