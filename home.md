@@ -15,6 +15,6 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 
 Click one of the above buddies to go find out information about them!
 
-#Other stuff
+# Other stuff
 
 * [Group games we should play](to-play)
