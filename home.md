@@ -1,4 +1,4 @@
 <!-- TITLE: pretty darn Wiki -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: this is the wiki of pretty darn Awesome -->
 
-# pretty darn Awesome wiki
+# pretty darn Wiki
