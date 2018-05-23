@@ -8,6 +8,6 @@
 4. [number9dream](books/number-9-dream)
 
 # Voting
-Firstly we use Approval Voting for the first round.
+Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) for the first round.
 If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipedia.org/wiki/Borda_count).
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
