@@ -19,3 +19,4 @@ Click one of the above buddies to go find out information about them!
 # Other stuff
 
 * [Group games we should play](to-play)
+* [Book Gathering](book-gathering)
