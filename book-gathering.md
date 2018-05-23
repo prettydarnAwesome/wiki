@@ -3,8 +3,8 @@
 
 # List of Books Read
 1. [Final Empire]()
-2. [A Wild Sheep Chase]()
-3. [The City and the Stars]()
+2. [A Wild Sheep Chase](books/a-wild-sheep-chase)
+3. [The City and the Stars](books/the-city-and-the-stars)
 4. [number9dream](books/number-9-dream)
 
 # Voting
