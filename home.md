@@ -8,6 +8,7 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 * [Bruzezeazaly](bruzezeazaly)
 * [Cesque](cesque)
 * [Hexi](hexi)
+* [Lindskog](lindskog)
 * [Marvin](marvin)
 * [Supercoins](supercoins)
 * [Syphonx](syphonx)
