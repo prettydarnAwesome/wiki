@@ -3,6 +3,6 @@
 
 # Ideas
 **Language RPG game??**
-* It's coop like journey
+* It's coop like journey (as in you can't choose who to play with)
 * You can only communicate through symbols with no intrinsic meaning
 *??
