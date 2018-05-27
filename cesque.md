@@ -2,7 +2,9 @@
 <!-- SUBTITLE: huw didnt make me a page :( -->
 
 Look here for games: [Games to Play](cesque/games-to-play)
-
+# Quotes
+* Swedish sounds like a retard speaking English
+* I really want tea tonight, but i can't be bothered to make it
 # Brand Guidelines
 Aside from some exceptions which will be shortly mentioned, cesque's username should always be written in all lowercase (e.g. **cesque**). This includes situations where capitals would be more appropriate - for example, starting a sentence:
 
@@ -19,6 +21,3 @@ In addition to the username **cesque**, cesque can also be referred to with the 
 (this is a joke i'm not really an asshole)
 
 (but also use lowercase because uppercase sucks)
-# Quotes
-* Swedish sounds like a retard speaking English
-* I really want tea tonight, but i can't be bothered to make it
