@@ -18,6 +18,6 @@ As exceptions to this rule, the capitalised version (**Cesque**) can be used whe
 
 In addition to the username **cesque**, cesque can also be referred to with the pseudonym **ruff**. For this name, the above rules on capitalisation also apply.
 
-(this is a joke i'm not really an asshole)
+*(this is a joke i'm not really an asshole)
 
-(but also use lowercase because uppercase sucks)
+(but also use lowercase because uppercase sucks)*
