@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Some games that [cesque](cesque) should play and potentially stream -->
 
 # To Play
-All of these games could potentially be streamed, but some are better candidates than others so I'll try to mark ones I think would make good stream possibilities.
+All of these games could potentially be streamed, but some are better candidates than others.
 
 * finish The Witcher 3
   *by popular request*
@@ -15,3 +15,13 @@ All of these games could potentially be streamed, but some are better candidates
 * Necrosphere
 * Desync
 * Aer: Memories of Old
+* maybe System Shock/System Shock 2?
+  *i'm a big baby though so who knows*
+
+# Suggestions
+If you have any games you want me to play, put them in this list:
+
+* Hello
+* World
+* Lorem
+* Ipsum
