@@ -16,7 +16,9 @@ As exceptions to this rule, the capitalised version(**Cesque**) can be used when
 
 In addition to the username **cesque**, cesque can also be referred to with the pseudonym **ruff**. For this name, the above rules on capitalisation also apply.
 
-^test
+(this is a joke i'm not really an asshole)
+
+(but also use lowercase because uppercase sucks)
 # Quotes
 * Swedish sounds like a retard speaking English
 * I really want tea tonight, but i can't be bothered to make it
