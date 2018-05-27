@@ -30,7 +30,4 @@ All of these games could potentially be streamed, but some are better candidates
 # Suggestions
 If you have any games you want me to play, put them in this list:
 
-* Hello
-* World
-* Lorem
-* Ipsum
+* Dishonored/Dishonored 2
