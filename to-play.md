@@ -6,9 +6,10 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 # The List™
 * Destiny 2 raid content
 * Mysterium
-* Dungeon Defenders 2
+* Dungeon Defenders 2 (or the original)
 * Stellaris
 * Crusader Kings 2
 * Dota 2
 * No Man's Sky (when multiplayer update hits)
 * Monster Hunter
+* Get people to get the Hunter game
