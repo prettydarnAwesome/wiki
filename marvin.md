@@ -1,4 +1,4 @@
 <!-- TITLE: Marvin -->
-<!-- SUBTITLE: A quick summary of Marvin -->
+<!-- SUBTITLE: should be in a band -->
 
 # Header
