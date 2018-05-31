@@ -5,3 +5,6 @@ When huw was a boy his father said to him "with those instruments you will never
 
 oh no here comes huw's face
 <marquee>huw's face</marquee>
+
+# Quotes
+"i feel like huw has been permanently squished" - cesque 31/05/2018
