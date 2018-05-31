@@ -8,3 +8,7 @@ oh no here comes huw's face
 
 # Quotes
 "i feel like huw has been permanently squished" - cesque 31/05/2018
+"dan only says true things" - huw 11/11/2016 
+"i only lie" - huw 11/11/2016
+"i think fish are eels" - huw 2016
+"i need to now trim nose the down" - huw 2018"
