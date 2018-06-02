@@ -18,3 +18,4 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 * Keep talking and someone will die of natural causes (also explosions)
 * [Raft](https://store.steampowered.com/app/648800/Raft/)
 * Titan Quest (Anniversary Edition)
+* [Barony](https://store.steampowered.com/app/371970/Barony/) - apparently 4 player co-op is good fun
