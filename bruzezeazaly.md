@@ -1,4 +1,5 @@
 <!-- TITLE: Bruzezeazaly -->
 <!-- SUBTITLE: A quick summary of Bruzezeazaly -->
 
-# Header
+# Quotes
+"Yes, I'm Ādam" - beasley
