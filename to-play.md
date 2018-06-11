@@ -21,3 +21,4 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 * [Barony](https://store.steampowered.com/app/371970/Barony/) - apparently 4 player co-op is good fun
 * Toribash (it's free to play!)
 * The Division
+* Scrap Mechanic
