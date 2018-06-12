@@ -10,7 +10,7 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 * [Hexi](hexi)
 * [Lindskog](lindskog)
 * [Marvin](marvin)
-* [Supercoins](supercoins)
+* [SuperCoins](supercoins)
 * [Syphonx](syphonx)
 * [Zonalhaz](zonalhaz)
 
