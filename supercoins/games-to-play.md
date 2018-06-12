@@ -4,5 +4,6 @@
 * Moonlighter
 * Cultist Simulator
 * The Witcher 3
+* Darkest Dungeon
 * Nioh
 * Glittermitten Grove
