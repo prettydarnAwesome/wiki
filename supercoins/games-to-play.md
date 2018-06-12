@@ -5,5 +5,6 @@
 * Cultist Simulator
 * The Witcher 3
 * Darkest Dungeon
+* Owlboy
 * Nioh
 * Glittermitten Grove
