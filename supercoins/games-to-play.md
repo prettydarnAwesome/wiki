@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
 * Moonlighter
+* Prey
 * The Division
 * Cultist Simulator
 * The Witcher 3
