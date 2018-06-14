@@ -3,7 +3,7 @@
 
 # Quotes
 "memes are hard" - lindskog
-"dont steal my freakin' slappy kills" - lindskog
+"dont steal my freakin'.. slappy kills" - lindskog
 "Is cesque coming? [yes] NICE, I'm going to get some nuts" - Lindskog 2015
 "crumpets are such an abstract thing" - MrLindskog
 "i love lindskog" - Nublar ☂ܟ
