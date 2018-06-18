@@ -3,6 +3,7 @@
 
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
+Here's a link to [The Copypasta](opporator-idea)
 # Friends
 * [Ben](ben)
 * [Bruzezeazaly](bruzezeazaly)
