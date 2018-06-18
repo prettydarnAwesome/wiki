@@ -5,6 +5,6 @@
 
 [Games to Play](supercoins/games-to-play)
 
-#Quotes
+# Quotes
 
 "I think it's 'court' because you say 'fore' in golf and you have a 'golf court'" - SuperCoins (playing codenames, with the clue "fore")
