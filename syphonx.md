@@ -1,4 +1,5 @@
 <!-- TITLE: Syphonx -->
 <!-- SUBTITLE: A quick summary of Syphonx -->
 
-# Header
+# Quotes
+* "churros are German, right?" - Jak
