@@ -1,4 +1,4 @@
-<!-- TITLE: Marvin -->
+<!-- TITLE: marvin -->
 <!-- SUBTITLE: should be in a band -->
 
 # Quotes
