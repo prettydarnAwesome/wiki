@@ -6,7 +6,7 @@
 2. [A Wild Sheep Chase](books/a-wild-sheep-chase)
 3. [The City and the Stars](books/the-city-and-the-stars)
 4. [number9dream](books/number-9-dream)
-5. [The Three Stigmata of Palmer Eldritch](books/a-wild-sheep-chase/the-three-stigmata-of-palmer-eldritch)
+5. [The Three Stigmata of Palmer Eldritch](books/the-three-stigmata-of-palmer-eldritch)
 
 # Voting
 Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) for the first round.
