@@ -1,4 +1,4 @@
-<!-- TITLE: Cesque -->
+<!-- TITLE: cesque -->
 <!-- SUBTITLE: huw didnt make me a page :( -->
 
 Look here for games: [Games to Play](cesque/games-to-play)
