@@ -6,3 +6,6 @@
 
 # Quotes
 * I'll be back in [5 minutes](https://i.ytimg.com/vi/bDQpF92l1vg/maxresdefault.jpg) guys, I just need to make some tea
+
+# Games to play
+* Stanley Parable
