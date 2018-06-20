@@ -5,7 +5,7 @@
 | human | score |
 | --- | --- |
 | **Bruzezeazaly** | 3/6 |
-| **Hexi** |  |
-| **Supercoins** |  |
-| **Syphonx** |  |
-| **Zonalhaz** |  |
+| **Hexi** | weak 4/5 |
+| **Supercoins** | 3/6 |
+| **Syphonx** | 3 jaks/6 jaks |
+| **Zonalhaz** | 3.5-4/6 |
