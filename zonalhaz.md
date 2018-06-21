@@ -17,3 +17,4 @@ oh no here comes huw's face
 # Games to play
 * Child of Light
 * INSIDE
+* Watch Dogs 2
