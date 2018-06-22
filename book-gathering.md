@@ -14,7 +14,7 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
-A. [Perdido Street Station - China Miéville](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
-B. [The_Day_of_the_Triffids - John Wyndham](https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids)
+A. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
+B. [The_Day_of_the_Triffids](https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids)
 C. [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue](https://www.goodreads.com/book/show/36681909-conspiracy)
 D. [The Martian](https://www.goodreads.com/book/show/20829029-the-martian)
