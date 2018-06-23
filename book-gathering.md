@@ -7,6 +7,7 @@
 3. [The City and the Stars](books/the-city-and-the-stars)
 4. [number9dream](books/number-9-dream)
 5. [The Three Stigmata of Palmer Eldritch](books/the-three-stigmata-of-palmer-eldritch)
+6. [The Martian](books/the-martian)
 
 # Voting
 Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) for the first round.
@@ -17,4 +18,3 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 A. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
 B. [The_Day_of_the_Triffids](https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids)
 C. [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue](https://www.goodreads.com/book/show/36681909-conspiracy)
-D. [The Martian](https://www.goodreads.com/book/show/20829029-the-martian)
