@@ -14,3 +14,4 @@
 * Oxygen Not Included
 * Wolfenstein
 * Thumper
+* Dishonoured 2
