@@ -10,3 +10,7 @@
 * Owlboy
 * Nioh
 * Glittermitten Grove
+* Watch Dogs 2
+* Oxygen Not Included
+* Wolfenstein
+* Thumper
