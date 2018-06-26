@@ -10,6 +10,7 @@
 "everyone in sweden is basically autistic in some way or another" - MrLindskog
 "tonight, i'm planning to sit at home and drink videogames" - MrLindskog
 "lindskog is love, lindskog is live" - CheekiBreeki
+"where is marvin, i need him to sing me the spaghetti song" - MrLindskog 26/06/2018
 # Streams
 * https://mixer.com/Lindskog
 * https://www.twitch.tv/mrlindskog
