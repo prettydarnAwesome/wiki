@@ -5,6 +5,7 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 
 Here's a link to [The Copypasta](opporator-idea)
 # Friends
+* [Azalima](azalima)
 * [Ben](ben)
 * [Bruzezeazaly](bruzezeazaly)
 * [Cesque](cesque)
