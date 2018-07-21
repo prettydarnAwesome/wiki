@@ -18,3 +18,4 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 A. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
 B. [The_Day_of_the_Triffids](https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids)
 C. [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue](https://www.goodreads.com/book/show/36681909-conspiracy)
+D. [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
