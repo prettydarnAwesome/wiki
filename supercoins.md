@@ -9,3 +9,4 @@
 
 "I think it's 'court' because you say 'fore' in golf and you have a 'golf court'" - SuperCoins (playing codenames, with the clue "fore")
 "Billow, do you want this entire pillow?" - said to Beasley 30-06-18
+"is supercoins the new bitcoin?" - Diablo 24-07-2018
