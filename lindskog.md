@@ -13,6 +13,9 @@
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
 * "i love lindskog" - Nublar ☂ܟ
+* "Lindskog means. a gay who had sex with a girafe." - Szónikus Zuhany®
+* "Mr.Lindsdog isnt a hacker but he is to good for this game...xD" - Paprika|trade.tf
+*  "tryhard, tryharder, lindskog" - H2O| Call Me Daddy
 
 # Streams
 * https://mixer.com/Lindskog
