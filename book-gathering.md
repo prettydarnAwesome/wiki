@@ -17,6 +17,6 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 
 # Book Suggestions
 A. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
-B. [The_Day_of_the_Triffids](https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids)
+B. [My Lesbian Experience with Loneliness](https://www.goodreads.com/book/show/33113683-my-lesbian-experience-with-loneliness)
 C. [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue](https://www.goodreads.com/book/show/36681909-conspiracy)
-D. [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
+D. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
