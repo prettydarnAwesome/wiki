@@ -11,3 +11,4 @@
 "Billow, do you want this entire pillow?" - said to Beasley 30-06-18
 "is supercoins the new bitcoin?" - Diablo 24-07-2018
 "What if you enjoy sucking coins?" - Marvin 18-08-2018
+"you know what they say: hard bones, hard life" - SuperCoins 31-08-2018
