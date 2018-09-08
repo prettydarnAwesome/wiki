@@ -9,6 +9,7 @@
 * "everyone in sweden is basically autistic in some way or another" - MrLindskog
 * "tonight, i'm planning to sit at home and drink videogames" - MrLindskog
 * "where is marvin, i need him to sing me the spaghetti song" - MrLindskog 26/06/2018
+* "oh no, i'm retarded!" - MrLindskog 08/09/2018
 
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
