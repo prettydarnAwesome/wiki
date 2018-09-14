@@ -15,6 +15,7 @@ oh no here comes huw's face
 "halloumi kabloomi" - huw 21/06/2018
 "anyweed, i'm gonna head off" - huw 26/06/2018
 "Dinkus Weenis" @i63
+"tom internet die again?" - huw 14/09/2018
 
 # Games to play
 * Child of Light
