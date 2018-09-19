@@ -5,3 +5,4 @@
 
 Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "I'm Adam Zaman and welcome to my tent talk" - azalima on tent talk - 22/08/18
+"'Wool'? Do you mean 'Walnut'?"
