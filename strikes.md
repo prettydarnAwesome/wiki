@@ -1,5 +1,5 @@
 <!-- TITLE: Strikes -->
-<!-- SUBTITLE: A quick summary of Strikes -->
+<!-- SUBTITLE: Fast strike times -->
 
 # Arms Dealer
 * **7:51** - Coins, Cesque & Hexi
