@@ -17,6 +17,5 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
-A. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
-B. [The Island of Dr. Moreau](https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau)
-C. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+A. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+B. [The Island of Dr. Moreau](https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau]
