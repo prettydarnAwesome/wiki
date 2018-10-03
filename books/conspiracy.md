@@ -11,3 +11,8 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 | **Beasley** | 4.5/7 |
 | **Zonalhaz** | 5/6 |
 | **Ardam (unfinished)** | 7/13 |
+
+# Votes
+| beat |  |
+| yeet |  |
+| meet |  |
