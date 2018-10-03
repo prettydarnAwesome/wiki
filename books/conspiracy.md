@@ -1,0 +1,10 @@
+<!-- TITLE: Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue -->
+<!-- SUBTITLE: A quick summary of Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue -->
+https://www.goodreads.com/book/show/36681909-conspiracy
+
+# Ratings
+| human | score |
+| --- | --- |
+| **Ben** | 6/10 |
+| **Bruzezeazaly** | 3/6 |
+| **Supercoins** | 3/6 |
