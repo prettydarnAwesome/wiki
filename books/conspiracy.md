@@ -6,7 +6,7 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 | human | score |
 | --- | --- |
 | **Ben** | 6/10 |
-| **Hexi** | 3/6 |
+| **Hexi** | strong  3/5 |
 | **SuperCoins** | 3/6 |
 | **Beasley** | 3/6 |
 | **Zonalhaz** | 3/6 |
