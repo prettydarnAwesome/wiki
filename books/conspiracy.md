@@ -10,4 +10,4 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 | **SuperCoins** | 3/6 |
 | **Beasley** | 3/6 |
 | **Zonalhaz** | 3/6 |
-| **Ardam** | 3/6 |
+| **Ardam (unfinished)** | 3/6 |
