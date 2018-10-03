@@ -7,7 +7,7 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 | --- | --- |
 | **Ben** | 6/10 |
 | **Hexi** | strong  3/5 |
-| **SuperCoins** | 3/6 |
+| **SuperCoins** | 2/6 |
 | **Beasley** | 4.5/7 |
 | **Zonalhaz** | 5/6 |
 | **Ardam (unfinished)** | 7 |
