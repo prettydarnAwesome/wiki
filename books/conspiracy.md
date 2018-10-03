@@ -15,6 +15,6 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 # Votes
 | eet | votes |
 |  --- | --- |
-| **beat** |  |
-| **yeet** |  |
-| **meet** |  |
+| **meet** | II |
+| **beat** | I |
+| **yeet** | III |
