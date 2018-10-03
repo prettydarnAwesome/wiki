@@ -13,6 +13,8 @@ https://www.goodreads.com/book/show/36681909-conspiracy
 | **Ardam (unfinished)** | 7/13 |
 
 # Votes
+| eet | votes |
+|  --- | --- |
 | beat |  |
 | yeet |  |
 | meet |  |
