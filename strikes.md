@@ -8,5 +8,6 @@
 * **6:31** - Coins, Cesque & Zonalhaz
 
 # Warden of Nothing
+* **9:15** - Hexi, Ben & Cesque
 * **9:57** - Coins, Cesque & Zonalhaz
 	* shoutout to tom for pushing the warden off the map :)
