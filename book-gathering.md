@@ -19,3 +19,4 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 # Book Suggestions
 A. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
 B. [The Island of Dr. Moreau](https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau)
+C. [Interview with the Vampire](https://www.goodreads.com/book/show/3720514-interview-with-the-vampire)
