@@ -8,6 +8,7 @@
 * I'll be back in [5 minutes](https://i.ytimg.com/vi/bDQpF92l1vg/maxresdefault.jpg) guys, I just need to make some tea
 * [on being asked what the "toilet paper dog" is] "is that the Durex Dog?" - Hexi 15/8/2019
 * "In for a penny, in for a pounding" - Hexi 19/09/2018 @book club
+* "Dan, what's your favourite shape?" - Hexi 17/10/2018
 
 # Games to play
 * Stanley Parable
