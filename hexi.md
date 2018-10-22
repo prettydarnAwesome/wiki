@@ -9,6 +9,6 @@
 * [on being asked what the "toilet paper dog" is] "is that the Durex Dog?" - Hexi 15/8/2019
 * "In for a penny, in for a pounding" - Hexi 19/09/2018 @book club
 * "Dan, what's your favourite shape?" - Hexi 17/10/2018
-
+* "Do spleebs have spleems?" - Hexi 22/10/2018
 # Games to play
 * Stanley Parable
