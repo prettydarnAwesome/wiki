@@ -13,3 +13,4 @@
 "What if you enjoy sucking coins?" - Marvin 18-08-2018
 "you know what they say: hard bones, hard life" - SuperCoins 31-08-2018
 "wall-mounted cheesecake" - SuperCoins 12-10-2018
+"I'm about to get double horse dicked.. wait... don't quote me on that" - SuperCoins 02/11/2018
