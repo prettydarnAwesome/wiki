@@ -31,3 +31,7 @@ J. [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-re
 K. [The Girl with the Dragon Tattoo](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo)
 L. [Perdido Street Station](https://www.goodreads.com/book/show/68494.Perdido_Street_Station)
 M. [The Color Purple](https://www.goodreads.com/book/show/11486.The_Color_Purple)
+N. [Luck in the Shadows](https://www.goodreads.com/book/show/74270.Luck_in_the_Shadows)
+O. [Aristotle and Dante Discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe)
+P. [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
+Q. [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name)
