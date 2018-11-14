@@ -20,8 +20,7 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 # Book Suggestions
 A. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
 B. [The Island of Dr. Moreau](https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau)
-C. [Iron and Magic](https://www.goodreads.com/book/show/35126152-iron-and-magic?from_choice=true)
+C. [All TheLight We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_choice=true)
 D. [The Ocean at The End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane?from_choice=true)
 E. [Red Clocks](https://www.goodreads.com/book/show/35099035-red-clocks?from_choice=true)
 F. [Circe](https://www.goodreads.com/book/show/35959740-circe?from_choice=true)
-G. [All TheLight We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_choice=true)
