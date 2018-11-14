@@ -24,3 +24,6 @@ C. [All TheLight We Cannot See](https://www.goodreads.com/book/show/18143977-all
 D. [The Ocean at The End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane?from_choice=true)
 E. [Red Clocks](https://www.goodreads.com/book/show/35099035-red-clocks?from_choice=true)
 F. [Circe](https://www.goodreads.com/book/show/35959740-circe?from_choice=true)
+G. [S.](https://www.goodreads.com/book/show/17860739-s)
+H. [Cujo](https://www.goodreads.com/book/show/10603.Cujo)
+I. [Fictions](https://www.goodreads.com/book/show/426504.Ficciones)
