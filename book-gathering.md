@@ -34,3 +34,4 @@ M. [Luck in the Shadows](https://www.goodreads.com/book/show/74270.Luck_in_the_S
 N. [Aristotle and Dante Discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe)
 O. [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
 P. [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name)
+Q. [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city)
