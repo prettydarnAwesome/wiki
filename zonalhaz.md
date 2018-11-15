@@ -16,6 +16,7 @@ oh no here comes huw's face
 "anyweed, i'm gonna head off" - huw 26/06/2018
 "Dinkus Weenis" @i63
 "tom internet die again?" - huw 14/09/2018
+"I dont want him hes a generic kind of hue"-Jane 15/11/2018
 
 # Games to play
 * Child of Light
