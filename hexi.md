@@ -10,5 +10,6 @@
 * "In for a penny, in for a pounding" - Hexi 19/09/2018 @book club
 * "Dan, what's your favourite shape?" - Hexi 17/10/2018
 * "Do spleebs have spleems?" - Hexi 22/10/2018
+* "Hexi [...] is just a nothing person" - Azalima - 17/11/2018
 # Games to play
 * Stanley Parable
