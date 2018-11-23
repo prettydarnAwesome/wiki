@@ -11,3 +11,6 @@
 * **9:15** - Hexi, Ben & Cesque
 * **9:57** - Coins, Cesque & Zonalhaz
 	* shoutout to tom for pushing the warden off the map :)
+
+# Lake of Shadows
+* **5:36** - Zonalhaz, Beasley & Cesque
