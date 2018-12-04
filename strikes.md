@@ -4,8 +4,6 @@
 # Arms Dealer
 * **7:51** - Coins, Cesque & Hexi
 
-# A Garden World
-* **7:21** - Cesque, Zonalhaz & Random
 # Strange Terrain
 * **8:19** - Cesque, Zonalhaz & Random
 # Will of the Thousands
@@ -18,3 +16,6 @@
 
 # Lake of Shadows
 * **5:36** - Zonalhaz, Beasley & Cesque
+
+# Garden World
+* **7:21** - Zonalhaz, Cesque & Random
