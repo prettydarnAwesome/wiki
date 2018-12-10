@@ -20,3 +20,7 @@
 
 # Garden World
 * **7:21** - Zonalhaz, Cesque & Random
+
+# Inverted Spire
+
+	* **7:39** - Zonalhaz, Cesque & Supercoins
