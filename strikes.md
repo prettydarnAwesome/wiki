@@ -23,4 +23,4 @@
 
 # Inverted Spire
 
-	* **7:39** - Zonalhaz, Cesque & Supercoins
+* **7:39** - Zonalhaz, Cesque & Supercoins
