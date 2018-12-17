@@ -30,3 +30,6 @@
 
 # The Corrupted
 * **9:11** - Zonalhaz, Cesque & Supercoins
+
+# Savathun's Song
+* **10:20** - Zonalhaz, Cesque & Supercoins
