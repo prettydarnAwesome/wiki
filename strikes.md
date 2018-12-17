@@ -17,6 +17,7 @@
 
 # Lake of Shadows
 * **5:36** - Zonalhaz, Beasley & Cesque
+* **6:04** - Zonalhaz, Cesque & Supercoins
 
 # Garden World
 * **7:21** - Zonalhaz, Cesque & Random
