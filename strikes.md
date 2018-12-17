@@ -27,3 +27,6 @@
 
 # Infinite Probabilities
 * **9:00** - Zonalhaz, Cesque & Supercoins
+
+# The Corrupted
+* **9:11** - Zonalhaz, Cesque & Supercoins
