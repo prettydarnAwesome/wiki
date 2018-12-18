@@ -23,7 +23,7 @@
 * **7:21** - Zonalhaz, Cesque & Random
 
 # Inverted Spire
-
+* **7:28** - Zonalhaz, Cesque & Supercoins
 * **7:39** - Zonalhaz, Cesque & Supercoins
 
 # Infinite Probabilities
