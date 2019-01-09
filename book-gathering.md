@@ -11,6 +11,7 @@
 7. [Day of the Triffids](books/day-of-the-triffids)
 8. [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue](books/conspiracy)
 9. [Interview with the Vampire](books/interview-with-the-vampire)
+10. [Circe](books/circe)
 
 # Voting
 Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) for the first round.
