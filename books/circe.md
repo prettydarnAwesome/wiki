@@ -14,6 +14,6 @@ https://www.goodreads.com/book/show/35959740-circe
 # Votes
 | eet | votes |
 |  --- | --- |
-| **meet** |  |
-| **beat** |  |
+| **meet** | II |
+| **beat** | III |
 | **yeet** |  |
