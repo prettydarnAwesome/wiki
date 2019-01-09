@@ -19,3 +19,6 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
+1.[The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+2.[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
+3.[The gods of pegana](https://www.goodreads.com/book/show/1138654.The_Gods_of_Pegana)
