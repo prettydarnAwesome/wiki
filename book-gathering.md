@@ -23,3 +23,4 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 2.[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
 3.[The Gods of Pegana](https://www.goodreads.com/book/show/1138654.The_Gods_of_Pegana)
 4.[The Black Tides of Heaven](https://www.goodreads.com/book/show/33099588-the-black-tides-of-heaven)
+5.[The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet)
