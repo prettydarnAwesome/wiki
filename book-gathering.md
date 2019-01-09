@@ -19,20 +19,3 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
-A. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
-B. [The Island of Dr. Moreau](https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau)
-C. [All The Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see?from_choice=true)
-D. [The Ocean at The End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane?from_choice=true)
-E. [Red Clocks](https://www.goodreads.com/book/show/35099035-red-clocks?from_choice=true)
-F. [Circe](https://www.goodreads.com/book/show/35959740-circe?from_choice=true)
-G. [S.](https://www.goodreads.com/book/show/17860739-s)
-H. [Cujo](https://www.goodreads.com/book/show/10603.Cujo)
-I. [Fictions](https://www.goodreads.com/book/show/426504.Ficciones)
-J. [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
-K. [The Girl with the Dragon Tattoo](https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo)
-L. [The Color Purple](https://www.goodreads.com/book/show/11486.The_Color_Purple)
-M. [Luck in the Shadows](https://www.goodreads.com/book/show/74270.Luck_in_the_Shadows)
-N. [Aristotle and Dante Discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe)
-O. [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
-P. [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name)
-Q. [The City & the City](https://www.goodreads.com/book/show/9791714-the-city-the-city)
