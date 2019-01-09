@@ -27,3 +27,4 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 6.[The Magicians' Guild](https://www.goodreads.com/book/show/28249.The_Magicians_Guild)
 7.[The Lord of the Rings: Fellowship of the Ring](https://www.goodreads.com/book/show/13356706-the-fellowship-of-the-ring)
 8.[Luck in the Shadows](https://www.goodreads.com/book/show/9636143-luck-in-the-shadows)
+9.[The Collector](https://www.goodreads.com/book/show/243705.The_Collector)
