@@ -1,6 +1,6 @@
 <!-- TITLE: Circe -->
 <!-- SUBTITLE: A quick summary of Circe -->
-https://www.goodreads.com/book/show/35959740-circe?from_choice=true
+https://www.goodreads.com/book/show/35959740-circe
 
 # Ratings
 | human | score |
