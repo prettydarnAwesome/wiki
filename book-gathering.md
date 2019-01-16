@@ -22,7 +22,7 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 # Book Suggestions
 | Book | votes |
 |  --- | --- |
-| [**The Long Way to a Small, Angry Planet**](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) | IIIII |
+| [**The Long Way to a Small, Angry Planet**](https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-planet) | IIIII |
 | [The Magicians' Guild](https://www.goodreads.com/book/show/28249.The_Magicians_Guild) | IIII |
 | [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) | III |
 | [Oil-rig Road Establishment](https://wiki.darn.games/sammy-the-real-tall-cat) | III |
