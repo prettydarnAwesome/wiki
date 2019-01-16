@@ -1,9 +1,7 @@
 <!-- TITLE: The Long Way To A Small Angry Planet -->
 <!-- SUBTITLE: A quick summary of The Long Way To A Small Angry Planet -->
 https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-planet
-# `[COMING SOON]`
-
-# Ratings
+# Ratings `[COMING SOON]`
 | human | score |
 | --- | --- |
 | **Ben** |  |
@@ -12,7 +10,7 @@ https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-plane
 | **Beasley** |  |
 | **Zonalhaz** |  |
 
-# Votes
+# Votes `[COMING SOON]`
 | eet | votes |
 |  --- | --- |
 | **meet** |  |
