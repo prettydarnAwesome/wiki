@@ -19,14 +19,16 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
-1.[The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
-2.[All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
-3.[The Gods of Pegana](https://www.goodreads.com/book/show/1138654.The_Gods_of_Pegana)
-4.[The Black Tides of Heaven](https://www.goodreads.com/book/show/33099588-the-black-tides-of-heaven)
-5.[The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet)
-6.[The Magicians' Guild](https://www.goodreads.com/book/show/28249.The_Magicians_Guild)
-7.[Oil-rig Road Establishment](https://wiki.darn.games/sammy-the-real-tall-cat)
-8.[The Lord of the Rings: Fellowship of the Ring](https://www.goodreads.com/book/show/13356706-the-fellowship-of-the-ring)
-9.[Luck in the Shadows](https://www.goodreads.com/book/show/9636143-luck-in-the-shadows)
-10.[The Collector](https://www.goodreads.com/book/show/243705.The_Collector)
-11.[1984](https://www.goodreads.com/book/show/3744438-1984)
+| Book | votes |
+|  --- | --- |
+| [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | II |
+| [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) | III |
+| [The Gods of Pegana](https://www.goodreads.com/book/show/1138654.The_Gods_of_Pegana) | II |
+| [The Black Tides of Heaven](https://www.goodreads.com/book/show/33099588-the-black-tides-of-heaven) | III |
+| [The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) | V |
+| [The Magicians' Guild](https://www.goodreads.com/book/show/28249.The_Magicians_Guild) | IV |
+| [Oil-rig Road Establishment](https://wiki.darn.games/sammy-the-real-tall-cat) | III |
+| [The Lord of the Rings: Fellowship of the Ring](https://www.goodreads.com/book/show/13356706-the-fellowship-of-the-ring) | III |
+| [Luck in the Shadows](https://www.goodreads.com/book/show/9636143-luck-in-the-shadows) | II |
+| [The Collector](https://www.goodreads.com/book/show/243705.The_Collector) | I |
+| [1984](https://www.goodreads.com/book/show/3744438-1984) | II |
