@@ -10,3 +10,7 @@
 **Not really a game but**
 	* Use `git` hooks to require you to answer trivia questions every time you wanna execute a command
 	* Preferably 'capitals of the world' trivia
+
+**Wild Pictionary**
+* pictionary but everyone draws their word at the same time AND guesses simultaneously. while they're drawing. everyone does everything at the same time
+* i've no idea how you score this
