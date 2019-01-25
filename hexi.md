@@ -11,5 +11,6 @@
 * "Dan, what's your favourite shape?" - Hexi 17/10/2018
 * "Do spleebs have spleems?" - Hexi 22/10/2018
 * "Hexi [...] is just a nothing person" - Azalima - 17/11/2018
+* "Wasps are like pigeons but flying" - Hexi 25/1/2019
 # Games to play
 * Stanley Parable
