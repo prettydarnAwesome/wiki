@@ -15,3 +15,4 @@
 "wall-mounted cheesecake" - SuperCoins 12-10-2018
 "I'm about to get double horse dicked.. wait... don't quote me on that" - SuperCoins 02/11/2018
 "Hexi, sit on me" - SuperCoins 02/1/2019
+"Bring back the anime." - SuperCoins 10/02/2019
