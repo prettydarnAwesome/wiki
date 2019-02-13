@@ -5,10 +5,10 @@ https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-plane
 | human | score |
 | --- | --- |
 | **Ben** | 6 firm bananas/10 |
-| **Hexi** |  |
-| **SuperCoins** |  |
-| **Beasley** |  |
-| **Zonalhaz** |  |
+| **Hexi** | 3.6/5 |
+| **SuperCoins** | 3/6 |
+| **Beasley** | 4.5/6 |
+| **Zonalhaz** | N/A |
 
 # Votes `[COMING SOON]`
 | eet | votes |
