@@ -4,7 +4,7 @@ https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-plane
 # Ratings
 | human | score |
 | --- | --- |
-| **Ben** | 6 firm bananas/10 |
+| **Ben** | 6 firm bananas/10 firm bananas |
 | **Hexi** | 3.6/5 |
 | **SuperCoins** | 3/6 |
 | **Beasley** | 4.5/6 |
@@ -13,6 +13,6 @@ https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-plane
 # Votes
 | eet | votes |
 |  --- | --- |
-| **meet** |  |
-| **beat** |  |
-| **yeet** |  |
+| **meet** | I |
+| **beat** | I |
+| **yeet** | I |
