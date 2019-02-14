@@ -10,3 +10,4 @@
 * "Silves fucking sucks" - marvin 23:01 - 25/07/2018
 * "BOB will FUCK" - marvin 25/01/2019
 * "I'm a baby :)" - marvin 26/01/2019
+* "[cesque] is trying to steal my spirit pizza >:(" - marvin 14/2/2019
