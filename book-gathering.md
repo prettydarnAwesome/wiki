@@ -26,5 +26,6 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 3. [The Iliad](https://www.goodreads.com/book/show/1133833.The_Iliad)
 4. [Pride and Prejudice](https://www.goodreads.com/book/show/22676094-pride-and-prejudice)
 5. [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein)
+6. [S.](https://www.goodreads.com/book/show/17860739-s)
 
 *[Old suggestions](books/old-suggestions)*
