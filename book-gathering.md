@@ -21,4 +21,8 @@ If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipe
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
 # Book Suggestions
+1. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+2. [The Lord of the Rings: Fellowship of the Ring](https://www.goodreads.com/book/show/13356706-the-fellowship-of-the-ring)
+3. [1984](https://www.goodreads.com/book/show/3744438-1984)
+
 *[Old suggestions](books/old-suggestions)*
