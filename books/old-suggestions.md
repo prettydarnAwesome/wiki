@@ -12,3 +12,9 @@
 1. [Luck in the Shadows](https://www.goodreads.com/book/show/9636143-luck-in-the-shadows)
 1. [1984](https://www.goodreads.com/book/show/3744438-1984)
 1. [The Collector](https://www.goodreads.com/book/show/243705.The_Collector)
+
+## Some other Suggestions Tom was thinking about
+
+1. [The Trial - Franz Kafka](https://www.goodreads.com/book/show/618559.The_Trial)
+1. [Ficciones - Jorge Borges](https://www.goodreads.com/book/show/30713.Ficciones)
+2. 
