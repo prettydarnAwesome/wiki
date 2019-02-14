@@ -27,5 +27,6 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 4. [Pride and Prejudice](https://www.goodreads.com/book/show/22676094-pride-and-prejudice)
 5. [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein)
 6. [S.](https://www.goodreads.com/book/show/17860739-s)
+7. [goodnight punpun](https://www.goodreads.com/book/show/25986929-goodnight-punpun-omnibus-vol-1?from_search=true)
 
 *[Old suggestions](books/old-suggestions)*
