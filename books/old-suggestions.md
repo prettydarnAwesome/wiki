@@ -17,4 +17,5 @@
 
 1. [The Trial - Franz Kafka](https://www.goodreads.com/book/show/618559.The_Trial)
 1. [Ficciones - Jorge Borges](https://www.goodreads.com/book/show/30713.Ficciones)
-2. 
+2. [The Picture of Dorian Gray - Oscar Wilde](https://www.goodreads.com/book/show/1278112.The_Picture_of_Dorian_Gray)
+3. [The Divine Comedy - Dante](https://www.goodreads.com/book/show/6656.The_Divine_Comedy)
