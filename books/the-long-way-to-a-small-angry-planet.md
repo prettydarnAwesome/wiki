@@ -14,5 +14,5 @@ https://www.goodreads.com/book/show/25786523-the-long-way-to-a-small-angry-plane
 | eet | votes |
 |  --- | --- |
 | **meet** | I |
-| **beat** | I |
+| **beat** | II |
 | **yeet** | I |
