@@ -23,7 +23,7 @@ If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/
 # Book Votes
 | Book | Votes |
 | --- | --- |
-| [**1984**](https://www.goodreads.com/book/show/3744438-1984) | IIII |
+| [***1984***](https://www.goodreads.com/book/show/3744438-1984) | IIII |
 | [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein) | III |
 | [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | II |
 | [goodnight punpun](https://www.goodreads.com/book/show/25986929-goodnight-punpun-omnibus-vol-1?from_search=true) | II |
