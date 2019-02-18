@@ -20,13 +20,15 @@ Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) 
 If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipedia.org/wiki/Borda_count).
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
-# Book Suggestions
-1. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
-2. [1984](https://www.goodreads.com/book/show/3744438-1984)
-3. [The Iliad](https://www.goodreads.com/book/show/1133833.The_Iliad)
-4. [Pride and Prejudice](https://www.goodreads.com/book/show/22676094-pride-and-prejudice)
-5. [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein)
-6. [S.](https://www.goodreads.com/book/show/17860739-s)
-7. [goodnight punpun](https://www.goodreads.com/book/show/25986929-goodnight-punpun-omnibus-vol-1?from_search=true)
+# Book Votes
+| Book | Votes |
+| --- | --- |
+| **[1984](https://www.goodreads.com/book/show/3744438-1984)** | IIII |
+| [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein) | III |
+| [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | II |
+| [goodnight punpun](https://www.goodreads.com/book/show/25986929-goodnight-punpun-omnibus-vol-1?from_search=true) | II |
+| [S.](https://www.goodreads.com/book/show/17860739-s) | II |
+| [Pride and Prejudice](https://www.goodreads.com/book/show/22676094-pride-and-prejudice) | II |
+| [The Iliad](https://www.goodreads.com/book/show/1133833.The_Iliad) | I |
 
 *[Old suggestions](books/old-suggestions)*
