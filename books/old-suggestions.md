@@ -10,8 +10,12 @@
 1. [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
 1. [The Gods of Pegana](https://www.goodreads.com/book/show/1138654.The_Gods_of_Pegana)
 1. [Luck in the Shadows](https://www.goodreads.com/book/show/9636143-luck-in-the-shadows)
-1. [1984](https://www.goodreads.com/book/show/3744438-1984)
 1. [The Collector](https://www.goodreads.com/book/show/243705.The_Collector)
+3. [The Iliad](https://www.goodreads.com/book/show/1133833.The_Iliad)
+4. [Pride and Prejudice](https://www.goodreads.com/book/show/22676094-pride-and-prejudice)
+5. [Frankenstein](https://www.goodreads.com/book/show/12974171-frankenstein)
+6. [S.](https://www.goodreads.com/book/show/17860739-s)
+7. [goodnight punpun](https://www.goodreads.com/book/show/25986929-goodnight-punpun-omnibus-vol-1?from_search=true)
 
 ## Some other Suggestions Tom was thinking about
 
