@@ -17,6 +17,7 @@ oh no here comes huw's face
 "Dinkus Weenis" @i63
 "tom internet die again?" - huw 14/09/2018
 "I dont want him hes a generic kind of hue" - jane 15/11/2018
+"horses aren't continuous, horses are discrete" - huw 29/2/2019
 
 # Games to play
 * Child of Light
