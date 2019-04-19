@@ -23,3 +23,6 @@ Click one of the above buddies to go find out information about them!
 * [Group games we should play](to-play)
 * [Book Gathering](book-gathering)
 * [Game ideas](game-ideas)
+
+# Finally
+<img src="https://cesque.com/storage/19/04/19/unknown.png">
