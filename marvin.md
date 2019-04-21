@@ -13,3 +13,4 @@
 * "[cesque] is trying to steal my spirit pizza >:(" - marvin 14/2/2019
 * "you can drink horses" - marvin 28/2/2019
 * "everything i've ever learned stayed in my brain" - marvin 21/4/2019
+* "did you say 'Smegma Tuesday'?" - marvin 21/4/2019
