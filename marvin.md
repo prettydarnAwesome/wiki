@@ -15,3 +15,4 @@
 * "everything i've ever learned stayed in my brain" - marvin 21/4/2019
 * "did you say 'Smegma Tuesday'?" - marvin 21/4/2019
 * "when i go into a restaurant and ask for water and they give me bad water i say 'DO YOU KNOW WHO I AM????'" - marvin "good water" dobro vodski 21/4/2019
+* "i'm googling 'scout tf2 shit and cum'" - marvin 23/4/2019
