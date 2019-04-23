@@ -24,5 +24,5 @@ Click one of the above buddies to go find out information about them!
 * [Book Gathering](book-gathering)
 * [Game ideas](game-ideas)
 
-# Finally
+# Discord rules
 ![](https://cesque.com/storage/19/04/23/443317308873.png)
