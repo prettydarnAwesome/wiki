@@ -4,6 +4,8 @@
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
 Here's a link to [The Copypasta](opporator-idea)
+
+![](https://cesque.com/storage/19/04/23/443317308873.png)
 # Friends
 * [Azalima](azalima)
 * [Ben](ben)
