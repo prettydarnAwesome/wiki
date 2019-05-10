@@ -8,7 +8,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "you know what they say: right brain, right ball" - cesque 27/06/2018
 * "what a whiny baby daniel james" - Hexi 8/19/2018
 * "Dinkus Weenis" @i63
-* "You can't just put things into a teapot" - cesque 09/05/2019
+* "You can't just put things into a teapot" - cesque 09/05/2019 (topology was destroyed)
 # Brand Guidelines
 Aside from some exceptions which will be shortly mentioned, cesque's username should always be written in all lowercase (e.g. **cesque**). This includes situations where capitals would be more appropriate - for example, starting a sentence:
 
