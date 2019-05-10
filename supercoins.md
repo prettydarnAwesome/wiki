@@ -17,3 +17,4 @@
 "Hexi, sit on me" - SuperCoins 02/1/2019
 "Bring back the anime." - SuperCoins 10/02/2019
 "People are like chickens of the city" - SuperCoins 5/10/2019
+"you choose to eat, you get beat!" - Bjorg 10/05/2019
