@@ -7,9 +7,9 @@ oh no here comes huw's face
 <marquee>huw's face</marquee>
 
 # Stats
-* length: medium
-* thickness: chunky
-* color: yellow
+* **length**: medium
+* **thickness**: chunky
+* **color**: yellow
 
 # Quotes
 "i feel like huw has been permanently squished" - cesque 31/05/2018
