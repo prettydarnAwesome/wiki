@@ -30,7 +30,8 @@
 * **7:28** - Zonalhaz, Cesque & Supercoins
 * **7:39** - Zonalhaz, Cesque & Supercoins
 
-# Infinite Probabilities
+# Tree of Probabilities
+* **8:18** - Zonalhaz, Cesque & Hexi
 * **9:00** - Zonalhaz, Cesque & Supercoins
 
 # The Corrupted
