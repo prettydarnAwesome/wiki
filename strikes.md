@@ -31,6 +31,7 @@
 * **7:39** - Zonalhaz, Cesque & Supercoins
 
 # Tree of Probabilities
+* **7:31** - Zonalhaz, Cesque & Hexi
 * **8:18** - Zonalhaz, Cesque & Hexi
 * **9:00** - Zonalhaz, Cesque & Supercoins
 
