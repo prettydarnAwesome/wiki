@@ -17,3 +17,12 @@
 * "i think [beasley](beasley) is always pushing an agenda" - Hexi 10/3/2019
 # Games to play
 * Stanley Parable
+
+# XCOM kill list
+* Ben Beasley clone kill count                    1
+* Daniel Beasley clone kill count                1
+* Matej Dobrovdski clone kill count           
+* Huw Talis clone kill count                        1
+* Daniel James clone kill count                   
+* Thomas Forde clone kill count                0
+* Jak Barnes clone kill count                      0
