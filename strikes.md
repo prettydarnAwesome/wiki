@@ -5,6 +5,7 @@
 * **7:51** - Coins, Cesque & Hexi
 
 # Strange Terrain
+* **4:54** - Cesque, Zonalhaz & Hexi
 * **6:46** - Cesque, Zonalhaz & Hexi
 * **8:17** - Cesque, Zonalhaz & Hexi
 * **8:19** - Cesque, Zonalhaz & Random
