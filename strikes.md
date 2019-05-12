@@ -5,6 +5,7 @@
 * **7:51** - Coins, Cesque & Hexi
 
 # Strange Terrain
+* **8:17** - Cesque, Zonalhaz & Hexi
 * **8:19** - Cesque, Zonalhaz & Random
 # Will of the Thousands
 * **6:31** - Coins, Cesque & Zonalhaz
