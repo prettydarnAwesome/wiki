@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Fast strike times -->
 
 # Arms Dealer
+* **7:42** - Zonalhaz, Cesque & Hexi
 * **7:51** - Coins, Cesque & Hexi
 
 # Strange Terrain
