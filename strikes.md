@@ -13,6 +13,7 @@
 * **6:31** - Coins, Cesque & Zonalhaz
 
 # Warden of Nothing
+* **8:50** - Zonalhaz, Cesque & Hexi
 * **9:09** - Zonalhaz, Cesque & Hexi
 * **9:09** - Zonalhaz, Cesque & Random
 * **9:15** - Hexi, Ben & Cesque
