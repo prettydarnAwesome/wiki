@@ -36,4 +36,4 @@
 * **10:20** - Zonalhaz, Cesque & Supercoins
 
 # Exodus Crash
-* **7:52** - Zonalhaz, Cesque, Hexi
+* **7:52** - Zonalhaz, Cesque & Hexi
