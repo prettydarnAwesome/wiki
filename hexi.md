@@ -22,8 +22,8 @@
 # XCOM kill list
 * Ben Beasley clone kill count                    1
 * Daniel Beasley clone kill count                1
-* Matej Dobrovdski clone kill count           
+* Marvin clone kill count                            1     
 * Huw Talis clone kill count                        1
-* Daniel James clone kill count                   
+* Daniel James clone kill count                  0  
 * Thomas Forde clone kill count                0
 * Jak Barnes clone kill count                      0
