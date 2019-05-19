@@ -18,3 +18,4 @@
 "Bring back the anime." - SuperCoins 10/02/2019
 "People are like chickens of the city" - SuperCoins 10/5/2019
 "you choose to eat, you get beat!" - Bjorg 10/05/2019
+"okay, imagine someone ships you a box full of packing peanuts, except they're teeth: if you punch the teeth repeatedly, is your hand being chewed?" - SuperCoins 19/5/2019
