@@ -14,7 +14,7 @@
 * "Wasps are like pigeons but flying" - Hexi 25/01/2019
 * "this idiot bird ninja just did economic imbroglio" - Hexi 26/01/2019
 * "I'm ok with getting somebody's sloppy secodnds" - Hexi 24/02/2019
-* "i think [beasley](beasley) is always pushing an agenda" - Hexi 10/3/2019
+* "i think [beasley](bruzezeazaly) is always pushing an agenda" - Hexi 10/3/2019
 * "i love this instant chicken" - Hexi 19/5/2019
 # Games to play
 * Stanley Parable
