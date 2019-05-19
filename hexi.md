@@ -23,7 +23,7 @@
 * Ben Beasley clone kill count                    1
 * Daniel Beasley clone kill count                1
 * Marvin clone kill count                            1     
-* Huw Talis clone kill count                        1
+* Huw Talliss clone kill count                      2
 * Daniel James clone kill count                  0  
 * Thomas Forde clone kill count                0
 * Jak Barnes clone kill count                      0
