@@ -4,8 +4,8 @@
 * "churros are German, right?" - Jak
 * "scroll tango salve mango" - a beautiful poem by our friend Jak 21/06/2018
 * "i just bought nose-cancelling headphones" - Jak 26/09/2018
-* "fish are like chickens of the sea" - Jak 5/10/2019
-* "bats are like chickens of the cave" - Jake 5/10/2019
+* "fish are like chickens of the sea" - Jak 10/5/2019
+* "bats are like chickens of the cave" - Jake 10/5/2019
 
 # Games That Jak Should Play
 * hyper light drifter
