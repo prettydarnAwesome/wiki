@@ -18,3 +18,4 @@
 * "i'm googling 'scout tf2 shit and cum'" - marvin 23/4/2019
 * "i feel like anything that comes into contact with your teeth is being chewed" - marvin 19/5/2019
 * "marvin is just a virtual entity" - SuperCoins 23/5/2019
+* "marvin fucking bingo" - marvin 24/5/2019
