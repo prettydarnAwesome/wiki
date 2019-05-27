@@ -1,5 +1,5 @@
 <!-- TITLE: Azalima -->
-<!-- SUBTITLE: A quick summary of Azalima -->
+<!-- SUBTITLE: a very blursed boy -->
 
 # Quotes
 
