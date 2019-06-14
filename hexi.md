@@ -16,6 +16,7 @@
 * "I'm ok with getting somebody's sloppy secodnds" - Hexi 24/02/2019
 * "i think [beasley](bruzezeazaly) is always pushing an agenda" - Hexi 10/3/2019
 * "i love this instant chicken" - Hexi 19/5/2019
+* "i want to marry a japanese guy and have him pass all his japanese cooking tips on to me" - Hexi 14/6/2019
 # Games to play
 * Stanley Parable
 
