@@ -19,3 +19,4 @@
 * "i feel like anything that comes into contact with your teeth is being chewed" - marvin 19/5/2019
 * "marvin is just a virtual entity" - SuperCoins 23/5/2019
 * "marvin fucking bingo" - marvin 24/5/2019
+* "go eat a plum, dummy" - marvin 17/6/2019
