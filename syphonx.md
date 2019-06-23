@@ -6,6 +6,7 @@
 * "i just bought nose-cancelling headphones" - Jak 26/09/2018
 * "fish are like chickens of the sea" - Jak 10/5/2019
 * "bats are like chickens of the cave" - Jake 10/5/2019
+* "I was going to say something about testicles, but i stopped myself" - jake w/o e 22/06/2019
 
 # Games That Jak Should Play
 * hyper light drifter
