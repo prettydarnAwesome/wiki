@@ -42,6 +42,7 @@
 
 # Savathun's Song
 * **10:20** - Zonalhaz, Cesque & Supercoins
+* **8:34** - Hexi, Cesque & Random
 
 # Exodus Crash
 * **7:52** - Zonalhaz, Cesque & Hexi
