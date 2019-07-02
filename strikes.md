@@ -41,6 +41,9 @@
 # The Corrupted
 * **9:11** - Zonalhaz, Cesque & Supercoins
 
+# Insight Terminus
+* **7:12** - Zonalhaz, Cesque & Hexi
+
 # Savathun's Song
 * **8:23** - Hexi, Cesque & Zonalhaz
 * **8:34** - Hexi, Cesque & Random
