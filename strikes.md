@@ -26,6 +26,7 @@
 * **6:04** - Zonalhaz, Cesque & Supercoins
 
 # Garden World
+* **6:37** - Zonalhaz, Cesque & Hexi
 * **7:21** - Zonalhaz, Cesque & Random
 
 # Inverted Spire
