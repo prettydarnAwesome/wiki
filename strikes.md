@@ -45,6 +45,7 @@
 * **7:12** - Zonalhaz, Cesque & Hexi
 
 # Savathun's Song
+* **7:28** - Hexi, Cesque & Zonalhaz
 * **8:23** - Hexi, Cesque & Zonalhaz
 * **8:34** - Hexi, Cesque & Random
 * **10:20** - Zonalhaz, Cesque & Supercoins
