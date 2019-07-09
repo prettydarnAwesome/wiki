@@ -9,3 +9,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "I don't think shitting your pants is yoga" - ardam 27/05/2019
 "oh dude then you'd have Zeno's Dick" - ardam 27/05/2019
 "Oh man this is sick, i wish i was a jew!" - ardam 29/05/2019
+"why are all these vegetables boneless" - ardam 09/07/2019
