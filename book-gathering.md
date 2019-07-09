@@ -13,7 +13,7 @@
 9. [Interview with the Vampire](books/interview-with-the-vampire)
 10. [Circe](books/circe)
 11. [The Long Way to a Small, Angry Planet](books/the-long-way-to-a-small-angry-planet)
-12. [1984](/books/1984) `In Progress`
+12. [1984](/books/1984)
 
 # Voting
 Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) for the first round.
