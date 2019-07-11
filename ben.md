@@ -1,5 +1,5 @@
-<!-- TITLE: (Boneless) Ben -->
-<!-- SUBTITLE: he's boneless -->
+<!-- TITLE: Ben -->
+<!-- SUBTITLE: **(boneless)** -->
 
 # Quotes
 "Who is [Ben](Ben)?" - Ben, probably every day since the beginning of time
