@@ -10,3 +10,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "oh dude then you'd have Zeno's Dick" - ardam 27/05/2019
 "Oh man this is sick, i wish i was a jew!" - ardam 29/05/2019
 "why are all these vegetables boneless" - ardam 09/07/2019
+"I'm not a lawyer, I'm just an idiot you've invited into your house." - ardam 14/07/2019
