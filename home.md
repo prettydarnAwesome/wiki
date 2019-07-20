@@ -3,7 +3,7 @@
 
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
-## CLAN OF NABS
+<p style="font-size: 3rem; font-weight: bold">CLAN OF NABS</p>
 
 Here's a link to [The Copypasta](opporator-idea)
 # Friends
