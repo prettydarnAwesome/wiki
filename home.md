@@ -24,6 +24,8 @@ Click one of the above buddies to go find out information about them!
 
 ![741434174808](/uploads/741434174808.png "741434174808")
 
+<p style="font-size: 0.75rem">https://twitter.com/IanZell/status/1152663246698139655</p>
+
 # Other stuff
 
 * [Group games we should play](to-play)
