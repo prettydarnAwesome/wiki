@@ -22,6 +22,8 @@ Here's a link to [The Copypasta](opporator-idea)
 
 Click one of the above buddies to go find out information about them!
 
+![741434174808](/uploads/741434174808.png "741434174808")
+
 # Other stuff
 
 * [Group games we should play](to-play)
