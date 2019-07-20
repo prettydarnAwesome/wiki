@@ -4,6 +4,7 @@
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
 <p style="font-size: 3rem; font-weight: bold">CLAN OF NABS</p>
+
 (𝟑 𝐍𝐀𝐁𝐒)
 
 Here's a link to [The Copypasta](opporator-idea)
