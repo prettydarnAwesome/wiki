@@ -3,6 +3,8 @@
 
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
+## CLAN OF NABS
+
 Here's a link to [The Copypasta](opporator-idea)
 # Friends
 * [Azalima](azalima)
