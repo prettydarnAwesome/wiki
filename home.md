@@ -22,7 +22,7 @@ Here's a link to [The Copypasta](opporator-idea)
 
 Click one of the above buddies to go find out information about them!
 
-![741434174808](/uploads/741434174808.png "741434174808")
+![741434174808](https://cesque.com/storage/19/07/21/114224542388.png)
 
 <p style="font-size: 0.75rem">source: <a href="https://twitter.com/IanZell/status/1152663246698139655">https://twitter.com/IanZell/status/1152663246698139655</a></p>
 
