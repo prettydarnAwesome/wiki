@@ -20,3 +20,4 @@
 * "marvin is just a virtual entity" - SuperCoins 23/5/2019
 * "marvin fucking bingo" - marvin 24/5/2019
 * "go eat a plum, dummy" - marvin 17/6/2019
+* "(aggressively) are you talking about chickpeas!!??" - marvin 21/7/2019
