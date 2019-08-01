@@ -33,6 +33,7 @@ oh no here comes huw's face
 "oh, i am currently [beasley](bruzezeazaly)" - huw 15/6/2019
 "mouth time" - huw 15/6/2019
 "why do people have legs!? i hate legs!" - huw 16/6/2019
+"why do all the good people go mad :(" - huw 1/8/2019
 
 # Games to play
 * Child of Light
