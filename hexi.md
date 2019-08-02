@@ -19,6 +19,7 @@
 * "i want to marry a japanese guy and have him pass all his japanese cooking tips on to me" - Hexi 14/6/2019
 * "give me powerful head!" - Hexi 11/7/2019
 * "there is nothing on my brain and i'm thinking about nothing" - Hexi 28/7/2019
+* "i like the concept of Jeff" - Hexi 3/8/2019
 # Games to play
 * Stanley Parable
 
