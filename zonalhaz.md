@@ -10,7 +10,7 @@ oh no here comes huw's face
 * **thickness**: chunky
 * **color**: yellow
 
-[](https://cesque.com/storage/19/08/03/486301074883.png)
+![](https://cesque.com/storage/19/08/03/486301074883.png)
 # Quotes
 "i feel like huw has been permanently squished" - cesque 31/05/2018
 "dan only says true things" - huw 11/11/2016 
