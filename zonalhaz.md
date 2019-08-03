@@ -5,12 +5,12 @@ When huw was a boy his father said to him "with those instruments you will never
 
 oh no here comes huw's face
 <marquee>huw's face</marquee>
-
 # Stats
 * **length**: medium
 * **thickness**: chunky
 * **color**: yellow
 
+[](https://cesque.com/storage/19/08/03/486301074883.png)
 # Quotes
 "i feel like huw has been permanently squished" - cesque 31/05/2018
 "dan only says true things" - huw 11/11/2016 
@@ -39,7 +39,6 @@ oh no here comes huw's face
 * Child of Light
 * INSIDE
 * ~~Watch Dogs 2~~
-
 # Finally
 
 ![](https://cesque.com/storage/19/04/19/unknown.png)
