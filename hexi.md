@@ -20,6 +20,7 @@
 * "give me powerful head!" - Hexi 11/7/2019
 * "there is nothing on my brain and i'm thinking about nothing" - Hexi 28/7/2019
 * "i like the concept of Jeff" - Hexi 3/8/2019
+* (after a long silence) "alright huw, guess my internal body temperature :)" - Hexi 8/8/2019
 # Games to play
 * Stanley Parable
 
