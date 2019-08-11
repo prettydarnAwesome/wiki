@@ -5,7 +5,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 
 ![](https://cesque.com/storage/19/08/11/566210127885.png)
 # Quotes
-* Swedish sounds like a \_____ speaking English
+* Swedish sounds like an idiot speaking English
 * I really want tea tonight, but i can't be bothered to make it
 * "you know what they say: right brain, right ball" - cesque 27/06/2018
 * "what a whiny baby daniel james" - Hexi 8/19/2018
