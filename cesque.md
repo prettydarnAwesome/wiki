@@ -2,6 +2,8 @@
 <!-- SUBTITLE: huw didnt make me a page :( -->
 
 Look here for games: [Games to Play](cesque/games-to-play)
+
+![](https://cesque.com/storage/19/08/11/566210127885.png)
 # Quotes
 * Swedish sounds like a retard speaking English
 * I really want tea tonight, but i can't be bothered to make it
