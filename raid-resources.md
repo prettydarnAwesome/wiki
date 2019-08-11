@@ -1,6 +1,10 @@
 <!-- TITLE: Raid Resources -->
 <!-- SUBTITLE: Use these things to help you do raids and dungeons in Destiny 2 -->
 
+# Zero Hour
+
+https://docs.google.com/spreadsheets/d/18o0jOWXKCMmmtKiU2YsBdrOoUBD-tD21bycy-Ydtw3s/edit#gid=1184087756
+
 # Scourge of the Past
 ![](https://cesque.com/storage/19/08/06/031266214624.png)
 
