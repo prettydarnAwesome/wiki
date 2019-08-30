@@ -31,14 +31,14 @@
 •	Chopped Tomatoes – **boneless** (400g)
 
 ### Method
-1.	Preheat oven to 200 degree Celsius (fan oven)
-2.	Get an ovenproof dish
-3.	Chop Onion into wedges, quarter tomatoes, quarter the sweet potato. Put them in the oven proof dish
-4.	Put sea salt and black pepper on it and turn before putting in oven for 20 mins
+1.	Preheat oven to 200 degree Celsius (boneless fan oven)
+2.	Get an ovenproof boneless dish
+3.	Chop Onion into boneless wedges, quarter tomatoes, quarter the sweet potato. Put them in the oven proof dish
+4.	Put sea salt and boneless black pepper on it and turn before putting in oven for 20 mins
 5.	Whilst roasting, thinly slice chicken in ½ cm slices
 6.	Mix up the oregano, paprika and smoked paprika
-7.	Slash the chicken pieces 2 or 3 times with a knife
-8.	Place chicken over the vegetables and sprinkle the spice mix over, combining it with the mixture there
-9.	Cook for another 20 mins until the chicken is golden and the peppers are soft
-10.	Mix the Natural Yoghurt (don’t do this jane) with the full lime’s juice and a pinch of sea salt
+7.	Slash the chicken pieces 2 or 3 times with a boneless knife
+8.	Place chicken over the vegetables and sprinkle the boneless spice mix over, combining it with the mixture there
+9.	Cook for another 20 mins until the chicken is golden and the peppers are soft and boneless
+10.	Mix the Natural Yoghurt (don’t do this jane) with the full boneless lime’s juice and a pinch of sea salt
 11.	Serve together
