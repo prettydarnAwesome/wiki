@@ -1,5 +1,5 @@
 <!-- TITLE: Bruzezeazaly -->
-<!-- SUBTITLE: A quick summary of Bruzezeazaly -->
+<!-- SUBTITLE: HE'S NEVER AROUND :( -->
 
 # Quotes
 "Yes, I'm [Ādam](azalima)" - beasley
