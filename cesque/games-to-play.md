@@ -6,13 +6,13 @@ All of these games could potentially be streamed, but some are better candidates
 
 * finish The Witcher 3
   *by popular request*
-* High Hell
+* ~~High Hell~~
 * Prime Mover
   *already played some of this and its hard as fuck so i need help*
-* Wasted
+* ~~Wasted~~
 * Lonely Planet Arcade
-* Everything
-* Necrosphere
+* ~~Everything~~
+* ~~Necrosphere~~
 * Desync
 * Aer: Memories of Old
 * maybe System Shock/System Shock 2?
