@@ -11,4 +11,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "Oh man this is sick, i wish i was a jew!" - ardam 29/05/2019
 "why are all these vegetables boneless" - ardam 09/07/2019
 "I'm not a lawyer, I'm just an idiot you've invited into your house." - ardam 14/07/2019
-"ardam would get railed because he's brown" - Zonalhaz 9/1/2019
+"ardam would get railed because he's brown" - Zonalhaz 1/9/2019
