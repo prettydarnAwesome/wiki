@@ -1,6 +1,8 @@
 <!-- TITLE: Game Ideas -->
 <!-- SUBTITLE: A list of all the game ideas we've ever had -->
 
+![https://cesque.com/storage/19/09/22/413547370633.png]()
+
 # Ideas
 **Language RPG game??**
 	* It's coop like journey (as in you can't choose who to play with).
