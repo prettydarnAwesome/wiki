@@ -20,4 +20,4 @@
 "you choose to eat, you get beat!" - Bjorg 10/05/2019
 "okay, imagine someone ships you a box full of packing peanuts, except they're teeth: if you punch the teeth repeatedly, is your hand being chewed?" - SuperCoins 19/5/2019
 "this is like hard paper?" - supercoins 12/07/2019
-"Holy Granoli! That's like the opposite of Halloumi Kabloomi" - supercoins 28/09/2019
+"Holy Granoli? That's like the opposite of Halloumi Kabloomi" - supercoins 28/09/2019
