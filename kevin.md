@@ -9,8 +9,6 @@
 
 #### Kevin
 
-##### Kevin
-
 **Kevin**
 
 *Kevin*
