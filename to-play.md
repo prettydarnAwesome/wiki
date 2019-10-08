@@ -10,15 +10,15 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 * Stellaris
 * Crusader Kings 2
 * Divinity: Original Sin 2
-* No Man's Sky (when multiplayer update hits)
+* No Man's Sky
 * Get people to get the Hunter game
 * Keep talking and someone will die of natural causes (also explosions)
 * [Raft](https://store.steampowered.com/app/648800/Raft/)
 * Titan Quest (Anniversary Edition)
 * [Barony](https://store.steampowered.com/app/371970/Barony/) - apparently 4 player co-op is good fun
 * Toribash (it's free to play!)
-* The Division
-* The Room 2 & 3
+* The Division 2
+* The Room ~~2 &~~ 3
 * Scrap Mechanic
 
 
@@ -43,4 +43,3 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 * Northguard
 * Tricky Towers
 * Open TTD
-* 
