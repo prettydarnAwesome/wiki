@@ -10,12 +10,16 @@
 
 # Games That Jak Should Play
 * hyper light drifter
+* hollow knight
 * system shock 2
 * Momodora: Reverie Under the Moonlight
 * glittermitten grove
+* hollow knight
 * furi
 * fez
 * dark souls
+* hollow
+* knight
 * crusader kings 2
 * defcon
 * cave story
