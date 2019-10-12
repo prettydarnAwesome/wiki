@@ -39,6 +39,7 @@ oh no here comes huw's face
 "fucks sack" - huw 1/10/2019
 "tom you're denting my brain" - huw 4/10/2019
 "alright, time for leg" - 6/10/2019
+"Tom, you're allowed to sleep with anyone you want" - 12/10/2019
 
 # Games to play
 * Child of Light
