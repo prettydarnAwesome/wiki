@@ -22,3 +22,4 @@
 * "go eat a plum, dummy" - marvin 17/6/2019
 * "(aggressively) are you talking about chickpeas!!??" - marvin 21/7/2019
 * "look at this bear! oh its a pig" - marvin - 28/9/2019
+* "i think if it's a life and death situation, i could have sex with a porn star" - marvin 13/10/2019
