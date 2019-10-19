@@ -12,3 +12,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "why are all these vegetables boneless" - ardam 09/07/2019
 "I'm not a lawyer, I'm just an idiot you've invited into your house." - ardam 14/07/2019
 "ardam would get railed because he's brown" - Zonalhaz 1/9/2019
+"what does it mean when the reddish diagonal crosshairs merge to reddish-white when through the objects?" - ardam 20/10/2019
