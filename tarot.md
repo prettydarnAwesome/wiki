@@ -33,7 +33,7 @@ https://shopamritbrar.com/collections/catalogue/products/the-marigold-tarot-clas
 # Kawaii Tarot
 https://www.amazon.co.uk/Kawaii-Tarot-78-Card-Deck-Magic/dp/1454929073
 
-<img src=https://cesque.com/storage/19/10/21/532116835226.jpg width=500px>
+<img src=https://cesque.com/storage/19/10/21/004472812458.png width=500px>
 
 # True Black Tarot
 https://trueblacktarot.com/new-page
