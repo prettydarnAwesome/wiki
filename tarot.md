@@ -40,6 +40,115 @@ https://trueblacktarot.com/new-page
 
 <img src=https://cesque.com/storage/19/10/21/043776827023.png width=500px>
 
+# Chris Russo's Tarot
+https://chrisrussodraws.bigcartel.com/product/tarot-deck
+
+<img src=https://chrisrussodraws.bigcartel.com/product/tarot-deck width=500px>
+
+# The Shapeshifting Detective Mercury Tarot
+https://www.amazon.co.uk/The-Shapeshifting-Detective-Mercury-Tarot/dp/B07JBWRY73
+
+<img src=https://cesque.com/storage/19/10/21/877535663807.jpg width=500px>
+
+# Golden Thread Tarot
+https://labyrinthos.co/products/golden-thread-tarot-deck-cards (also has a Lenormand deck)
+(and also a really nice cloth)
+
+<img src=https://cesque.com/storage/19/10/21/447806378102.png width=500px>
+
+# Luminous Spirit Tarot
+https://labyrinthos.co/collections/all/products/luminous-spirit-tarot-deck-holographic-tarot-cards
+
+<img src=https://cesque.com/storage/19/10/21/762841328010.jpg width=500px>
+
+# Seventh Sphere Tarot
+https://labyrinthos.co/collections/all/products/seventh-sphere-tarot-deck-modern-tarot-de-marseille-rose-gold (also has a Lenormand deck)
+
+<img src=https://cesque.com/storage/19/10/21/057108381832.png width=500px>
+
+# Arcana Iris Sacra Tarot
+https://labyrinthos.co/collections/all/products/arcana-iris-sacra-tarot-deck-cards
+
+<img src=https://cesque.com/storage/19/10/21/266573657321.png width=500px>
+
+# Joe Sparrow Tarot
+https://joesparrow.bigcartel.com/product/complete-tarot-deck-major-minor-arcana
+
+<img src=https://cesque.com/storage/19/10/21/220124255438.png width=500px>
+
+# Shadow Light Tarot
+https://wakingcanvas.myshopify.com/collections/all/products/shadow-light-tarot-deck
+
+<img src=https://cesque.com/storage/19/10/21/673553257651.png width=500px>
+
+# Wander Light Tarot
+https://wakingcanvas.myshopify.com/collections/all/products/wander-light-tarot (tiny baby cards)
+
+<img src=https://cesque.com/storage/19/10/21/467317177635.png width=500px>
+
+# Synesthesia Tarot
+https://www.etsy.com/uk/listing/710570444/synesthesia-tarot-78-card-tarot-deck
+
+<img src=https://cesque.com/storage/19/10/21/881503244562.png width=500px>
+
+# Small Mysteries Tarot
+https://www.etsy.com/uk/listing/563080825/pre-order-the-small-mysteries-tarot-deck
+
+<img src=https://cesque.com/storage/19/10/21/346807301738.png width=500px>
+
+# Mystic Mondays Tarot
+https://mysticmondays.com/ (get it on amazon!)
+
+<img src=https://cesque.com/storage/19/10/21/777883302362.png width=500px>
+
+# Everyday Tarot
+https://www.amazon.co.uk/Everyday-Tarot-Mini-Deck/dp/0762492791 (so cheap!)
+
+<img src=https://cesque.com/storage/19/10/21/412685728758.jpg width=500px>
+
+# Stardust Tarot
+https://shop.spacedelirium.com/product/stardust-a-minimalist-tarot-deck
+
+<img src=https://cesque.com/storage/19/10/21/016880406621.png width=500px>
+
+# Stardust Mini Tarot
+https://shop.spacedelirium.com/product/stardust-mini (small boy cards)
+
+<img src=https://cesque.com/storage/19/10/21/807621883677.png width=500px>
+
+# Spacious Tarot
+https://littleredtarot.com/product/spacious-tarot/ (not released yet)
+
+<img src=https://cesque.com/storage/19/10/21/656416501822.png width=500px>
+
+# Le Tarot Tricolore
+https://www.etsy.com/uk/listing/718053881/le-tarot-tricolore
+
+<img src=https://cesque.com/storage/19/10/21/378204282125.jpg width=500px>
+
+<hr>
+
+# **ORACLE DECKS**
+
+# Supra Oracle
+https://uusi.us/collections/viewall/products/supra-oracle
+
+<img src=https://cesque.com/storage/19/10/21/137448466720.jpg width=500px>
+
+# Prism Oracle
+https://www.herbivorebotanicals.com/products/prism-oracle-deck-iris-eyes
+
+<img src=https://cesque.com/storage/19/10/21/736136172066.png width=500px>
+
+
+
+
+
+
+
+
+
+
 
 
 
