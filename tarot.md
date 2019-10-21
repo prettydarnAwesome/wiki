@@ -151,7 +151,10 @@ https://www.herbivorebotanicals.com/products/prism-oracle-deck-iris-eyes
 
 <img src=https://cesque.com/storage/19/10/21/736136172066.png width=500px>
 
+# Enchanted Woods Lenormand
+https://www.etsy.com/uk/listing/481638088/enchanted-woods-lenormand-oracle-deck
 
+<img src=https://cesque.com/storage/19/10/21/118458700712.png width=500px>
 
 
 
