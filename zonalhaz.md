@@ -38,8 +38,9 @@ oh no here comes huw's face
 "dan just keep walking and i’ll treat you like a turtle" - huw 22/9/2019
 "fucks sack" - huw 1/10/2019
 "tom you're denting my brain" - huw 4/10/2019
-"alright, time for leg" - 6/10/2019
-"Tom, you're allowed to sleep with anyone you want" - 12/10/2019
+"alright, time for leg" - huw 6/10/2019
+"Tom, you're allowed to sleep with anyone you want" - huw 12/10/2019
+"it's bandit time" - huw 26/10/2019
 
 # Games to play
 * Child of Light
