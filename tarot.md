@@ -1,6 +1,12 @@
 <!-- TITLE: Tarot -->
 <!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
 
+# SVNDDLSNTS Tarot
+https://svnddlsnts.bigcartel.com/product/tarot-deck
+not available yet!
+
+<img src=https://cesque.com/storage/19/11/02/762167626841.png width=500px>
+
 # Light Visions
 
 https://www.jamesreadsmerch.com/products/the-light-visions-tarot-deck-second-edition
