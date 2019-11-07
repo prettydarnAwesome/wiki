@@ -13,6 +13,5 @@ https://docs.google.com/spreadsheets/d/18o0jOWXKCMmmtKiU2YsBdrOoUBD-tD21bycy-Ydt
 ![](https://cesque.com/storage/19/08/06/517372573346.png)
 
 # Pit of Heresy
-
-![](https://cesque.com/storage/19/11/07/828216022435.png)
-![](https://cesque.com/storage/19/11/07/106157143841.png)
+<img src=https://cesque.com/storage/19/11/07/828216022435.png width=600>
+<img src=https://cesque.com/storage/19/11/07/106157143841.png width=600>
