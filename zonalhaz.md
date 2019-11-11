@@ -44,8 +44,34 @@ oh no here comes huw's face
 
 # Games to play
 * Child of Light
-* INSIDE
+* ~~INSIDE~~
 * ~~Watch Dogs 2~~
+* Little Nightmares
+* Metroid: Zero Mission :)
+* Asscreed: Syndicate
+* ASTRONEER
+* ~~Barony~~
+* Borderlands: The Presequel
+* ~~Caveblazers~~
+* Exapunks!
+* Hexatrains
+* Katamari Damacy: Reroll
+* 9 Parchments
+* Northgard
+* Octodad
+* RiME
+* Opus Magnum
+* The Room 3
+* Shenzhen I/O
+* Civ VI
+* Slime Rancher
+* When Ski Lifts Go Wrong
+* The Witcher 3
+* Titanfall 2
+* Hellblade
+* Wolfenstein 2
+* Tomb Raider 3
+* Absolver
 # Finally
 
 ![](https://cesque.com/storage/19/04/19/unknown.png)
