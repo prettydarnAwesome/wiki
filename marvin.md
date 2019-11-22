@@ -1,6 +1,8 @@
 <!-- TITLE: marvin -->
 <!-- SUBTITLE: should be in a band -->
 
+# Passive Ability
+when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's proximity-based Carly Rae Jepsen alarm is triggered, dealing 200/400/800 sonic damage and silencing them for the duration of the alarm (8 seconds).
 # Quotes
 * "well now you can, like, double cum"
 * "this says gabby douglas, but when i first read it i definitely thought it said 'baby goulash'" - marvin 04/06/2018
