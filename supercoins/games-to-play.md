@@ -1,20 +1,30 @@
 <!-- TITLE: Games To Play -->
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
-* ~~Moonlighter~~
-* ~~Prey~~
-* ~~The Division~~
-* Cultist Simulator
-* The Witcher 3
-* ~~Darkest Dungeon~~
-* ~~Owlboy~~
-* ~~Nioh~~
-* Glittermitten Grove
-* Watch Dogs 2
-* Oxygen Not Included
-* Wolfenstein
-* Thumper
-* Dishonoured 2
-* Dark Souls 3
-* DOOM
-* A Hat in Time
+* [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
+* [~~Prey~~](https://store.steampowered.com/app/480490/Prey/)
+* [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
+* [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
+* [~~Darkest Dungeon~~](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
+* [~~Owlboy~~](https://store.steampowered.com/app/115800/Owlboy/)
+* [~~Nioh~~](https://store.steampowered.com/app/485510/Nioh_Complete_Edition___Complete_Edition/)
+* [Slime Rancher](https://store.steampowered.com/app/433340/Slime_Rancher/)
+* [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
+* [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
+* [~~Oxygen Not Included~~](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
+* [Wolfenstein II: The New Colossus](https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
+* [Thumper](https://store.steampowered.com/app/356400/Thumper/)
+* [Dishonoured 2](https://store.steampowered.com/app/403640/Dishonored_2/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
+* [Dark Souls 3](https://store.steampowered.com/app/374320/DARK_SOULS_III/)
+* [DOOM](https://store.steampowered.com/app/379720/DOOM/)
+* [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
+* [~~The Outer Worlds~~](https://store.steampowered.com/app/578650/The_Outer_Worlds/)
+* [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/)
+* [Devil May Cry 5](https://store.steampowered.com/app/601150/Devil_May_Cry_5/)
+* [Momodora: Reverie Under The Moonlight](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
+* [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
+* [Death Stranding](https://store.steampowered.com/app/1190460/Death_Stranding/)
+* [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/pc)
+* [God of War](https://godofwar.playstation.com/)
+* [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
+* [The Sojourn](https://store.steampowered.com/app/794960/The_Sojourn/)
