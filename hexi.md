@@ -23,6 +23,7 @@
 * (after a long silence) "alright huw, guess my internal body temperature :)" - Hexi 8/8/2019
 * "mice blogan" - Hexi 29/8/2019
 * "there's so many of these mechanical bastards!" - Hexi 5/10/2019
+* "i hate underwear!" - Hexi 24/11/2019
 # Games to play
 * Stanley Parable
 
