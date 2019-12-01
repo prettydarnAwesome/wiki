@@ -22,3 +22,4 @@
 "Holy Granoli? That's like the opposite of Halloumi Kabloomi" - supercoins 28/09/2019
 "how are you going to get to hell without legs?" - supercoins 13/10/2019
 "tom is literally 100% leg" - hexi 9/11/2019
+"........... is tom alien!?" - zonalhaz -1/12/2019
