@@ -23,3 +23,4 @@
 "how are you going to get to hell without legs?" - supercoins 13/10/2019
 "tom is literally 100% leg" - hexi 9/11/2019
 "........... is tom alien!?" - zonalhaz 1/12/2019
+"imagine if someone had a metal hand... and they slapped your ass..." - supercoins 14/12/2019
