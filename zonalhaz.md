@@ -42,6 +42,7 @@ oh no here comes huw's face
 "Tom, you're allowed to sleep with anyone you want" - huw 12/10/2019
 "it's bandit time" - huw 26/10/2019
 "skeletons die when they are killed" - huw 28/11/2019
+"i wish i had a magnetic ass" - huw 14/12/2019
 
 # Games to play
 * Child of Light
