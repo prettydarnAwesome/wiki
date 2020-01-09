@@ -43,6 +43,7 @@ oh no here comes huw's face
 "it's bandit time" - huw 26/10/2019
 "skeletons die when they are killed" - huw 28/11/2019
 "i wish i had a magnetic ass" - huw 14/12/2019
+"skeleton time!!!" - huw 9/1/2019
 
 # Games to play
 * Child of Light
