@@ -14,3 +14,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "ardam would get railed because he's brown" - Zonalhaz 1/9/2019
 "what does it mean when the reddish diagonal crosshairs merge to reddish-white when through the objects?" - ardam 20/10/2019
 "oh shit, there's no droppings in this toilet! i'm gonna nap" - ardam 21/1/2020
+"we're like substandard kangaroos, aren't we?" - ardam 21/1/2020
