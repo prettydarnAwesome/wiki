@@ -10,7 +10,7 @@
 * "tonight, i'm planning to sit at home and drink videogames" - MrLindskog
 * "where is marvin, i need him to sing me the spaghetti song" - MrLindskog 26/06/2018
 * "oh no, i'm retarded!" - MrLindskog 08/09/2018
-
+* "[huw](Zonalhaz), have you actually *ever* slept?" - Lindskog 21/1/2020
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
 * "i love lindskog" - Nublar ☂ܟ
