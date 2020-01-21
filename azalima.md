@@ -13,3 +13,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "I'm not a lawyer, I'm just an idiot you've invited into your house." - ardam 14/07/2019
 "ardam would get railed because he's brown" - Zonalhaz 1/9/2019
 "what does it mean when the reddish diagonal crosshairs merge to reddish-white when through the objects?" - ardam 20/10/2019
+"oh shit, there's no droppings in this toilet! i'm gonna nap" - ardam 21/1/2020
