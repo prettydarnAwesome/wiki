@@ -77,6 +77,8 @@ oh no here comes huw's face
 * Tomb Raider 3
 * Absolver
 * Hollow Knight: Silksong
+
+![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
 
 ![](https://cesque.com/storage/19/04/19/unknown.png)
