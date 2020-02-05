@@ -1,8 +1,7 @@
 <!-- TITLE: Hexi -->
 <!-- SUBTITLE: A quick summary of Hexi -->
 
-![](https://cesque.com/storage/20/02/04/514516332105.png)
-
+<img src="https://cesque.com/storage/20/02/04/514516332105.png" width=500px>
 # The Copypasta
 > i thought of an opporator idea hes a defender and they call him step. Step is a 2 speed 2 armour opporator who can temporarily put down a ladder placed simular to tachankas mounted gun which allows them to raise their height for better angles. They can use his ladder to extend up though skyhatches and if you place the gap over a door and an enemy steps though they get bad luck and their gun randomly jams for the rest of the game. If you break the ladder whilst someone is opporating it the ladder injurs the opporator. If it is in opporation whilst someone walk through they get bad luck+ which is an increased rate of jamming
 
@@ -26,7 +25,9 @@
 * "mice blogan" - Hexi 29/8/2019
 * "there's so many of these mechanical bastards!" - Hexi 5/10/2019
 * "i hate underwear!" - Hexi 24/11/2019
-* "DOnt worry guys im just drippin" - Hexi 6/1/2019
+* "DOnt worry guys im just drippin" - Hexi 6/1/2020
+* "I'm Jerry" - Hexi 1/2/2020
+* "I feel like Pete" - Hexi 1/2/2020
 # Games to play
 * Stanley Parable
 
