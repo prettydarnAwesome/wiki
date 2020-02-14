@@ -48,6 +48,7 @@ oh no here comes huw's face
 "huw, have you actually *ever* slept?" - Lindskog 21/1/2020
 "huw's ass is infinite" - Hexi 1/2/2020
 "my house hasn't arrived yet" - huw 7/2/2020
+"i'm a furry" - huw 14/2/2020 (**confirmed!!!!!!!!!!!!!!!!!**)
 # Games to play
 * Child of Light
 * ~~INSIDE~~
