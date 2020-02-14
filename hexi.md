@@ -42,3 +42,5 @@
 * Daniel James clone kill count                  0  
 * Thomas Forde clone kill count                0
 * Jak Barnes clone kill count                      0
+
+hexi is also cancelled because he agreed with [Ben] that a group of squid is also a squad
