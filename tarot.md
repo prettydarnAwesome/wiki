@@ -168,7 +168,10 @@ https://phoenix-lotus.com/product/wanderers-tarot/
 
 <img src=https://cesque.com/storage/20/02/20/126607227371.png width=500px>
 
+# Anima Mundi Tarot
+https://littleredtarot.com/product/anima-mundi-tarot/
 
+<img src=https://cesque.com/storage/20/02/20/010155531236.jpg width=500px>
 
 <br>
 <br>
@@ -200,6 +203,12 @@ https://www.etsy.com/uk/listing/481638088/enchanted-woods-lenormand-oracle-deck
 https://phoenix-lotus.com/product/green-glyphs-lenormand/
 
 <img src=https://cesque.com/storage/20/02/20/026187445137.png width=500px>
+
+# Materia Prima Tarot
+Elements!
+https://littleredtarot.com/product/materia-prima-deck/
+
+<img src=https://cesque.com/storage/20/02/20/371604418726.png width=500px>
 
 
 
