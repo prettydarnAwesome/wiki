@@ -163,6 +163,11 @@ https://phoenix-lotus.com/product/vindur-deck/
 
 <img src=https://cesque.com/storage/20/02/20/200642336133.png width=500px>
 
+# Wanderer's Tarot
+https://phoenix-lotus.com/product/wanderers-tarot/
+
+<img src=https://cesque.com/storage/20/02/20/126607227371.png width=500px>
+
 
 
 <br>
