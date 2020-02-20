@@ -3,7 +3,6 @@
 
 # SVNDDLSNTS Tarot
 https://svnddlsnts.bigcartel.com/product/tarot-deck
-not available yet!
 
 <img src=https://cesque.com/storage/19/11/02/762167626841.png width=500px>
 
@@ -144,10 +143,20 @@ https://www.kickstarter.com/projects/taylorbell/sigil-arcanum-tarot-a-symbolic-j
 <br>
 <img src=https://cesque.com/storage/19/10/21/463782245087.png width=500px>
 
-# Soul Cards Tarot
+# Soul Cards Tarot: Black
 https://phoenix-lotus.com/product/soul-cards-tarot/
 
 <img src=https://cesque.com/storage/20/02/20/706688500872.png width=500px>
+
+# Soul Cards Tarot: Blush
+https://phoenix-lotus.com/product/soul-cards-tarot-blush/
+
+<img src=https://cesque.com/storage/20/02/20/308110364836.png width=500px>
+
+# Visionary Tarot
+https://phoenix-lotus.com/product/visionary-tarot-golden-edition/
+
+<img src=https://cesque.com/storage/20/02/20/671586683752.png width=500px>
 
 
 
