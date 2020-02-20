@@ -10,6 +10,7 @@
 "hey guys my meat is marinating" - Ben 01/10/2019
 "i wanna tell you guys about Ben's drinking problem: Ben drinks all his food!" - Hexi 1/2/2020
 "a group of squid is called a squad" - Ben 2/2/2020 (he was cancelled for this statement as it was deemed too problematic)
+"i'm gonna commit a war crime" - Ben 20/2/2020 (apparently this one was fine though)
 # Ben's **Boneless** Bake
 ### Ingredients
 •	Chicken Thighs - **boneless** (500g)
