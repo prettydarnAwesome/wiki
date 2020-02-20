@@ -158,6 +158,11 @@ https://phoenix-lotus.com/product/visionary-tarot-golden-edition/
 
 <img src=https://cesque.com/storage/20/02/20/671586683752.png width=500px>
 
+# Vindur Tarot
+https://phoenix-lotus.com/product/vindur-deck/
+
+<img src=https://cesque.com/storage/20/02/20/200642336133.png width=500px>
+
 
 
 <br>
