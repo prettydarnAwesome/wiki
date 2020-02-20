@@ -145,6 +145,7 @@ https://www.kickstarter.com/projects/taylorbell/sigil-arcanum-tarot-a-symbolic-j
 <img src=https://cesque.com/storage/19/10/21/463782245087.png width=500px>
 
 # Soul Cards Tarot
+https://phoenix-lotus.com/product/soul-cards-tarot/
 
 <img src=https://cesque.com/storage/20/02/20/706688500872.png width=500px>
 
