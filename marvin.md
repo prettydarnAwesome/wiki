@@ -28,3 +28,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "slowly but surely a wizard's skeleton is appearing" - marvin 15/11/2019
 * "i think you're underestimating the strength of my anus to hold in my shit" - marvin 25/11/2019
 * "sorry i wasn't listening, i was watching the minions" - marvin 26/12/2019
+* "turtle brain" - marvin 21/2/2020
