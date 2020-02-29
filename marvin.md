@@ -32,3 +32,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "ich heiße MARVIN" - lit_jaki2805
 * "what's an oinker if not a circle?" - marvin 29/2/2020
 * "alright, you've got fourteen minutes to deliver my curry now... BITCH" - marvin 29/2/2020
+* "i can get someone loaded up in 2 seconds" - marvin 29/2/2020
