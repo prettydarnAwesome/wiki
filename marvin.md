@@ -30,3 +30,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "sorry i wasn't listening, i was watching the minions" - marvin 26/12/2019
 * "turtle brain" - marvin 21/2/2020
 * "ich heiße MARVIN" - lit_jaki2805
+* "what's an oinker if not a circle?" - marvin 29/2/2020
