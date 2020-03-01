@@ -24,3 +24,4 @@
 "tom is literally 100% leg" - hexi 9/11/2019
 "........... is tom alien!?" - zonalhaz 1/12/2019
 "imagine if someone had a metal hand... and they slapped your ass..." - supercoins 14/12/2019
+"if a hamburger was going fast, about 60 miles per hour, across your mouth... could you eat it?" - supercoins 1/3/2020
