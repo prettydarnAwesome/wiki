@@ -25,3 +25,4 @@
 "........... is tom alien!?" - zonalhaz 1/12/2019
 "imagine if someone had a metal hand... and they slapped your ass..." - supercoins 14/12/2019
 "if a hamburger was going fast, about 60 miles per hour, across your mouth... could you eat it?" - supercoins 1/3/2020
+"you may be able to look at your nose, but you can't *see* it" - supercoins 5/3/2020
