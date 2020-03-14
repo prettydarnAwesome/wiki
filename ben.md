@@ -14,7 +14,7 @@
 "how do i open my bucket?" - Ben 1/3/2020
 "most things are robots" - Ben 7/3/2020
 "[what is mostly forgivable?] ...genocide" - Ben 7/3/2020
-"is [Bruzezeazaly](daniel) a mayonnaise person?" - Ben 7/3/2020
+"is [daniel](Bruzezeazaly) a mayonnaise person?" - Ben 7/3/2020
 # Ben's **Boneless** Bake
 ### Ingredients
 •	Chicken Thighs - **boneless** (500g)
