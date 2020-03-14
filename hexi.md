@@ -30,6 +30,7 @@
 * "I'm Jerry" - Hexi 1/2/2020
 * "I feel like Pete" - Hexi 1/2/2020
 * "i was very tempted to lower the hamburger then" - Hexi 1/3/2020
+* "mini eggs are just beans" - Hexi 6/3/2020
 # Games to play
 * Stanley Parable
 
