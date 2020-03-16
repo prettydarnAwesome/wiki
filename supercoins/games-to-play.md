@@ -7,6 +7,8 @@
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 * [~~Darkest Dungeon~~](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
 * [~~Owlboy~~](https://store.steampowered.com/app/115800/Owlboy/)
+* [~~Ori and the Blind Forest~~](https://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/)
+* [~~Ori and the Will of the Wisps~~](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/)
 * [~~Nioh~~](https://store.steampowered.com/app/485510/Nioh_Complete_Edition___Complete_Edition/)
 * [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
 * [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
