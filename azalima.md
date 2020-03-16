@@ -16,3 +16,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "oh shit, there's no droppings in this toilet! i'm gonna nap" - ardam 21/1/2020
 "we're like substandard kangaroos, aren't we?" - ardam 21/1/2020
 "help guys my keyboard switched to Greek and I don't know what to do" - ardam 7/2/2020
+"i wish i cried like a wolf" - ardan 16/3/2020
