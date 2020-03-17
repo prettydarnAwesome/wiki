@@ -16,4 +16,5 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "oh shit, there's no droppings in this toilet! i'm gonna nap" - ardam 21/1/2020
 "we're like substandard kangaroos, aren't we?" - ardam 21/1/2020
 "help guys my keyboard switched to Greek and I don't know what to do" - ardam 7/2/2020
-"i wish i cried like a wolf" - ardan 16/3/2020
+"i wish i cried like a wolf" - ardam 16/3/2020
+"if i was prime minister i would give a legal exemption to let one person fight two and a half horses" - ardam 17/3/2020
