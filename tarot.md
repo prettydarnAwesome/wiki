@@ -1,6 +1,10 @@
 <!-- TITLE: Tarot -->
 <!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
 
+# Fountain Tarot
+https://www.amazon.co.uk/Fountain-Tarot-Illustrated-Deck-Guidebook/dp/1611805481
+
+<img src=https://cesque.com/storage/20/03/18/677038442123.jpg width=500px>
 
 # Star Spinner Tarot
 https://www.amazon.co.uk/Star-Spinner-Tarot-Trungles/dp/1452180067
