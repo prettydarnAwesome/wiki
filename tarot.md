@@ -1,6 +1,12 @@
 <!-- TITLE: Tarot -->
 <!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
 
+
+# Star Spinner Tarot
+https://www.amazon.co.uk/Star-Spinner-Tarot-Trungles/dp/1452180067
+
+<img src=https://cesque.com/storage/20/03/18/880656131430.jpg width=500px>
+
 # SVNDDLSNTS Tarot
 https://svnddlsnts.bigcartel.com/product/tarot-deck
 
