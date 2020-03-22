@@ -16,11 +16,15 @@ https://svnddlsnts.bigcartel.com/product/tarot-deck
 
 <img src=https://cesque.com/storage/19/11/02/762167626841.png width=500px>
 
+# PinkPain Tarot
+https://www.etsy.com/uk/listing/726924442/pinkpain-tarot
+
+<img src=https://cesque.com/storage/20/03/22/273811682508.png width=500px>
+
 # Light Visions
 
 https://www.jamesreadsmerch.com/products/the-light-visions-tarot-deck-second-edition
 available in UK from Little Red Tarot https://littleredtarot.com/product/light-visions-tarot/
-but it's on backorder (next print expected Spring 2020)
 
 <img src=https://cesque.com/storage/19/10/21/501321577562.png width=500px>
 
