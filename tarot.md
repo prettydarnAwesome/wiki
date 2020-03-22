@@ -1,6 +1,11 @@
 <!-- TITLE: Tarot -->
 <!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
 
+<style>
+	.content img {
+		margin-left: 40px;
+	}
+</style>
 # Fountain Tarot
 https://www.amazon.co.uk/Fountain-Tarot-Illustrated-Deck-Guidebook/dp/1611805481
 
