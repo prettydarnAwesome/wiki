@@ -50,6 +50,7 @@ oh no here comes huw's face
 "my house hasn't arrived yet" - huw 7/2/2020
 "i'm a furry" - huw 14/2/2020 (**confirmed!!!!!!!!!!!!!!!!!**)
 "up and down is hard" - huw 17/3/2020
+"a good 90% of the time, legs are attached to people" - huw 26/3/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
