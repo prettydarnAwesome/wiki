@@ -18,3 +18,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "help guys my keyboard switched to Greek and I don't know what to do" - ardam 7/2/2020
 "i wish i cried like a wolf" - ardam 16/3/2020
 "if i was prime minister i would give a legal exemption to let one person fight two and a half horses" - ardam 17/3/2020
+"electricity is fuckin' OP" - ardam 28/3/2020
