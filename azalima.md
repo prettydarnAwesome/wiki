@@ -20,3 +20,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "if i was prime minister i would give a legal exemption to let one person fight two and a half horses" - ardam 17/3/2020
 "electricity is fuckin' OP" - ardam 28/3/2020
 "i feel like bug and fish combine into pizza" - ardam 30/3/2020
+"oh i got a pet infant!" - ardam 30/3/2020
