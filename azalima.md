@@ -22,3 +22,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i feel like bug and fish combine into pizza" - ardam 30/3/2020
 "oh, i got a pet infant!" - ardam 30/3/2020
 "i'm very nearly doing a dab!" - ardam 4/4/2020
+"ardam is a momentary person" - hexi 4/4/2020
