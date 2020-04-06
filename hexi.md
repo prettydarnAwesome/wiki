@@ -1,5 +1,5 @@
 <!-- TITLE: Hexi -->
-<!-- SUBTITLE: A quick summary of Hexi -->
+<!-- SUBTITLE: Squire of the Weeb Society -->
 
 <img src="https://cesque.com/storage/20/02/04/514516332105.png" width=500px>
 
