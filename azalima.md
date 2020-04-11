@@ -23,3 +23,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "oh, i got a pet infant!" - ardam 30/3/2020
 "i'm very nearly doing a dab!" - ardam 4/4/2020
 "ardam is a momentary person" - hexi 4/4/2020
+"what power does 'gift shop person' give me?" - ardam 11/4/2020
