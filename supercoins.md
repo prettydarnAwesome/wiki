@@ -29,3 +29,4 @@
 "do i recognise those legs?" - supercoins 26/3/2020
 "spin me round and have a look at how long my legs are" - supercoins 2/4/2020
 "big croissant is big!" - supercoins 16/4/2020
+"horse direction is predetermined at birth" - suercoins 16/4/2020
