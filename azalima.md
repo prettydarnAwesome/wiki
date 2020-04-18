@@ -26,3 +26,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "what power does 'gift shop person' give me?" - ardam 11/4/2020
 "i expect to see your PhD if you're going to post a meme" - ardam 16/4/2020
 "the purpose of knees is to go *to* things, and the purpose of elbows is to bring things *to* you" - ardam 17/4/2020
+"i hate ardam's movable finger!" - ardam 19/4/2020
