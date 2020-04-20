@@ -61,6 +61,6 @@
 * [~~Children of Morta~~](https://store.steampowered.com/app/330020/Children_of_Morta/)
 * [~~One Step From Eden~~](https://store.steampowered.com/app/960690/One_Step_From_Eden/) (100% achievements)
 * [~~Yes, Your Grace~~](https://store.steampowered.com/app/1115690/Yes_Your_Grace/)
-* [CODE VEIN](https://store.steampowered.com/app/678960/CODE_VEIN/)
+* [~~CODE VEIN~~](https://store.steampowered.com/app/678960/CODE_VEIN/)
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [Indivisible (Need to finish)](https://store.steampowered.com/app/421170/Indivisible/)
