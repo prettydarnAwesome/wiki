@@ -12,7 +12,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "Silves fucking sucks" - marvin 23:01 - 25/07/2018
 * "BOB will FUCK" - marvin 25/01/2019
 * "I'm a baby :)" - marvin 26/01/2019
-* "[cesque] is trying to steal my spirit pizza >:(" - marvin 14/2/2019
+* "[cesque](cesque) is trying to steal my spirit pizza >:(" - marvin 14/2/2019
 * "you can drink horses" - marvin 28/2/2019
 * "everything i've ever learned stayed in my brain" - marvin 21/4/2019
 * "did you say 'Smegma Tuesday'?" - marvin 21/4/2019
@@ -35,4 +35,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i can get someone loaded up in 2 seconds" - marvin 29/2/2020
 * "i'm gonna suck ur braincells" - marvin 1/3/2020
 * "marvin u tosic" - unknown 1/3/2020
-* "okay [cesque], you can fight me" - marvin 25/4/2020
+* "okay [cesque](cesque), you can fight me" - marvin 25/4/2020
