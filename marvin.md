@@ -35,3 +35,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i can get someone loaded up in 2 seconds" - marvin 29/2/2020
 * "i'm gonna suck ur braincells" - marvin 1/3/2020
 * "marvin u tosic" - unknown 1/3/2020
+* "okay [cesque], you can fight me" - marvin 25/4/2020
