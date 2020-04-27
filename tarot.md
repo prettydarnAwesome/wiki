@@ -1,5 +1,11 @@
 <!-- TITLE: Tarot -->
 <!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
+
+# Tarot of the Divine
+https://www.bookdepository.com/Tarot-Divine-Yoshi-Yoshitani/9780593135143
+
+<img src=https://cesque.com/storage/20/04/27/600274454878.jpg width=500px>
+
 # Fountain Tarot
 https://www.amazon.co.uk/Fountain-Tarot-Illustrated-Deck-Guidebook/dp/1611805481
 
