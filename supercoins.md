@@ -30,4 +30,4 @@
 "spin me round and have a look at how long my legs are" - supercoins 2/4/2020
 "big croissant is big!" - trouble 16/4/2020
 "horse direction is predetermined at birth" - sewercoins 16/4/2020
-"how do i get a goat to down a shot?" - trouble 30/4/2020
+"how do i get a goat to down a shot?" - supercoins 30/4/2020
