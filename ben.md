@@ -16,6 +16,8 @@
 "[what is mostly forgivable?] ...genocide" - Ben 7/3/2020
 "is [daniel](Bruzezeazaly) a mayonnaise person?" - Ben 7/3/2020
 "if we want to play with Ben, we have to play in his world" - [Coins](Supercoins) 19/3/2020
+"what are builders?" - 30/4/2020
+"builders are physicists because they care about shapes for building" - Ben 30/4/2020
 
 # Ben's **Boneless** Bake
 ### Ingredients
