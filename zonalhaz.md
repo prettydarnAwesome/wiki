@@ -57,7 +57,7 @@ oh no here comes huw's face
 * Child of Light
 * ~~INSIDE~~
 * ~~Watch Dogs 2~~
-* Little Nightmares
+~~* Little Nightmares~~
 * Metroid: Zero Mission :)
 * Asscreed: Syndicate
 * ASTRONEER
@@ -65,23 +65,22 @@ oh no here comes huw's face
 * Borderlands: The Presequel
 * ~~Caveblazers~~
 * Exapunks!
-* Hexatrains
-* Katamari Damacy: Reroll
-* 9 Parchments
+~~* Hexatrains~~
+~~* Katamari Damacy: Reroll~~
 * Northgard
 * Octodad
 * RiME
-* Opus Magnum
+~~* Opus Magnum~~
 * The Room 3
 * Shenzhen I/O
 * Civ VI
 * Slime Rancher
-* When Ski Lifts Go Wrong
-* The Witcher 3
+~~* When Ski Lifts Go Wrong~~
+~~* The Witcher 3~~
 * Titanfall 2
-* Hellblade
-* Wolfenstein 2
-* Tomb Raider 3
+~~* Hellblade~~
+~~* Wolfenstein 2~~
+~~* Tomb Raider 3~~
 * Absolver
 * Hollow Knight: Silksong
 
