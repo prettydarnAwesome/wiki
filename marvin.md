@@ -37,3 +37,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "marvin u tosic" - unknown 1/3/2020
 * "okay [cesque](cesque), you can fight me" - marvin 25/4/2020
 * "chickens are also a thing in the ground sometimes?" - marvin 28/4/2020
+* "i gotta drink some water brb, frogs will make me thirsty" - marvin 2/5/2020
