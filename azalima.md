@@ -27,3 +27,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i expect to see your PhD if you're going to post a meme" - ardam 16/4/2020
 "the purpose of knees is to go *to* things, and the purpose of elbows is to bring things *to* you" - ardam 17/4/2020
 "i hate ardam's movable finger!" - huw 19/4/2020
+"i'd rather have rainbow 6 than peach 69" - ardam 2/5/2020
