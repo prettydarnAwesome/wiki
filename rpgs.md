@@ -12,4 +12,11 @@
 - **MYCELIUM and Other Horrors** — 4 horrific and psychologically intense 'incursions' for Trophy Dark
 - **Sunken** — Trophy-based zine about going mad on a ship in the middle of a hostile, occult ocean
 - **Casket Land** — "bleak occult western rpg". based on PbtA rules
-- to be continued
+- **They Feed On Fear** — play as horror monsters and find and kill innocent people
+- **Our Queen Crumbles** — oneshot 'weird fantasy' game where you play as a murdered queen's loyal retainers, tracking down her killer
+- **Bunker** — far-future, post-apocalyptic rpg inspired by man-made climate disaster
+- **Deep Carbon Observatory** — old-school inspired low-magic D&D adventure
+- **MÖRK BORG** — 'pitch-black apocalyptic fantasy RPG'. has a calendar of the world's demise, with plagues and curses
+- **Black Mass** — tell a story about 2 witches leaving their community to find the Black Mass. uses tarot cards to tell story
+- **Tranquil Coast Bed & Breakfast** — play as both the owner and the guests in a b&b for monsters
+- **Tales From The Loop** — play a group of kids investigating mysterious occurrences in an alternate-past 1980s Sweden with robots and fancy tech
