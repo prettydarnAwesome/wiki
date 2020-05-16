@@ -20,3 +20,4 @@
 - **Black Mass** — tell a story about 2 witches leaving their community to find the Black Mass. uses tarot cards to tell story
 - **Tranquil Coast Bed & Breakfast** — play as both the owner and the guests in a b&b for monsters
 - **Tales From The Loop** — play a group of kids investigating mysterious occurrences in an alternate-past 1980s Sweden with robots and fancy tech
+- **Best Left Buried** — fantasy horror OSR-ish dungeon crawl
