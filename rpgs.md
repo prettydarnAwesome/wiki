@@ -6,7 +6,7 @@
 - **[Hyper Light Drifter](https://www.kickstarter.com/projects/metalweavegames/hld-rpg/description)** ⁠— meant to be a translation of the HLD mechanics, lore and atmosphere into TTRPG form
 - **[Mothership](https://www.mothershiprpg.com/)** ⁠— sci-fi horror. think the movie Alien, but as a TTRPG
 - **[Trophy](https://www.kickstarter.com/projects/gauntlet/trophy-rpg/description)** — a dark rpg about treasure hunters exploring a spooky forest. has 2 modes: one psychological horror for oneshots, and one slightly less but still horrific for campaigns
-- **[Libreté[(https://www.kickstarter.com/projects/gmdk/librete-an-rpg-of-lost-children/description)** — "an RPG of lost children". bleak game about children trying to survive in a haunted abandoned city with no adults, spooky creatures and powerful child gangs 
+- **[Libreté](https://www.kickstarter.com/projects/gmdk/librete-an-rpg-of-lost-children/description)** — "an RPG of lost children". bleak game about children trying to survive in a haunted abandoned city with no adults, spooky creatures and powerful child gangs 
 - **[Cobwebs](https://www.kickstarter.com/projects/exaltedfuneral/cobwebs/description)** — GM-less investigative RPG with mysteries and conspiracies. elements of horror, sci-fi and noir
 - **[Green Dawn Mall](https://www.kickstarter.com/projects/2060348300/green-dawn-mall-a-zine-quest-game-0/description)** — zine for one/two-shots where you play a group of teens exploring an "endless, distorted" shopping mall
 - **[MYCELIUM and Other Horrors](https://www.kickstarter.com/projects/tknyarlathotep/mycelium-and-other-horrors-4-incursions-for-trophy-dark-rpg/description)** — 4 horrific and psychologically intense 'incursions' for Trophy Dark
