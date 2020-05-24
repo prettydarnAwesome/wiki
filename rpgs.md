@@ -7,9 +7,14 @@
 - **[Casket Land: CRUACH](https://www.kickstarter.com/projects/bones/casket-land-cruach/description)** — "bleak occult western rpg". based on PbtA rules
 - **[Cobwebs](https://www.kickstarter.com/projects/exaltedfuneral/cobwebs/description)** — GM-less investigative RPG with mysteries and conspiracies. elements of horror, sci-fi and noir
 - **[Deep Carbon Observatory](https://www.kickstarter.com/projects/gawain/deep-carbon-observatory-remastered/description)** — old-school inspired low-magic D&D adventure
+- **[Delta Green](https://www.drivethrurpg.com/product/236576/Delta-Green-The-RolePlaying-Game)** — investigate and handle occult, paranormal and alien threats as agents of a secret government agency
+- **[Dread](http://www.tiltingatwindmills.net/games/dread/)** — horror rpg which uses a Jenga tower to build tension: if you knock over the tower, you die! can be played serious or more goofy
+- **[EXUVIAE | Relics of House Dragonfly](https://www.kickstarter.com/projects/1396553321/exuviae-relics-of-house-dragonfly/description)** — investigate the mystery of a 40s city run by an insect cult in a no-preperation oneshot
+- **[Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/)** — Fria Ligan's bleak take on traditional fantasy (such as DnD)
 - **[Green Dawn Mall](https://www.kickstarter.com/projects/2060348300/green-dawn-mall-a-zine-quest-game-0/description)** — zine for one/two-shots where you play a group of teens exploring an "endless, distorted" shopping mall
 - **[Heart: The City Beneath](https://www.kickstarter.com/projects/gshowitt/heart-the-city-beneath/description)** ⁠— dark dungeon crawling game where you delve deeper under the city and find weird and scarier stuff (by Grant Howitt!)
 - **[Hyper Light Drifter](https://www.kickstarter.com/projects/metalweavegames/hld-rpg/description)** ⁠— meant to be a translation of the HLD mechanics, lore and atmosphere into TTRPG form
+- **[In The Light Of A Ghost Star](https://natetreme.itch.io/itloags)** — a stylish zine with a really simple system for sci-fi exploration, with a sample adventure and some resources. the rules fit on one page!
 - **[Lancer](https://www.kickstarter.com/projects/massifpress/lancer/description)** ⁠— rpg about mechs. mud & lasers with narrative play and crunchy combat
 - **[Libreté](https://www.kickstarter.com/projects/gmdk/librete-an-rpg-of-lost-children/description)** — "an RPG of lost children". bleak game about children trying to survive in a haunted abandoned city with no adults, spooky creatures and powerful child gangs 
 - **[Mothership](https://www.mothershiprpg.com/)** ⁠— sci-fi horror. think the movie Alien, but as a TTRPG
