@@ -56,6 +56,7 @@ oh no here comes huw's face
 "i'm always pogging, pogging is my favorite pasttime" - huw 15/5/2020
 "huw dabs in public and twerks in private" - [coins](Supercoins) 23/5/2020
 "i'm excited to go to hell" - huw 2/6/2020
+"oh no, you saved waluigi :(" - huw 5/6/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
