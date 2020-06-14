@@ -63,4 +63,4 @@
 * [~~Yes, Your Grace~~](https://store.steampowered.com/app/1115690/Yes_Your_Grace/)
 * [~~CODE VEIN~~](https://store.steampowered.com/app/678960/CODE_VEIN/)
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
-* [Indivisible (Need to finish)](https://store.steampowered.com/app/421170/Indivisible/)
+* [~~Indivisible~~](https://store.steampowered.com/app/421170/Indivisible/) (100% achievements)
