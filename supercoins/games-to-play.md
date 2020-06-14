@@ -36,7 +36,7 @@
 * [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
-# ~~To~~ Played
+# ~~To~~ Play*ed*
 * [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
 * [~~Prey~~](https://store.steampowered.com/app/480490/Prey/)
 * [~~Darkest Dungeon~~](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
