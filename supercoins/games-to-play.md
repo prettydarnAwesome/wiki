@@ -1,7 +1,7 @@
 <!-- TITLE: Games To Play -->
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
-> Very Big Games
+### Very Big Games
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 * [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/)
 * [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
