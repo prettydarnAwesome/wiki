@@ -33,10 +33,13 @@
 * [Final Fantasy X-2](https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/)
 * [Final Fantasy XII: The Zodiac Age](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/)
 * [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
-* [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
-* [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
+
+### Small Games
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
+### Hard Games
+* [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
+* [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
 # Played
 * [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
 * [~~Prey~~](https://store.steampowered.com/app/480490/Prey/)
