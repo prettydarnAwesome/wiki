@@ -1,6 +1,9 @@
 <!-- TITLE: Games To Play -->
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
+## Medium
+### Smol
+> Quote
 * [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 * [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
