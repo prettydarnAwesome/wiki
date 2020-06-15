@@ -53,6 +53,7 @@
 # Played
 * [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
 * [~~Fez~~](https://store.steampowered.com/app/224760/FEZ/)
+* [~~Cave Story+~~](https://store.steampowered.com/app/200900/Cave_Story/)
 * [~~Hollow Knight~~](https://store.steampowered.com/app/367520/Hollow_Knight/)
 * [~~Prey~~](https://store.steampowered.com/app/480490/Prey/)
 * [~~Darkest Dungeon~~](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
