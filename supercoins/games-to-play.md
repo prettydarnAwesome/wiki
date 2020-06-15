@@ -9,7 +9,7 @@
 * [Red Dead Redemption 2 (Need to finish)](https://www.rockstargames.com/reddeadredemption2/pc)
 * [God of War (Need to finish)](https://godofwar.playstation.com/)
 
-> Big Games
+### Big Games
 * [Watch Dogs 2 (Need to finish)](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
 * [Wolfenstein II: The New Colossus](https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
 * [Dishonoured 2](https://store.steampowered.com/app/403640/Dishonored_2/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
@@ -22,20 +22,20 @@
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 
-> Small Games
+### Small Games
 * [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
 * [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
 * [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
 * [DOOM](https://store.steampowered.com/app/379720/DOOM/)
 * [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
 * [Momodora: Reverie Under The Moonlight](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
-* [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/)
+* [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/) (I keep on losing on the final Island)
 * [GRIS](https://store.steampowered.com/app/683320/GRIS/)
 * [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
 * [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
 
-> Hard Games
+### Hard Games
 * [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
 * [Cuphead](https://store.steampowered.com/app/268910/Cuphead/)
 * [Thumper](https://store.steampowered.com/app/356400/Thumper/)
