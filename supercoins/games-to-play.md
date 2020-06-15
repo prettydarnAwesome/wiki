@@ -67,3 +67,4 @@
 * [~~Yes, Your Grace~~](https://store.steampowered.com/app/1115690/Yes_Your_Grace/)
 * [~~CODE VEIN~~](https://store.steampowered.com/app/678960/CODE_VEIN/)
 * [~~Indivisible~~](https://store.steampowered.com/app/421170/Indivisible/) (100% achievements)
+* [~~Shantae and the Seven Sirens~~](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/)
