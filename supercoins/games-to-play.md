@@ -1,7 +1,7 @@
 <!-- TITLE: Games To Play -->
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
-> Big Games
+### Big Games
 * [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 * [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
@@ -34,10 +34,10 @@
 * [Final Fantasy XII: The Zodiac Age](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/)
 * [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
 
-> Small Games
+### Small Games
 * [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
-> Hard Games
+### Hard Games
 * [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 * [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
 # Played
