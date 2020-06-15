@@ -1,45 +1,49 @@
 <!-- TITLE: Games To Play -->
 <!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
 # To Play
-> Big Games
-* [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
+> Very Big Games
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
-* [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
-* [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
-* [Watch Dogs 2 (Need to finish)](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
-* [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
-* [Cuphead](https://store.steampowered.com/app/268910/Cuphead/)
-* [Wolfenstein II: The New Colossus](https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
-* [Thumper](https://store.steampowered.com/app/356400/Thumper/)
-* [Dishonoured 2](https://store.steampowered.com/app/403640/Dishonored_2/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
 * [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/)
-* [Dark Souls 3 (Need to finish)](https://store.steampowered.com/app/374320/DARK_SOULS_III/)
-* [DOOM](https://store.steampowered.com/app/379720/DOOM/)
-* [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
-* [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
-* [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/)
-* [Deaths Gambit](https://store.steampowered.com/app/356650/Deaths_Gambit/)
-* [Devil May Cry 5](https://store.steampowered.com/app/601150/Devil_May_Cry_5/)
-* [Momodora: Reverie Under The Moonlight](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
 * [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
 * [Death Stranding (Need to finish)](https://store.steampowered.com/app/1190460/Death_Stranding/)
 * [Red Dead Redemption 2 (Need to finish)](https://www.rockstargames.com/reddeadredemption2/pc)
 * [God of War (Need to finish)](https://godofwar.playstation.com/)
-* [The Sojourn](https://store.steampowered.com/app/794960/The_Sojourn/)
+
+> Big Games
+* [Watch Dogs 2 (Need to finish)](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
+* [Wolfenstein II: The New Colossus](https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
+* [Dishonoured 2](https://store.steampowered.com/app/403640/Dishonored_2/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
+* [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
+* [Devil May Cry 5](https://store.steampowered.com/app/601150/Devil_May_Cry_5/)
 * [Fire Emblem: Three Houses (Need to finish)](https://www.nintendo.co.uk/Games/Nintendo-Switch/Fire-Emblem-Three-Houses-1175482.html)
-* [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/)
-* [GRIS](https://store.steampowered.com/app/683320/GRIS/)
 * [Final Fantasy X (Replay)](https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/)
 * [Final Fantasy X-2](https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/)
 * [Final Fantasy XII: The Zodiac Age](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/)
-* [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
+* [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
+* [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 
 > Small Games
-* [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
-* [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
-> Hard Games
-* [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
+* [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/)
+* [Slime Rancher (Need to finish)](https://store.steampowered.com/app/433340/Slime_Rancher/)
+* [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
+* [DOOM](https://store.steampowered.com/app/379720/DOOM/)
+* [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
+* [Momodora: Reverie Under The Moonlight](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
+* [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/)
+* [GRIS](https://store.steampowered.com/app/683320/GRIS/)
+* [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
 * [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
+* [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
+
+> Hard Games
+* [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
+* [Cuphead](https://store.steampowered.com/app/268910/Cuphead/)
+* [Thumper](https://store.steampowered.com/app/356400/Thumper/)
+* [Dark Souls 3 (Need to finish)](https://store.steampowered.com/app/374320/DARK_SOULS_III/)
+* [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/)
+* [Deaths Gambit](https://store.steampowered.com/app/356650/Deaths_Gambit/)
+* [The Sojourn](https://store.steampowered.com/app/794960/The_Sojourn/)
+
 # Played
 * [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
 * [~~Prey~~](https://store.steampowered.com/app/480490/Prey/)
