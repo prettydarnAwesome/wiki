@@ -39,3 +39,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "chickens are also a thing in the ground sometimes?" - marvin 28/4/2020
 * "i gotta drink some water brb, frogs will make me thirsty" - marvin 2/5/2020
 * "imagine if bananas made a sound, but you didn't know, but everyone else you know can hear the sound bananas make except you" - marvin 4/5/2020
+* "at what point does a monocular become a telescope" - marvin 17/6/2020
