@@ -89,3 +89,4 @@
 * [~~CODE VEIN~~](https://store.steampowered.com/app/678960/CODE_VEIN/)
 * [~~Indivisible~~](https://store.steampowered.com/app/421170/Indivisible/) (100% achievements)
 * [~~Shantae and the Seven Sirens~~](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/)
+* [~~Bloodstained: Ritual of the Night~~](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/)
