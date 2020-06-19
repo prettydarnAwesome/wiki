@@ -30,7 +30,6 @@
 * [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
 * [DOOM](https://store.steampowered.com/app/379720/DOOM/)
 * [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
-* [Momodora: Reverie Under The Moonlight](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
 * [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/) (I keep on losing on the final Island)
 * [GRIS](https://store.steampowered.com/app/683320/GRIS/)
 * [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
@@ -90,3 +89,4 @@
 * [~~Indivisible~~](https://store.steampowered.com/app/421170/Indivisible/) (100% achievements)
 * [~~Shantae and the Seven Sirens~~](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/)
 * [~~Bloodstained: Ritual of the Night~~](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/)
+* [~~Momodora: Reverie Under The Moonlight~~](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
