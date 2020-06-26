@@ -40,3 +40,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i gotta drink some water brb, frogs will make me thirsty" - marvin 2/5/2020
 * "imagine if bananas made a sound, but you didn't know, but everyone else you know can hear the sound bananas make except you" - marvin 4/5/2020
 * "at what point does a monocular become a telescope" - marvin 17/6/2020
+* "is a centaur a horseman................................................................... 𝒅𝒂𝒏𝒊𝒆𝒍" - marvin 26/6/2020
