@@ -43,3 +43,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "is a centaur a horseman................................................................... 𝒅𝒂𝒏𝒊𝒆𝒍" - marvin 26/6/2020
 * "when did they invent pigeons?" - marvin 26/6/2020
 * "what?! pigeons don't have history!?" - marvin 26/6/2020
+* "[zonalhaz](huw) and i should be in a band... of chickens..." - marvin 28/6/2020
