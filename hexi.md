@@ -1,5 +1,5 @@
 <!-- TITLE: Hexi -->
-<!-- SUBTITLE: Squire of the Weeb Society -->
+<!-- SUBTITLE: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire" -->
 
 <img src="https://cesque.com/storage/20/02/04/514516332105.png" width=500px>
 
