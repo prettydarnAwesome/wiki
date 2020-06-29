@@ -10,7 +10,6 @@
 * [God of War](https://godofwar.playstation.com/) (Need to finish)
 * [Assassin's Creed Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/) (Need to finish)
 * [NieR:Automata](https://store.steampowered.com/app/524220/NieRAutomata/) (Need to finish more)
-* [The Last of Us Part II](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/)
 * [Persona 5 Royal](https://atlus.com/p5r/) (Boy is this game longer than I expected)
 
 ### Big Games
@@ -93,3 +92,4 @@
 * [~~Shantae and the Seven Sirens~~](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/)
 * [~~Bloodstained: Ritual of the Night~~](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/)
 * [~~Momodora: Reverie Under The Moonlight~~](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
+* [~~The Last of Us Part II~~](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/)
