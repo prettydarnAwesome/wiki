@@ -58,6 +58,7 @@ oh no here comes huw's face
 "i'm excited to go to hell" - huw 2/6/2020
 "oh no, you saved waluigi :(" - huw 5/6/2020
 "huw and i should be in a band... of chickens..." - [marvin](marvin) 28/6/2020
+"what the *fuck* do crabs do?" - huw 2/7/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
