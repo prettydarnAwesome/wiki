@@ -22,7 +22,6 @@
 * [Final Fantasy X](https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/) (Replay - about halfway?)
 * [Final Fantasy X-2](https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/)
 * [Final Fantasy XII: The Zodiac Age](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/)
-* [STAR WARS Jedi: Fallen Order](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/) (Ask Huw to game share)
 * [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 * [Control](https://store.steampowered.com/app/870780/Control/) (Half way through)
 
@@ -93,3 +92,4 @@
 * [~~Bloodstained: Ritual of the Night~~](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/)
 * [~~Momodora: Reverie Under The Moonlight~~](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
 * [~~The Last of Us Part II~~](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/)
+* [~~STAR WARS Jedi: Fallen Order~~](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
