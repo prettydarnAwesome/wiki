@@ -9,6 +9,7 @@
 * "I was going to say something about testicles, but i stopped myself" - jake w/o e 22/06/2019
 * "gay people are the forbidden hummus" - jane without n e and with a k 29/10/2019
 * "sleeping is fuck adjacent" - jak 7/3/2020
+* "i'm pogging in dablic" - jonk 28/7/2020
 # Games That Jak Should Play
 * hyper light drifter
 * hollow knight
