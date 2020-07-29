@@ -37,7 +37,7 @@
 * "that's not very g\*mer of you or poggers" - Hexi 25/7/2020
 # Games to play
 * Stanley Parable
-
+* Hollow Knight!
 # [cesque](Cesques) dad
 * ~~non~~-biological
 # XCOM kill list
