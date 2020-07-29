@@ -38,7 +38,7 @@
 # Games to play
 * Stanley Parable
 * Hollow Knight!
-# [cesque](Cesques) dad
+# [cesque](Cesque) dad
 * ~~non~~-biological
 # XCOM kill list
 * Ben Beasley clone kill count                    1
