@@ -10,6 +10,7 @@
 * "gay people are the forbidden hummus" - jane without n e and with a k 29/10/2019
 * "sleeping is fuck adjacent" - jak 7/3/2020
 * "i'm pogging in dablic" - jonk 28/7/2020
+* "i hate it when i intensely uwu" - bonk 2/8/2020
 # Games That Jak Should Play
 * hyper light drifter
 * hollow knight
