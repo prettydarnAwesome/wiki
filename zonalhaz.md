@@ -59,6 +59,7 @@ oh no here comes huw's face
 "oh no, you saved waluigi :(" - huw 5/6/2020
 "huw and i should be in a band... of chickens..." - [marvin](marvin) 28/6/2020
 "what the *fuck* do crabs do?" - huw 2/7/2020
+"sometimes you need to make artistic decisions, and so here we put the stress on the *hole*, not the *ass*" - huw 8/7/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
