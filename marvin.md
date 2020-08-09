@@ -44,3 +44,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "when did they invent pigeons?" - marvin 26/6/2020
 * "what?! pigeons don't have history!?" - marvin 26/6/2020
 * "[zonalhaz](huw) and i should be in a band... of chickens..." - marvin 28/6/2020
+* "what age do you think you will be when you utter your last 'pog'?" - marvin 9/8/2020
