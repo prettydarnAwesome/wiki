@@ -4,5 +4,5 @@
 # Header
 Pizza -(PING)
 Prime eater = Huw Talis (zonalhaz)
-Bao - (Cesque)
+Bao - (cesque)
 Bibimbap - (HEXI)
