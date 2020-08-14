@@ -36,6 +36,7 @@
 * "It would go bong every time ping ponged" - Hexi 16/6/2020
 * "that's not very g\*mer of you or poggers" - Hexi 25/7/2020
 * "imagine Frozen 2 but it was written by Liddle Man Duela" - Hexi 7/8/2020
+* "dude, just wear adult diapers!" - Hexi 15/8/2020
 # Games to play
 * Stanley Parable
 * Hollow Knight!
