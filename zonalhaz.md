@@ -61,6 +61,7 @@ oh no here comes huw's face
 "what the *fuck* do crabs do?" - huw 2/7/2020
 "he slashes them with his big slashy claws but at the same time he punches them with his big punchy hands" - huw 6/82020
 "sometimes you need to make artistic decisions, and so here we put the stress on the *hole*, not the *ass*" - huw 7/8/2020
+"stop the cancel" - huw 15/8/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
