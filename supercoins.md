@@ -33,3 +33,5 @@
 "how do i get a goat to down a shot?" - supercoins 30/4/2020
 "for every adult you kill, you could've killed 2 kids instead" - trouble? 7/5/2020
 "i don't get stressed by scary, but i *do* get stressed by Jenga" - supercoins 13/8/2020
+"falling is gender nonspecific" - supercoins 15/8/2020
+"i've figured it out - you know how there are all these books about 'why do we sleep every day'? it's because our bones poison us" - supercoins 15/8/2020
