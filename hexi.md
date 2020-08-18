@@ -37,6 +37,7 @@
 * "that's not very g\*mer of you or poggers" - Hexi 25/7/2020
 * "imagine Frozen 2 but it was written by Liddle Man Duela" - Hexi 7/8/2020
 * "dude, just wear adult diapers!" - Hexi 15/8/2020
+* "alright hexi, you're a science man! go find some science!" - [SuperCoins](SuperCoins) 15/8/2020
 # Games to play
 * Stanley Parable
 * Hollow Knight!
