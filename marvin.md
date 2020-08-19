@@ -1,6 +1,8 @@
 <!-- TITLE: marvin -->
 <!-- SUBTITLE: should be in a band -->
 
+<img src=https://cesque.com/storage/20/08/19/248600643727.png width=500px>
+
 # Passive Ability
 when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's proximity-based Carly Rae Jepsen alarm is triggered, dealing 200/400/800 sonic damage and silencing them for the duration of the alarm (8 seconds).
 # Quotes
