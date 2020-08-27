@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Use these things to help you do raids and dungeons in Destiny 2 -->
 
 # Year 3 Raid Team
+```
 ############################ RAID PLANNING ############################ 
 
 https://imgur.com/a/iylolID
@@ -76,6 +77,7 @@ for Blacksmith:
     need to get this chest 5 times in total
   [ ] - "Fast and Unwieldy" triumph
     need to beat the sparrow encounter without anyone dying
+```
 
 # Pit of Heresy
 <img src=https://cesque.com/storage/19/11/07/828216022435.png width=600>
