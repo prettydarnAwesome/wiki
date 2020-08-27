@@ -64,6 +64,7 @@ oh no here comes huw's face
 "stop the cancel" - huw 15/8/2020
 "acronyms are NOT food" - huw 18/8/2020
 "we've got multiple Willies" - huw 20/8/2020
+"langitude & lotitude" - huw 26/8/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
