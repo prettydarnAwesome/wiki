@@ -8,11 +8,11 @@
 https://imgur.com/a/iylolID
 
 for Moments of Triumph:
-  [ ] - Leviathan
+  [x] - Leviathan
     rewards:
-      [ ] - ghost: Contender's Shell
-      [ ] - shader: Calus's Selected
-      [ ] - shader: Calus's Treasured
+      [x] - ghost: Contender's Shell
+      [x] - shader: Calus's Selected
+      [x] - shader: Calus's Treasured
   [ ] - Eater of Worlds
     rewards:
       [ ] - shader: Calus's Elite
@@ -22,9 +22,9 @@ for Moments of Triumph:
       [ ] - emote: Luxurious Toast
       [ ] - shader: Praetorian Visage
       [ ] - shader: Calus's Shadow
-  [ ] - Scourge of the Past
+  [x] - Scourge of the Past
     rewards:
-      [ ] - shader: Midnight Smith
+      [x] - shader: Midnight Smith
   [ ] - Crown of Sorrow
     rewards:
       [ ] - shader: Imperial Opulence
@@ -46,7 +46,7 @@ for Collections:
     [ ] - emblem: Two Enter, One Leaves
       Gauntlet/: you can't pick up the bomb twice. this is basically the prestige
       mode
-    [ ] - emblem: Good Dog
+    [x] - emblem: Good Dog
       Pleasure Gardens/dogs: each crystal holder can only shoot 1 flower. so the
       maximum buff you get is x24
     [ ] - emblem: Take the Throne
@@ -62,7 +62,7 @@ for Blacksmith:
   [ ] - flawless Scourge of the Past
     there are 6 buttons at the start of the encounter you need to hit in order
     to activate this - recommend assigning each player a button as needed
-  [ ] - "Hold the Line" challenge
+  [x] - "Hold the Line" challenge
     first encounter: don't let the energy meter drop below half. look up a good
     strat for this
   [ ] - "All for One, One for All" challenge
