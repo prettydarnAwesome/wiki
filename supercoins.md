@@ -35,3 +35,4 @@
 "i don't get stressed by scary, but i *do* get stressed by Jenga" - supercoins 13/8/2020
 "falling is gender nonspecific" - supercoins 15/8/2020
 "i've figured it out - you know how there are all these books about 'why do we sleep every day'? it's because our bones poison us" - supercoins 15/8/2020
+"the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020
