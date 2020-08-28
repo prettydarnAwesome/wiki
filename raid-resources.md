@@ -7,76 +7,81 @@
 
 https://imgur.com/a/iylolID
 
-for Moments of Triumph:
-  [x] - Leviathan
-    rewards:
-      [x] - ghost: Contender's Shell
-      [x] - shader: Calus's Selected
-      [x] - shader: Calus's Treasured
-  [ ] - Eater of Worlds
-    rewards:
-      [ ] - shader: Calus's Elite
-      [ ] - shader: Calus's Preferred
-  [ ] - Spire of Stars
-    rewards:
-      [ ] - emote: Luxurious Toast
-      [ ] - shader: Praetorian Visage
-      [ ] - shader: Calus's Shadow
-  [x] - Scourge of the Past
-    rewards:
-      [x] - shader: Midnight Smith
-  [ ] - Crown of Sorrow
-    rewards:
-      [ ] - shader: Imperial Opulence
-      [ ] - shader: Imperial Dress
+[x] - Leviathan
+	[x] - Skyburner's Oath Catalyst (prestige)
+	[ ] - challenges
+[ ] - Eater of Worlds
+	[ ] - prestige difficulty
+	[ ] - Telesto Catalyst (prestige)
+[ ] - Spire of Stars
+	[ ] - prestige difficulty
+	[ ] - Sleeper Simulant Catalyst (prestige)
+[x] - Scourge of the Past
+	[ ] - Anarchy
+	[ ] - challenges
+	[ ] - triumphs
+	[ ] - flawless (6 buttons to hit in order at the start)
+[ ] - Crown of Sorrow
+	[ ] - Tarrabah
+	[ ] - challenges
+	[ ] - triumphs
+	[ ] - flawless
+	
+[ ] - Leviathan challenges
+	[ ] - "Splish Splash" (bathing pools)
+		one player must stay on the center plate at all times.
+		apparently you can be anywhere in the water? but no jumping!
+	[x] - "Good Dog" (dogs)
+		each crystal holder can only shoot 1 flower. so the
+    maximum buff you get is x24
+	[ ] - "Two Enter, One Leaves" (gauntlet)
+		you can't pick up the bomb twice. this is basically the prestige mode
+	[ ] - "Take the Throne" (calus)
+		in each damage phase, you need to activate all 4 plates at the same time
 
-for Catalysts:
-  drops randomly from encounters. weekly lockout (can't repeatedly farm).
-  can run on all characters per week for higher chance
-  -------------------------------------------------------------------------
-  Prestige Leviathan: [ ] - Skyburner's Oath Catalyst
-  Prestige Spire of Stars: [ ] - Sleeper Simulant Catalyst
-  Prestige Eater of Worlds: [ ] - Telesto Catalyst
-
-for Collections:
-  Leviathan:
-    [ ] - emblem: Splish Splash
-      Bathing Pools/baths: one player must stay on the center plate at all times.
-      apparently you can be anywhere in the water? but no jumping!
-    [ ] - emblem: Two Enter, One Leaves
-      Gauntlet/: you can't pick up the bomb twice. this is basically the prestige
-      mode
-    [x] - emblem: Good Dog
-      Pleasure Gardens/dogs: each crystal holder can only shoot 1 flower. so the
-      maximum buff you get is x24
-    [ ] - emblem: Take the Throne
-      Calus: in each damage phase, you need to activate all 4 plates at the same
-      time
-  Crown of Sorrow:
-    [ ] - ghost shell: Shadow of Earth Shell
-      Complete each encounter without any player getting the Witch's Curse
-      debuff. Don't have to do them in one run!
-
-
-for Blacksmith:
-  [ ] - flawless Scourge of the Past
-    there are 6 buttons at the start of the encounter you need to hit in order
-    to activate this - recommend assigning each player a button as needed
-  [x] - "Hold the Line" challenge
-    first encounter: don't let the energy meter drop below half. look up a good
-    strat for this
-  [ ] - "All for One, One for All" challenge
-    penultimate encounter: each player must dunk one of each symbol. will make
-    encounter long, and you don't find out if you failed until you beat it and
-    gotta do the raid again
-  [ ] - "Each to their Own" challenge
-    last encounter: each player must shoot exactly 1 of Insurrection Prime's
-    generators. unclear if this needs to be the same generator in 2nd+ phase
-  [ ] - "Raider of the Lost Treasure" triumph
-    need to get the secret chest in sparrow encounter by hitting the buttons. we
-    need to get this chest 5 times in total
-  [ ] - "Fast and Unwieldy" triumph
-    need to beat the sparrow encounter without anyone dying
+[ ] - Scourge of the Past
+	[ ] - challenges
+		[x] - "Hold the Line"
+			first encounter: don't let the energy meter drop below half. look up a good
+			strat for this
+		[ ] - "All for One, One for All"
+			penultimate encounter: each player must dunk one of each symbol. will make
+			encounter long, and you don't find out if you failed until you beat it and
+			gotta do the raid again
+		[ ] - "To Each Their Own"
+			last encounter: each player must shoot exactly 1 of Insurrection Prime's
+			generators. unclear if this needs to be the same generator in 2nd+ phase
+	[ ] - triumphs
+		[ ] - "Raider of the Lost Treasure" (5 times sparrow chest)
+		[x] - "Fast and Unwieldy" (no casualty sparrow section)
+		[ ] - "Thunderstruck" (all arc subclasses)
+		[ ] - "Solarstruck" (all solar subclasses)
+		[ ] - "Voidstruck" (all void subclasses)
+		[ ] - "Stay Classy" (all same class)
+		[ ] - "Gone Huntin'"
+			Use a drake to kill all (even the first one) beserkers in the first encounter
+		[ ] - "Six of a Kind"
+			Use a drake to kill 6 servitors in the first encounter
+			
+[ ] - Crown of Sorrow
+	[ ] - challenges
+		[ ] - "Limited Blessings"
+		[ ] - "Total Victory"
+		[ ] - "With Both Hands"
+	[ ] - triumphs
+		[ ] - "Arc Borne" (all arc subclasses)
+		[ ] - "Void Borne" (all void subclasses)
+		[ ] - "Solar Borne" (all solar subclasses)
+		[ ] - "Stay Classy" (all same class)
+		[ ] - "I'm Not Superstitious" (don't receive the Witch's Curse debuff)
+			[x] - hive ritual dispelled
+			[ ] - kingdom of sorrow infiltrated
+			[x] - gahlran's deception defeated
+			[x] - gahlran defeated
+		[ ] - "Lost in the Kingdom of Sorrow" (loot the chest at the top of the pinnacle 5 times)
+		
+notes:
+	- catalysts drop from all encounters but repeated attempts on the same character do not count
 ```
 
 # Pit of Heresy
