@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-08-29T14:51:39.254Z
+date: 2020-08-29T17:12:19.418Z
 tags: 
 editor: markdown
 ---
@@ -58,7 +58,7 @@ https://imgur.com/a/iylolID
 			last encounter: each player must shoot exactly 1 of Insurrection Prime's
 			generators. unclear if this needs to be the same generator in 2nd+ phase
 	[ ] - triumphs
-		[ ] - "Raider of the Lost Treasure" (5 times sparrow chest)
+		[x] - "Raider of the Lost Treasure" (5 times sparrow chest)
 		[x] - "Fast and Unwieldy" (no casualty sparrow section)
 		[ ] - "Thunderstruck" (all arc subclasses)
 		[x] - "Solarstruck" (all solar subclasses)
