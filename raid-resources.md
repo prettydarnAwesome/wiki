@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-08-29T13:48:06.065Z
+date: 2020-08-29T14:51:39.254Z
 tags: 
 editor: markdown
 ---
@@ -19,8 +19,8 @@ https://imgur.com/a/iylolID
 [ ] - Eater of Worlds
 	[ ] - prestige difficulty
 	[ ] - Telesto Catalyst (prestige)
-[ ] - Spire of Stars
-	[ ] - prestige difficulty
+[x] - Spire of Stars
+	[x] - prestige difficulty
 	[ ] - Sleeper Simulant Catalyst (prestige)
 [x] - Scourge of the Past
 	[ ] - Anarchy
