@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-08-29T13:42:18.784Z
+date: 2020-08-29T13:48:06.065Z
 tags: 
 editor: markdown
 ---
@@ -34,7 +34,7 @@ https://imgur.com/a/iylolID
 	[ ] - flawless
 	
 [ ] - Leviathan challenges
-	[ ] - "Splish Splash" (bathing pools)
+	[x] - "Splish Splash" (bathing pools)
 		one player must stay on the center plate at all times.
 		apparently you can be anywhere in the water? but no jumping!
 	[x] - "Good Dog" (dogs)
@@ -50,7 +50,7 @@ https://imgur.com/a/iylolID
 		[x] - "Hold the Line"
 			first encounter: don't let the energy meter drop below half. look up a good
 			strat for this
-		[ ] - "All for One, One for All"
+		[x] - "All for One, One for All"
 			penultimate encounter: each player must dunk one of each symbol. will make
 			encounter long, and you don't find out if you failed until you beat it and
 			gotta do the raid again
@@ -61,7 +61,7 @@ https://imgur.com/a/iylolID
 		[ ] - "Raider of the Lost Treasure" (5 times sparrow chest)
 		[x] - "Fast and Unwieldy" (no casualty sparrow section)
 		[ ] - "Thunderstruck" (all arc subclasses)
-		[ ] - "Solarstruck" (all solar subclasses)
+		[x] - "Solarstruck" (all solar subclasses)
 		[ ] - "Voidstruck" (all void subclasses)
 		[ ] - "Stay Classy" (all same class)
 		[ ] - "Gone Huntin'"
