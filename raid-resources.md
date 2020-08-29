@@ -1,5 +1,11 @@
-<!-- TITLE: Raid Resources -->
-<!-- SUBTITLE: Use these things to help you do raids and dungeons in Destiny 2 -->
+---
+title: Raid Resources
+description: Use these things to help you do raids and dungeons in Destiny 2
+published: true
+date: 2020-08-29T13:42:18.784Z
+tags: 
+editor: markdown
+---
 
 # Year 3 Raid Team
 ```
@@ -98,3 +104,6 @@ https://docs.google.com/spreadsheets/d/18o0jOWXKCMmmtKiU2YsBdrOoUBD-tD21bycy-Ydt
 ![](https://cesque.com/storage/19/08/06/725763646125.png)
 
 ![](https://cesque.com/storage/19/08/06/517372573346.png)
+
+# Leviathan
+![](https://cesque.com/storage/20/08/29/876070733766.png)
