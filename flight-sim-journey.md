@@ -2,7 +2,7 @@
 title: Europe Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-02T19:14:30.312Z
+date: 2020-09-04T23:43:48.181Z
 tags: 
 editor: markdown
 ---
@@ -16,3 +16,7 @@ our first flight! autopilot was being suicidal for both of us so we just navigat
 # 2020-09-02: Kirkwall `EGPA` → Inverness `EGPE` (1h47m33s)
 
 had some autopilot issues again but we both managed to use autopilot for at least some of the flight? according to huw letting autopilot sort itself out works but i'd rather not have my plane be upside down at any point in the flight. a cloudy start (the 𝙜𝙧𝙖𝙮 𝙫𝙤𝙞𝙙) but as the sun set towards the end of the flight and we headed west from  Lossiemouth (TACAN: `LSM`) to Inverness, the Scottish coast looked really nice! also, this is my longest flight i've ever done :O we did active pause so i could go eat in the middle of it, so i'm not sure if that affects the timing, but it's still longer - `cesque`
+
+# 2020-09-05: Inverness `EGPE` → Fort Augustus Airstrip `-` (27m29s)
+
+we took off from Inverness in the small hours of the morning for our short jaunt over Loch Ness. all in all a pleasant, uneventful flight other than an impromptu aileron roll from yours truly when cesque said he could see me. we both landed well on the tiny grass airstrip - `zonalhaz`
