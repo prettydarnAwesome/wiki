@@ -1,8 +1,8 @@
 ---
-title: Europe Flight Sim Journey Log
+title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-04T23:52:59.765Z
+date: 2020-09-04T23:55:25.890Z
 tags: 
 editor: markdown
 ---
@@ -18,6 +18,7 @@ our first flight! autopilot was being suicidal for both of us so we just navigat
 had some autopilot issues again but we both managed to use autopilot for at least some of the flight? according to huw letting autopilot sort itself out works but i'd rather not have my plane be upside down at any point in the flight. a cloudy start (the 𝙜𝙧𝙖𝙮 𝙫𝙤𝙞𝙙) but as the sun set towards the end of the flight and we headed west from  Lossiemouth (TACAN: `LSM`) to Inverness, the Scottish coast looked really nice! also, this is my longest flight i've ever done :O we did active pause so i could go eat in the middle of it, so i'm not sure if that affects the timing, but it's still longer 
 
 [huw having autopilot issues on the coast of scotland](https://cesque.com/storage/20/09/05/581027651021.jpg) - `cesque`
+<img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
 
 <style>
  
