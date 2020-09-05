@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-05T00:07:10.532Z
+date: 2020-09-05T00:07:48.974Z
 tags: 
 editor: markdown
 ---
@@ -19,7 +19,7 @@ had some autopilot issues again but we both managed to use autopilot for at leas
 
 <a href="https://cesque.com/storage/20/09/05/581027651021.jpg" class="image-link">
   <div class="content">huw having autopilot issues on the coast of scotland</div>
-  <img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
+  <img src="https://cesque.com/storage/20/09/05/581027651021.jpg">
 </a>
 
 # 2020-09-05: Inverness `EGPE` → Fort Augustus Airstrip `-` (27m29s)
@@ -28,7 +28,7 @@ we took off from Inverness in the small hours of the morning for our short jaunt
 
 <a href="https://cesque.com/storage/20/09/05/145881647223.png" class="image-link">
   <div class="content">my approach, featuring missed approach due to being way too high above the runway and also the wrong direction for the wind according to huw?</div>
-  <img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
+  <img src="https://cesque.com/storage/20/09/05/145881647223.png">
 </a>
 
 we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock - `cesque`
