@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-08-29T17:12:19.418Z
+date: 2020-09-05T11:59:47.445Z
 tags: 
 editor: markdown
 ---
@@ -107,3 +107,6 @@ https://docs.google.com/spreadsheets/d/18o0jOWXKCMmmtKiU2YsBdrOoUBD-tD21bycy-Ydt
 
 # Leviathan
 ![](https://cesque.com/storage/20/08/29/876070733766.png)
+
+# Last Wish
+![](https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/09/destiny-2-wish-7-seventh-wish.jpg)
