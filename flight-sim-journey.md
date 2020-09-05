@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-05T00:30:31.316Z
+date: 2020-09-05T00:44:34.699Z
 tags: 
 editor: markdown
 ---
@@ -33,4 +33,4 @@ we took off from Inverness in the small hours of the morning for our short jaunt
   <img src="https://cesque.com/storage/20/09/05/145881647223.png">
 </a>
 
-we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock - `cesque`
+we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock. fort augustus is a community-made custom airstrip, but there's really not much to it. the stick fences were a nice touch though - `cesque`
