@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-05T00:03:12.545Z
+date: 2020-09-05T00:05:17.502Z
 tags: 
 editor: markdown
 ---
@@ -28,27 +28,3 @@ we took off from Inverness in the small hours of the morning for our short jaunt
 
 [my approach](https://cesque.com/storage/20/09/05/145881647223.png), featuring missed approach due to being way too high above the runway and also the wrong direction for the wind according to huw?
 we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock - `cesque`
-
-<style>
-  .image-link {
-  	display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    object-fit: cover;
-    max-height: 300px;
-  	position: relative;
-  }
-  
-  .image-link .content {
-  	display: block;
-    color: white;
-    background: rgba(0, 0, 0, 0.5);
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    z-index: 1;
-  	padding: 20px;
-  }
-</style>
