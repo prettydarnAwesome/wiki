@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-05T00:05:17.502Z
+date: 2020-09-05T00:07:10.532Z
 tags: 
 editor: markdown
 ---
@@ -26,5 +26,9 @@ had some autopilot issues again but we both managed to use autopilot for at leas
 
 we took off from Inverness in the small hours of the morning for our short jaunt over Loch Ness. all in all a pleasant, uneventful flight other than an impromptu aileron roll from yours truly when cesque said he could see me. we both landed well on the tiny grass airstrip - `zonalhaz`
 
-[my approach](https://cesque.com/storage/20/09/05/145881647223.png), featuring missed approach due to being way too high above the runway and also the wrong direction for the wind according to huw?
+<a href="https://cesque.com/storage/20/09/05/145881647223.png" class="image-link">
+  <div class="content">my approach, featuring missed approach due to being way too high above the runway and also the wrong direction for the wind according to huw?</div>
+  <img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
+</a>
+
 we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock - `cesque`
