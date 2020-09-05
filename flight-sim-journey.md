@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-04T23:55:25.890Z
+date: 2020-09-05T00:03:12.545Z
 tags: 
 editor: markdown
 ---
@@ -17,12 +17,10 @@ our first flight! autopilot was being suicidal for both of us so we just navigat
 
 had some autopilot issues again but we both managed to use autopilot for at least some of the flight? according to huw letting autopilot sort itself out works but i'd rather not have my plane be upside down at any point in the flight. a cloudy start (the 𝙜𝙧𝙖𝙮 𝙫𝙤𝙞𝙙) but as the sun set towards the end of the flight and we headed west from  Lossiemouth (TACAN: `LSM`) to Inverness, the Scottish coast looked really nice! also, this is my longest flight i've ever done :O we did active pause so i could go eat in the middle of it, so i'm not sure if that affects the timing, but it's still longer 
 
-[huw having autopilot issues on the coast of scotland](https://cesque.com/storage/20/09/05/581027651021.jpg) - `cesque`
-<img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
-
-<style>
- 
-</style>
+<a href="https://cesque.com/storage/20/09/05/581027651021.jpg" class="image-link">
+  <div class="content">huw having autopilot issues on the coast of scotland</div>
+  <img src=https://cesque.com/storage/20/09/05/581027651021.jpg>
+</a>
 
 # 2020-09-05: Inverness `EGPE` → Fort Augustus Airstrip `-` (27m29s)
 
@@ -30,3 +28,27 @@ we took off from Inverness in the small hours of the morning for our short jaunt
 
 [my approach](https://cesque.com/storage/20/09/05/145881647223.png), featuring missed approach due to being way too high above the runway and also the wrong direction for the wind according to huw?
 we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock - `cesque`
+
+<style>
+  .image-link {
+  	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    object-fit: cover;
+    max-height: 300px;
+  	position: relative;
+  }
+  
+  .image-link .content {
+  	display: block;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+  	padding: 20px;
+  }
+</style>
