@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-06T16:28:19.677Z
+date: 2020-09-06T21:55:27.580Z
 tags: 
 editor: markdown
 ---
@@ -68,3 +68,12 @@ then i crashed my wing tip into a building at Islay airport. - `cesque`
     <img src="https://cesque.com/storage/20/09/06/087072846504.jpg">
 	</a>
 </div>
+
+# 2020-09-05: Islay `EGPI` → Aldergrove, Belfast `EGAA` (29m29s)
+
+we finally reached mainland Ireland! we used approach mode to basically do almost the entire landing automatically, though it seemed to get a bit sketchy very close to the runway and required manual landing in both our cases. also we had to taxi across the universe. - `cesque`
+
+<a href="https://cesque.com/storage/20/09/06/405745582115.jpg" class="image-link">
+	<img src="https://cesque.com/storage/20/09/06/405745582115.jpg">
+</a>
+
