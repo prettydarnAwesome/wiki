@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-09-06T16:23:36.528Z
+date: 2020-09-06T16:24:49.966Z
 tags: 
 editor: markdown
 ---
@@ -77,7 +77,7 @@ oh no here comes huw's face
 * ~~Watch Dogs 2~~
 * ~~Little Nightmares~~
 * Metroid: Zero Mission :)
-* Asscreed: Syndicate
+* ~~Asscreed: Syndicate~~
 * ASTRONEER
 * ~~Barony~~
 * Borderlands: The Presequel
