@@ -2,14 +2,14 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-06T01:11:30.578Z
+date: 2020-09-06T16:28:19.677Z
 tags: 
 editor: markdown
 ---
 
 The concept is that [cesque](/cesque) and [zonalhaz](/zonalhaz) are travelling southwards together from the very northernmost part of the UK in flight sim. Our goal is to reach the south of the UK and then onwards from there to... Norway? France? who knows...
 
-<a href="https://skyvector.com/?ll=57.5140527017196,-4.520324696053803&chart=301&zoom=7&fpl=%20EGPB%20EGPA%20LSM%20EGPE%205708N00440W" style="color: #8e44ad; font-weight: bold;">CLICK HERE FOR SKYVECTOR MAP</a> (hopefully we kept it up to date)
+<a href="https://skyvector.com/?ll=55.73381185853868,-5.997802723490808&chart=301&zoom=4&fpl=%20EGPB%20EGPA%20LSM%20EGPE%205708N00440W%20EGEO%20BRUCE%20EGPI" style="color: #8e44ad; font-weight: bold;">CLICK HERE FOR SKYVECTOR MAP</a> (hopefully we kept it up to date)
 
 # 2020-08-31: Sumburgh `EGPB` → Kirkwall `EGPA` (57m44s)
 
