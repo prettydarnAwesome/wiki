@@ -1,5 +1,11 @@
-<!-- TITLE: Zonalhaz -->
-<!-- SUBTITLE: "I said something stupid pretty recently" -->
+---
+title: Zonalhaz
+description: "I said something stupid pretty recently"
+published: true
+date: 2020-09-06T16:23:36.528Z
+tags: 
+editor: markdown
+---
 
 When huw was a boy his father said to him "with those instruments you will never be a musician". His only option was a miracle from the music shop. He studied their instruments in hope for a cure, but in doing so he released his actual dream was to be a instrument himself be strong huweth you'll appease your father one day Kappapride
 
@@ -59,7 +65,7 @@ oh no here comes huw's face
 "oh no, you saved waluigi :(" - huw 5/6/2020
 "huw and i should be in a band... of chickens..." - [marvin](marvin) 28/6/2020
 "what the *fuck* do crabs do?" - huw 2/7/2020
-"he slashes them with his big slashy claws but at the same time he punches them with his big punchy hands" - huw 6/82020
+"he slashes them with his big slashy claws but at the same time he punches them with his big punchy hands" - huw 6/8/2020
 "sometimes you need to make artistic decisions, and so here we put the stress on the *hole*, not the *ass*" - huw 7/8/2020
 "stop the cancel" - huw 15/8/2020
 "acronyms are NOT food" - huw 18/8/2020
