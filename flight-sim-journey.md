@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-05T22:08:14.680Z
+date: 2020-09-06T01:11:30.578Z
 tags: 
 editor: markdown
 ---
@@ -36,3 +36,35 @@ we took off from Inverness in the small hours of the morning for our short jaunt
 we saw lots of wind turbines! but thankfully the wind was very calm. also i was very scared when huw did his aileron roll... i was convinced his plane had disconnected or shut off or something. dude literally dropped out my view out the back window like a freakin rock. fort augustus is a community-made custom airstrip, but there's really not much to it. the stick fences were a nice touch though - `cesque`
 
 # 2020-09-05: Fort Augustus Airstrip `-` → Oban `EGEO` → Islay `EGPI` (1hr11m13s)
+
+we landed at Oban and decided we wanted to keep going and so headed to the island of Islay (apparently `/ˈaɪlə/` which is cursed). there were some really spectacular sights in this journey as we headed out over Loch Linnhe and the Firth of Lorn. also we managed to do a good job of using our autopilots and cruising really smoothly and mostly safely (though we were very close together at certain points which is definitely not safe).
+
+then i crashed my wing tip into a building at Islay airport. - `cesque`
+
+<div class="image-gallery">
+  <a href="https://cesque.com/storage/20/09/06/774858644575.jpg" class="image-link">
+    <div class="content">weird markings (https://www.google.com/maps/@56.7602338,-5.1560968,2131m/data=!3m1!1e3)</div>
+    <img src="https://cesque.com/storage/20/09/06/774858644575.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/730536248421.jpg" class="image-link">
+    <img src="https://cesque.com/storage/20/09/06/730536248421.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/478567868230.jpg" class="image-link">
+    <div class="content">flying super close</div>
+    <img src="https://cesque.com/storage/20/09/06/478567868230.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/064520340077.jpg" class="image-link">
+    <div class="content">flying <b>SUPER</b> close</div>
+    <img src="https://cesque.com/storage/20/09/06/064520340077.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/152236218552.jpg" class="image-link">
+    <img src="https://cesque.com/storage/20/09/06/152236218552.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/457654750160.jpg" class="image-link">
+    <img src="https://cesque.com/storage/20/09/06/457654750160.jpg">
+	</a>
+  <a href="https://cesque.com/storage/20/09/06/087072846504.jpg" class="image-link">
+    <div class="content">now that's what i call good parking</div>
+    <img src="https://cesque.com/storage/20/09/06/087072846504.jpg">
+	</a>
+</div>
