@@ -1,5 +1,11 @@
-<!-- TITLE: cesque -->
-<!-- SUBTITLE: huw didnt make me a page :( -->
+---
+title: cesque
+description: huw didnt make me a page :(
+published: true
+date: 2020-09-07T20:34:53.843Z
+tags: 
+editor: markdown
+---
 
 Look here for games: [Games to Play](cesque/games-to-play)
 
@@ -14,6 +20,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "huw, come commit ritual sacrifice on me" - cesque 30/7/2019
 * "girlfriend ingredients" - cesque 6/3/2020
 * "foot gallery" - cesque 7/3/2020
+* "Are you ready for a big-sweaty-four-man-showdown" - cesque 7/9/2020
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
