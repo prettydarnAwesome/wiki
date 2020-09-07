@@ -1,5 +1,11 @@
-<!-- TITLE: Hexi -->
-<!-- SUBTITLE: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire" -->
+---
+title: Hexi
+description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
+published: true
+date: 2020-09-07T19:52:38.713Z
+tags: 
+editor: markdown
+---
 
 <img src="https://cesque.com/storage/20/02/04/514516332105.png" width=500px>
 
@@ -39,6 +45,7 @@
 * "dude, just wear adult diapers!" - Hexi 15/8/2020
 * "alright hexi, you're a science man! go find some science!" - [SuperCoins](SuperCoins) 15/8/2020
 * "you can make a cup of meat :)" - Hexi 18/8/2020
+* "it's a bang or be bang world" - Hexi 7/9/2020
 # Games to play
 * Stanley Parable
 * Hollow Knight!
