@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-08T18:12:10.837Z
+date: 2020-09-10T22:52:56.986Z
 tags: 
 editor: markdown
 ---
@@ -76,4 +76,8 @@ we finally reached mainland Ireland! we used approach mode to basically do almos
 <a href="https://cesque.com/storage/20/09/06/405745582115.jpg" class="image-link">
 	<img src="https://cesque.com/storage/20/09/06/405745582115.jpg">
 </a>
+
+# 2020-09-05: Aldergrove, Belfast `EGAA` → Valley `EGOV` (via Dublin Intl. `EIDW`) (55m26s)
+
+chill little flight with passengers! we went south to Dublin then east over to Valley, joining the localiser for a pretty easy landing. speaking of, turns out the localiser here is offset? we thought it was a bug, but... nah it's on the charts and we just missed it lol - `cesque`
 
