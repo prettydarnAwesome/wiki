@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-09-05T11:59:47.445Z
+date: 2020-09-13T16:10:18.365Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,7 @@ https://imgur.com/a/iylolID
 	[x] - Skyburner's Oath Catalyst (prestige)
 	[ ] - challenges
 [ ] - Eater of Worlds
-	[ ] - prestige difficulty
+	[x] - prestige difficulty
 	[ ] - Telesto Catalyst (prestige)
 [x] - Spire of Stars
 	[x] - prestige difficulty
@@ -26,7 +26,7 @@ https://imgur.com/a/iylolID
 	[ ] - Anarchy
 	[ ] - challenges
 	[ ] - triumphs
-	[ ] - flawless (6 buttons to hit in order at the start)
+	[x] - flawless (6 buttons to hit in order at the start)
 [ ] - Crown of Sorrow
 	[ ] - Tarrabah
 	[ ] - challenges
