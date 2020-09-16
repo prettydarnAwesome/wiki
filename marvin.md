@@ -1,5 +1,11 @@
-<!-- TITLE: marvin -->
-<!-- SUBTITLE: should be in a band -->
+---
+title: marvin
+description: should be in a band
+published: true
+date: 2020-09-16T15:58:04.470Z
+tags: 
+editor: markdown
+---
 
 <img src=https://cesque.com/storage/20/08/19/248600643727.png width=500px>
 
@@ -46,5 +52,6 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "when did they invent pigeons?" - marvin 26/6/2020
 * "what?! pigeons don't have history!?" - marvin 26/6/2020
 * "[zonalhaz](huw) and i should be in a band... of chickens..." - marvin 28/6/2020
+* "when you get constipation.... you can chew it" - marvin 16/9/2020 pls move  this one later
 * "what age do you think you will be when you utter your last 'pog'?" - marvin 9/8/2020
 * "i actually could have a bun in the oven" - marvin 18/8/2020
