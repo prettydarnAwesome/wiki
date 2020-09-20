@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2020-09-08T16:05:35.715Z
+date: 2020-09-20T11:47:36.262Z
 tags: 
 editor: markdown
 ---
@@ -30,6 +30,7 @@ editor: markdown
 "how do i go to prison?" - Ben 1/9/2020
 "i need to kill some more children" - Ben 1/9/2020
 "why are there so many ghosts in the world" - Ben 8/9/2020
+"If you go swimming you gotta pack a snack" - Ben 20/09/2020 in regards to putting bounties in his trunk
 
 # Ben's **Boneless** Bake
 ### Ingredients
