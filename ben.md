@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2020-09-20T11:47:36.262Z
+date: 2020-09-21T17:36:59.314Z
 tags: 
 editor: markdown
 ---
@@ -31,6 +31,7 @@ editor: markdown
 "i need to kill some more children" - Ben 1/9/2020
 "why are there so many ghosts in the world" - Ben 8/9/2020
 "If you go swimming you gotta pack a snack" - Ben 20/09/2020 in regards to putting bounties in his trunk
+"everyone reverts to a ben state in their  life" - jane 21/09/2020 (in regards to opennh things)
 
 # Ben's **Boneless** Bake
 ### Ingredients
