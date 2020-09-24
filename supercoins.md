@@ -1,4 +1,11 @@
-<!-- TITLE: SuperCoins -->
+---
+title: SuperCoins
+description: 
+published: true
+date: 2020-09-24T21:14:48.189Z
+tags: 
+editor: markdown
+---
 
 **Alternate names**: Mr Currency, SuperBooks, Literally/Literary Coins, Generic Currency, LowlandBag27923, Señor Peso, Penny
 
@@ -36,3 +43,4 @@
 "falling is gender nonspecific" - supercoins 15/8/2020
 "i've figured it out - you know how there are all these books about 'why do we sleep every day'? it's because our bones poison us" - supercoins 15/8/2020
 "the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020
+"do people count as decorations?" - supercoins 24/9/2020
