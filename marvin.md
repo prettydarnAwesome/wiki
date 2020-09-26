@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-09-26T19:32:09.062Z
+date: 2020-09-26T23:35:30.893Z
 tags: 
 editor: markdown
 ---
@@ -56,3 +56,4 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i actually could have a bun in the oven" - marvin 18/8/2020
 * "when you get constipation.... you can chew it" - marvin 16/9/2020
 * "here's an article called 'Smell Like The Pope'" - marvin 26/9/2020
+* "the only way i can relate to things in the world is comparing them to poggers [...] things are either Pog or No Pog" - marvin 27/9/2020
