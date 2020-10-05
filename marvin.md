@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-09-28T01:02:52.732Z
+date: 2020-10-05T10:13:07.365Z
 tags: 
 editor: markdown
 ---
@@ -55,7 +55,8 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "what age do you think you will be when you utter your last 'pog'?" - marvin 9/8/2020
 * "i actually could have a bun in the oven" - marvin 18/8/2020
 * "when you get constipation.... you can chew it" - marvin 16/9/2020
+* "i know everything because it's 10am" - marvin 22/9/2020
 * "here's an article called 'Smell Like The Pope'" - marvin 26/9/2020
 * "the only way i can relate to things in the world is comparing them to poggers [...] things are either Pog or No Pog" - marvin 27/9/2020
 
-<img src=https://cesque.com/storage/20/09/28/813120160245.png width=300px>
+<img src=https://cesque.com/storage/20/09/28/813120160245.png width=300px style="margin-top: 30px">
