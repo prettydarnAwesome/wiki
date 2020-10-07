@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-10-07T21:24:45.044Z
+date: 2020-10-07T21:27:08.331Z
 tags: 
 editor: markdown
 ---
@@ -46,6 +46,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "okay [cesque](cesque), you can fight me" - marvin 25/4/2020
 * "chickens are also a thing in the ground sometimes?" - marvin 28/4/2020
 * "i gotta drink some water brb, frogs will make me thirsty" - marvin 2/5/2020
+	* <div style="color: #aaa">"frogs make me thirsty >:(" - marvin 7/10/2020</div>
 * "imagine if bananas made a sound, but you didn't know, but everyone else you know can hear the sound bananas make except you" - marvin 4/5/2020
 * "at what point does a monocular become a telescope" - marvin 17/6/2020
 * "is a centaur a horseman................................................................... 𝒅𝒂𝒏𝒊𝒆𝒍" - marvin 26/6/2020
@@ -58,6 +59,5 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i know everything because it's 10am" - marvin 22/9/2020
 * "here's an article called 'Smell Like The Pope'" - marvin 26/9/2020
 * "the only way i can relate to things in the world is comparing them to poggers [...] things are either Pog or No Pog" - marvin 27/9/2020
-* "frogs make me thirsty >:(" - marvin 7/10/2020
 
 <img src=https://cesque.com/storage/20/09/28/813120160245.png width=300px style="margin-top: 30px">
