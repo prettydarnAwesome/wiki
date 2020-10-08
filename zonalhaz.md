@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-09-25T16:02:05.385Z
+date: 2020-10-08T21:11:18.966Z
 tags: 
 editor: markdown
 ---
@@ -74,6 +74,7 @@ oh no here comes huw's face
 "i'm the anarchy man" - huw 6/9/2020
 "cobweb is like the primary method of spider" - huw 8/9/2020
 "i've been inundated by poggers" - huw 25/9/2020
+"a fine-toothed comb is just a ton of toothpicks" - huw 8/10/2020
 
 # Games to play
 * Child of Light
