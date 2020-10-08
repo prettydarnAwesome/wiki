@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2020-09-21T17:36:59.314Z
+date: 2020-10-08T18:57:51.546Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 "why are there so many ghosts in the world" - Ben 8/9/2020
 "If you go swimming you gotta pack a snack" - Ben 20/09/2020 in regards to putting bounties in his trunk
 "everyone reverts to a ben state in their  life" - jane 21/09/2020 (in regards to opennh things)
+"i could just murder them, I'm not sure if that's frowned upon though" - Urwin 8/10/20
 
 # Ben's **Boneless** Bake
 ### Ingredients
