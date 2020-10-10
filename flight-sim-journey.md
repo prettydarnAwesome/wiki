@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-10T11:57:38.995Z
+date: 2020-10-10T14:08:39.287Z
 tags: 
 editor: markdown
 ---
@@ -108,7 +108,7 @@ we did a VFR jaunt in the 152... it's been a while since i flew this! was super 
 
 # 2020-10-10 Birmingham `EGBB` → Heathrow `EGLL` (30m)
 
-me and huw are doctors and we're transporting a full circulatory system in a 208 Grand Caravan because someone in a Heathrow lounge is missing theirs. we actually used SimBrief to generate a plan for this one, which was cool. very chill, autopilot did everything, which was a nice change after flying the 152 again lmao
+i put this one in a separate entry because we switched planes. me and huw are doctors and we're transporting a full circulatory system in a 208 Grand Caravan because someone in a Heathrow lounge is missing theirs. we actually used SimBrief to generate a plan for this one, which was cool. very chill, autopilot did everything, which was a nice change after flying the 152 again lmao
 
 <a href="https://cesque.com/storage/20/10/10/728556666780.jpg" class="image-link">
   <div class="content">
