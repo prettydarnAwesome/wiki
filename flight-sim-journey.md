@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-09-27T13:08:20.662Z
+date: 2020-10-10T09:40:08.707Z
 tags: 
 editor: markdown
 ---
@@ -85,3 +85,13 @@ chill little flight with passengers! we went south to Dublin then east over to V
 
 took a seaplane and landed in the sea at Grassholm (i almost crashed into it because i was watching tom play PoE), then took off again on a short jaunt to Haverfordwest - `cesque`
 
+# 2020-10-03: Haverfordwest `EGFE` → Cardiff `EGFF` → Cosford `EGWC` (1h46m)
+
+live weather = extremely difficult landing in Cosford. i'm ashamed to say that i drove off the runway and directly into a field
+
+<a href="https://cesque.com/storage/20/10/10/671407082810.png" class="image-link">
+  <div class="content">
+    wouldn't recommend this
+  </div>
+	<img src="https://cesque.com/storage/20/10/10/671407082810.png">
+</a>
