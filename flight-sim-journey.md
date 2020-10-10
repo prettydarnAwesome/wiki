@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-10T09:40:08.707Z
+date: 2020-10-10T11:57:38.995Z
 tags: 
 editor: markdown
 ---
@@ -87,11 +87,32 @@ took a seaplane and landed in the sea at Grassholm (i almost crashed into it bec
 
 # 2020-10-03: Haverfordwest `EGFE` → Cardiff `EGFF` → Cosford `EGWC` (1h46m)
 
-live weather = extremely difficult landing in Cosford. i'm ashamed to say that i drove off the runway and directly into a field
+live weather = extremely difficult landing in Cosford. i'm ashamed to say that i drove off the runway and directly into a field :flushed:
 
 <a href="https://cesque.com/storage/20/10/10/671407082810.png" class="image-link">
   <div class="content">
     wouldn't recommend this
   </div>
 	<img src="https://cesque.com/storage/20/10/10/671407082810.png">
+</a>
+
+# 2020-10-10 Cosford `EGWC` → Birmingham `EGBB` (30m)
+
+we did a VFR jaunt in the 152... it's been a while since i flew this! was super cool to see the custom B'ham scenery, we did a few loops around Aston and the city centre to see everything :D
+
+
+
+<a href="https://cesque.com/storage/20/10/10/140786763585.png" class="image-link">
+	<img src="https://cesque.com/storage/20/10/10/140786763585.png">
+</a>
+
+# 2020-10-10 Birmingham `EGBB` → Heathrow `EGLL` (30m)
+
+me and huw are doctors and we're transporting a full circulatory system in a 208 Grand Caravan because someone in a Heathrow lounge is missing theirs. we actually used SimBrief to generate a plan for this one, which was cool. very chill, autopilot did everything, which was a nice change after flying the 152 again lmao
+
+<a href="https://cesque.com/storage/20/10/10/728556666780.jpg" class="image-link">
+  <div class="content">
+    circulatory system delivered!!!
+  </div>
+	<img src="https://cesque.com/storage/20/10/10/728556666780.jpg">
 </a>
