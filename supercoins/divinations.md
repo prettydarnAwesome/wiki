@@ -2,7 +2,7 @@
 title: Divination Cards
 description: 
 published: true
-date: 2020-10-12T14:57:01.056Z
+date: 2020-10-12T14:57:23.499Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 # Divination Mapping
 
 Map | Area | Card | Layout | Tier
---- | --- | --- | --- | ---
+--- | ---:| --- | --- | ---
 Defiled Cathedral | Lira Arthain | [Seven Years Bad Luck](https://poe.ninja/challenge/divinationcards?name=seven) | A | 4
 Alleyways | Lex Ejoris | [The Saints Treasure](https://poe.ninja/challenge/divinationcards?name=The%20Saint%27s%20Treasure) | A | 5
 Port | Lex Ejoris  | [The Saints Treasure](https://poe.ninja/challenge/divinationcards?name=The%20Saint%27s%20Treasure) | A | 5
