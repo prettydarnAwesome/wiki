@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-10T14:08:39.287Z
+date: 2020-10-18T19:29:52.300Z
 tags: 
 editor: markdown
 ---
@@ -87,7 +87,7 @@ took a seaplane and landed in the sea at Grassholm (i almost crashed into it bec
 
 # 2020-10-03: Haverfordwest `EGFE` → Cardiff `EGFF` → Cosford `EGWC` (1h46m)
 
-live weather = extremely difficult landing in Cosford. i'm ashamed to say that i drove off the runway and directly into a field :flushed:
+live weather = extremely difficult landing in Cosford. i'm ashamed to say that i drove off the runway and directly into a field :flushed: - `cesque`
 
 <a href="https://cesque.com/storage/20/10/10/671407082810.png" class="image-link">
   <div class="content">
@@ -98,9 +98,7 @@ live weather = extremely difficult landing in Cosford. i'm ashamed to say that i
 
 # 2020-10-10 Cosford `EGWC` → Birmingham `EGBB` (30m)
 
-we did a VFR jaunt in the 152... it's been a while since i flew this! was super cool to see the custom B'ham scenery, we did a few loops around Aston and the city centre to see everything :D
-
-
+we did a VFR jaunt in the 152... it's been a while since i flew this! was super cool to see the custom B'ham scenery, we did a few loops around Aston and the city centre to see everything :D - `cesque`
 
 <a href="https://cesque.com/storage/20/10/10/140786763585.png" class="image-link">
 	<img src="https://cesque.com/storage/20/10/10/140786763585.png">
@@ -108,7 +106,7 @@ we did a VFR jaunt in the 152... it's been a while since i flew this! was super 
 
 # 2020-10-10 Birmingham `EGBB` → Heathrow `EGLL` (30m)
 
-i put this one in a separate entry because we switched planes. me and huw are doctors and we're transporting a full circulatory system in a 208 Grand Caravan because someone in a Heathrow lounge is missing theirs. we actually used SimBrief to generate a plan for this one, which was cool. very chill, autopilot did everything, which was a nice change after flying the 152 again lmao
+i put this one in a separate entry because we switched planes. me and huw are doctors and we're transporting a full circulatory system in a 208 Grand Caravan because someone in a Heathrow lounge is missing theirs. we actually used SimBrief to generate a plan for this one, which was cool. very chill, autopilot did everything, which was a nice change after flying the 152 again lmao - `cesque`
 
 <a href="https://cesque.com/storage/20/10/10/728556666780.jpg" class="image-link">
   <div class="content">
@@ -116,3 +114,7 @@ i put this one in a separate entry because we switched planes. me and huw are do
   </div>
 	<img src="https://cesque.com/storage/20/10/10/728556666780.jpg">
 </a>
+
+# 2020-10-10 Heathrow `EGLL` → Amsterdam `EHAM` (1h00m)
+
+our first flight in the Citation CJ4! it was very... eventful, but also uneventful as well. huw's takeoff was cursed because the plane just wanted to go down shortly after it had gone up. then we both got onto the actual flight plan and everything was A-OK. huw made it to Amsterdam in good time, but the autopilot seemed intent on finishing the job that it had started earlier, and caused him to crash in front of the runway. as for me: for some reason i found myself heading basically in the opposite direction to where i wanted after a botched approach update, and had to spend like 10 mins at least getting back on track. after that i was fine, approach mode was taking me in to land&mdash;**wait, you wanted to land? i thought you wanted to just go over the runway at 2000 feet. my bad!** i ended up circling round without autopilot, coming at the runway at a near enough 45deg angle, and somehow salvaging the whole landing out of nowhere (inasmuch as you can call it a landing). then we got to do the infamous 18R taxi :D - `cesque`
