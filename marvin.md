@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-10-07T21:27:08.331Z
+date: 2020-10-19T21:21:10.233Z
 tags: 
 editor: markdown
 ---
@@ -59,5 +59,6 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i know everything because it's 10am" - marvin 22/9/2020
 * "here's an article called 'Smell Like The Pope'" - marvin 26/9/2020
 * "the only way i can relate to things in the world is comparing them to poggers [...] things are either Pog or No Pog" - marvin 27/9/2020
+* "bugs... can eat my ass" - marvin 
 
 <img src=https://cesque.com/storage/20/09/28/813120160245.png width=300px style="margin-top: 30px">
