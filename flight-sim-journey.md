@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-18T19:29:52.300Z
+date: 2020-10-21T19:29:39.696Z
 tags: 
 editor: markdown
 ---
@@ -118,3 +118,7 @@ i put this one in a separate entry because we switched planes. me and huw are do
 # 2020-10-10 Heathrow `EGLL` → Amsterdam `EHAM` (1h00m)
 
 our first flight in the Citation CJ4! it was very... eventful, but also uneventful as well. huw's takeoff was cursed because the plane just wanted to go down shortly after it had gone up. then we both got onto the actual flight plan and everything was A-OK. huw made it to Amsterdam in good time, but the autopilot seemed intent on finishing the job that it had started earlier, and caused him to crash in front of the runway. as for me: for some reason i found myself heading basically in the opposite direction to where i wanted after a botched approach update, and had to spend like 10 mins at least getting back on track. after that i was fine, approach mode was taking me in to land&mdash;**wait, you wanted to land? i thought you wanted to just go over the runway at 2000 feet. my bad!** i ended up circling round without autopilot, coming at the runway at a near enough 45deg angle, and somehow salvaging the whole landing out of nowhere (inasmuch as you can call it a landing). then we got to do the infamous 18R taxi :D - `cesque`
+
+# 2020-10-21 Amsterdam `EHAM` → Amsterdam `EHAM` (42m) (BONUS!)
+
+we tried landing at AMS again since huw crashed last time. huw's flight seemed fine. mine was hell very bad awful everything was broken - `cesque`
