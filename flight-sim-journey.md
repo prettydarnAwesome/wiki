@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-23T18:11:23.768Z
+date: 2020-10-23T18:15:00.845Z
 tags: 
 editor: markdown
 ---
@@ -123,6 +123,6 @@ our first flight in the Citation CJ4! it was very... eventful, but also uneventf
 
 we tried landing at AMS again since huw crashed last time. huw's flight seemed fine. mine was hell very bad awful everything was broken - `cesque`
 
-# 2020-10-23 Amsterdam `EHAM` → Hamburg `EDDH` (xhxxm)
+# 2020-10-23 Amsterdam `EHAM` → Hamburg `EDDH` (1h31m)
 
 huw active paused so his AP was borked for the latter part of the flight and he had to land by hand. he still landed better than i did because i forgot to lower the landing gear and S C R A P E D my way along the runway :flushed: - `cesque`
