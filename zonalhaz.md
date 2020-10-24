@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-10-11T18:06:55.962Z
+date: 2020-10-24T13:42:48.504Z
 tags: 
 editor: markdown
 ---
@@ -75,6 +75,7 @@ oh no here comes huw's face
 "cobweb is like the primary method of spider" - huw 8/9/2020
 "i've been inundated by poggers" - huw 25/9/2020
 "a fine-toothed comb is just a ton of toothpicks" - huw 8/10/2020
+"i've got a lot of brains and a couple of extra livers" - huw 24/10/2020
 # Games to play
 * Child of Light
 * ~~INSIDE~~
