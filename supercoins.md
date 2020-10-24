@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2020-09-24T21:14:48.189Z
+date: 2020-10-24T13:58:13.476Z
 tags: 
 editor: markdown
 ---
@@ -44,3 +44,4 @@ editor: markdown
 "i've figured it out - you know how there are all these books about 'why do we sleep every day'? it's because our bones poison us" - supercoins 15/8/2020
 "the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020
 "do people count as decorations?" - supercoins 24/9/2020
+"i have a brain that's level 84" - supercoins 24/10/2020
