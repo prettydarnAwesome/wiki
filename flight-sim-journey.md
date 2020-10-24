@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-23T18:15:00.845Z
+date: 2020-10-24T12:03:06.736Z
 tags: 
 editor: markdown
 ---
@@ -126,3 +126,7 @@ we tried landing at AMS again since huw crashed last time. huw's flight seemed f
 # 2020-10-23 Amsterdam `EHAM` → Hamburg `EDDH` (1h31m)
 
 huw active paused so his AP was borked for the latter part of the flight and he had to land by hand. he still landed better than i did because i forgot to lower the landing gear and S C R A P E D my way along the runway :flushed: - `cesque`
+
+# 2020-10-23 Hamburg `EDDH` → Bergen Flesland `ENBR` (1h27m)
+
+why do i keep forgetting to lower the landing gear :( - `cesque`
