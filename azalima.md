@@ -1,5 +1,11 @@
-<!-- TITLE: Azalima -->
-<!-- SUBTITLE: a very blursed boy -->
+---
+title: Azalima
+description: a very blursed boy
+published: true
+date: 2020-10-24T19:41:48.790Z
+tags: 
+editor: markdown
+---
 
 # Quotes
 
@@ -28,3 +34,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "the purpose of knees is to go *to* things, and the purpose of elbows is to bring things *to* you" - ardam 17/4/2020
 "i hate ardam's movable finger!" - huw 19/4/2020
 "i'd rather have rainbow 6 than peach 69" - ardam 2/5/2020
+"well, six of horse, half a dozen of the other" - ardam 24/10/2020
