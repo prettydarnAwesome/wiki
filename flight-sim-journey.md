@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-25T11:51:51.733Z
+date: 2020-10-25T11:52:56.620Z
 tags: 
 editor: markdown
 ---
@@ -131,6 +131,6 @@ huw active paused so his AP was borked for the latter part of the flight and he 
 
 why do i keep forgetting to lower the landing gear :( - `cesque`
 
-# 2020-10-23 Bergen Flesland `ENBR` → Ålesund Vigra `ENAL` (36m)
+# 2020-10-23 Bergen Flesland `ENBR` → [Ålesund](https://www.youtube.com/watch?v=wRoMueB3S7A) Vigra `ENAL` (36m)
 
-https://www.youtube.com/watch?v=wRoMueB3S7A
+our first time flying the Daher TBM. i somehow managed to crash the entire sim again? it's always when i'm messing with the flightplan rofl - `cesque`
