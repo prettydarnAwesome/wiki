@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-25T11:51:03.786Z
+date: 2020-10-25T11:51:51.733Z
 tags: 
 editor: markdown
 ---
@@ -133,4 +133,4 @@ why do i keep forgetting to lower the landing gear :( - `cesque`
 
 # 2020-10-23 Bergen Flesland `ENBR` → Ålesund Vigra `ENAL` (36m)
 
-https://www.youtube.com/watch?v=RsM6iULDgho
+https://www.youtube.com/watch?v=wRoMueB3S7A
