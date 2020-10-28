@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2020-10-26T21:02:22.271Z
+date: 2020-10-28T19:17:44.367Z
 tags: 
 editor: markdown
 ---
@@ -48,6 +48,7 @@ editor: markdown
 * "it's a bang or be bang world" - Hexi 7/9/2020
 * "i don't like the taste of real bread, it's too spongy" - Hexi 17/10/2020
 * "i'm definitely unsure..." - Hexi 26/10/2020
+* "I does feel like it's got she'll shock after peaches" 27/10/2020
 # Games to play
 * Stanley Parable
 * Hollow Knight!
