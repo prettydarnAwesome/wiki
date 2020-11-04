@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-10-30T19:20:46.488Z
+date: 2020-11-04T17:56:32.614Z
 tags: 
 editor: markdown
 ---
@@ -139,6 +139,20 @@ our first time flying the Daher TBM. i somehow managed to crash the entire sim a
 
 over to Sweden during the night! ATC gave us visual landings which we were not really prepared for; i landed like 2m in front of the runway. maybe i need to throttle up more while i have full flaps... - `cesque`
 
-# 2020-10-23 Ostersund `ESNZ` → Sundsvall-Timra `ESNN` (50m)
+# 2020-10-30 Ostersund `ESNZ` → Sundsvall-Timra `ESNN` (50m)
 
 an all-round successful flight in the 152 (baby plane), mostly navigating via NDB - `cesque`
+
+
+# 2020-11-04 Sundsvall-Timra `ESNN` → Vaasa `EFVA` (30m)
+
+a pretty calm flight for me, though cesque had some autopilot issues that took him off course for a while  - `zonalhaz`
+
+<div class="image-gallery">
+  <a href="https://cesque.com/storage/20/11/04/232101883092.png" class="image-link">
+    <img src="https://cesque.com/storage/20/11/04/232101883092.png">
+	</a>
+  <a href="https://cesque.com/storage/20/11/04/622958312161.png" class="image-link">
+    <img src="https://cesque.com/storage/20/11/04/622958312161.png">
+	</a>
+</div>
