@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-11-04T17:56:32.614Z
+date: 2020-11-04T17:56:53.084Z
 tags: 
 editor: markdown
 ---
@@ -146,7 +146,7 @@ an all-round successful flight in the 152 (baby plane), mostly navigating via ND
 
 # 2020-11-04 Sundsvall-Timra `ESNN` → Vaasa `EFVA` (30m)
 
-a pretty calm flight for me, though cesque had some autopilot issues that took him off course for a while  - `zonalhaz`
+a pretty calm flight for me, though cesque had some autopilot issues that took him off course for a while. i  like the Daher TBM  - `zonalhaz`
 
 <div class="image-gallery">
   <a href="https://cesque.com/storage/20/11/04/232101883092.png" class="image-link">
