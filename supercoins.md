@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2020-10-24T13:58:13.476Z
+date: 2020-11-08T01:30:07.737Z
 tags: 
 editor: markdown
 ---
@@ -45,3 +45,4 @@ editor: markdown
 "the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020
 "do people count as decorations?" - supercoins 24/9/2020
 "i have a brain that's level 84" - supercoins 24/10/2020
+"a bouncy castle is just a synonym for a knee :)" - supercoins 8/11/2020
