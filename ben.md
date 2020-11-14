@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2020-11-08T15:53:17.316Z
+date: 2020-11-14T13:10:21.303Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,7 @@ editor: markdown
 "everyone reverts to a ben state in their  life" - jane 21/09/2020 (in regards to opennh things)
 "i could just murder them, I'm not sure if that's frowned upon though" - Erwin 8/10/20
 "i just wanna fall on top of people, yaknow?" - Ben 08/11/2020
+"yo, imagine being, just, like, a **worm**" - Ben 14/11/2020
 
 # Ben's **Boneless** Bake
 ### Ingredients
