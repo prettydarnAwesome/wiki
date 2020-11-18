@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-11-11T14:07:14.388Z
+date: 2020-11-18T19:33:45.274Z
 tags: 
 editor: markdown
 ---
@@ -15,6 +15,8 @@ oh no here comes huw's face
 * **length**: medium
 * **thickness**: chunky
 * **color**: yellow
+
+Huw is categorically **NOT** an expert on Bovril:tm:.
 
 ![](https://cesque.com/storage/19/08/03/486301074883.png)
 # Quotes
