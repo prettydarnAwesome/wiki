@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-11-20T21:49:38.390Z
+date: 2020-11-25T12:24:43.260Z
 tags: 
 editor: markdown
 ---
@@ -61,6 +61,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "the only way i can relate to things in the world is comparing them to poggers [...] things are either Pog or No Pog" - marvin 27/9/2020
 * "bugs... can eat my ass" - marvin
 * "there's probably planets in the ~~solar system~~ universe where it rains oil" - marvin 20/11/2020
+* "im salad" - marvin 25/11/2020
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
