@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2020-11-25T21:00:46.342Z
+date: 2020-11-25T21:01:25.898Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "girlfriend ingredients" - cesque 6/3/2020
 * "foot gallery" - cesque 7/3/2020
 * "Are you ready for a big-sweaty-four-man-showdown" - cesque 7/9/2020
-* "sorry huw it's cannibal baby time" - cesque 11/25/2020
+* "sorry huw it's cannibal baby time" - cesque 25/11/2020
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
