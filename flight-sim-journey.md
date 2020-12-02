@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-11-06T18:17:59.819Z
+date: 2020-12-02T17:11:20.274Z
 tags: 
 editor: markdown
 ---
@@ -160,4 +160,8 @@ a pretty calm flight for me, though cesque had some autopilot issues that took h
 # 2020-11-06 Vaasa `EFVA` → Arlanda `ESSA` (1h07m)
 
 back to Sweden in the snow, cesque's plane decided to fall out the sky while he went to get pizza and atc ghosted me for landing but other than that it was pretty chill (heheh)  - `zonalhaz`
+
+# 2020-11-08 Arlanda `ESSA` → Visby `ESSV` (47m)
+
+we forgot to write this one down D:
 
