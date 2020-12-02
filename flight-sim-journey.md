@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-12-02T17:11:20.274Z
+date: 2020-12-02T18:01:12.052Z
 tags: 
 editor: markdown
 ---
@@ -164,4 +164,8 @@ back to Sweden in the snow, cesque's plane decided to fall out the sky while he 
 # 2020-11-08 Arlanda `ESSA` → Visby `ESSV` (47m)
 
 we forgot to write this one down D:
+
+# 2020-12-02 Visby `ESSV` → Olanda `ESMZ` (28m)
+
+a night flight in the Diamond DA40NG. Olanda is very small and had no runway lights which made finding it slightly awkward but we both landed successfully - `zonalhaz`
 
