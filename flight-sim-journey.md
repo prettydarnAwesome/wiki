@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-12-02T18:01:12.052Z
+date: 2020-12-05T19:27:34.269Z
 tags: 
 editor: markdown
 ---
@@ -167,5 +167,5 @@ we forgot to write this one down D:
 
 # 2020-12-02 Visby `ESSV` → Olanda `ESMZ` (28m)
 
-a night flight in the Diamond DA40NG. Olanda is very small and had no runway lights which made finding it slightly awkward but we both landed successfully - `zonalhaz`
+a night flight in the Diamond DA40NG. Olanda is very small and had no runway lights which made finding it slightly awkward but we both landed successfully - `zonalhaz` (yeah i had no idea where the runway was - `cesque`)
 
