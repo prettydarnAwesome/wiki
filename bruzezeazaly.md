@@ -1,5 +1,11 @@
-<!-- TITLE: Bruzezeazaly -->
-<!-- SUBTITLE: HE'S NEVER AROUND :( -->
+---
+title: Bruzezeazaly
+description: HE'S NEVER AROUND :(
+published: true
+date: 2020-12-06T19:09:09.770Z
+tags: 
+editor: markdown
+---
 
 # Quotes
 "Yes, I'm [Ādam](azalima)" - beasley
@@ -11,3 +17,4 @@
 "i don't think beasley has said a single not-cursed thing since i joined" - [marvin](marvin) 22/2/2020
 "there's a multitude of lesbians" - beasley 7/3/2020
 "toddlers are meant to be in hell" - beasley 18/6/2020
+"am i currently squeezing, huw? - beasley 6/12/2020
