@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2020-11-25T21:01:25.898Z
+date: 2020-12-06T22:03:15.381Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 # Quotes
 * Swedish sounds like an idiot speaking English
 * I really want tea tonight, but i can't be bothered to make it
+* "hospital tokens" - cesque, some time in the past
 * "you know what they say: right brain, right ball" - cesque 27/06/2018
 * "what a whiny baby daniel james" - Hexi 8/19/2018
 * "Dinkus Weenis" @i63
