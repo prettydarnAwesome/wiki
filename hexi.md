@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2020-12-06T19:06:09.242Z
+date: 2020-12-06T21:56:57.346Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 * "why is hexi Yoda?" - Ben 29/11/2020
 * "well funnily enough, i do have some kind of Ancient Obelisk..." - Hexi 5/12/2020
 * "why does hexi look like a frog?" - Ben 6/12/2020
+* "i'm going to be 27 next year... does that still make me the oldest?" - Hexi 6/12/2020
 
 # Games to play
 * Stanley Parable
@@ -61,7 +62,7 @@ editor: markdown
 * ~~non~~-biological
 # XCOM kill list
 * Ben Beasley clone kill count                    1
-* Daniel Beasley clone kill count                1
+* Brie Beasley clone kill count                1
 * Marvin clone kill count                            1     
 * Huw Talliss clone kill count                      2
 * Daniel James clone kill count                  0  
