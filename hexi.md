@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2020-12-05T22:41:06.311Z
+date: 2020-12-06T19:06:09.242Z
 tags: 
 editor: markdown
 ---
@@ -51,7 +51,8 @@ editor: markdown
 * "I does feel like it's got she'll shock after peaches" 27/10/2020
 * "how can i stretch my food to make it good?" - Hexi 20/11/2020
 * "why is hexi Yoda?" - Ben 29/11/2020
-* "well funnily enough, i do have some kind of Ancient Obelisk..." - Hexi 12/5/2020
+* "well funnily enough, i do have some kind of Ancient Obelisk..." - Hexi 5/12/2020
+* "why does hexi look like a frog?" - Ben 6/12/2020
 
 # Games to play
 * Stanley Parable
