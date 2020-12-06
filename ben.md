@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2020-11-29T20:28:44.213Z
+date: 2020-12-06T21:59:04.229Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 "how do i open my bucket?" - Ben 1/3/2020
 "most things are robots" - Ben 7/3/2020
 "[what is mostly forgivable?] ...genocide" - Ben 7/3/2020
-"is [daniel](Bruzezeazaly) a mayonnaise person?" - Ben 7/3/2020
+"is [beasley](/Bruzezeazaly) a mayonnaise person?" - Ben 7/3/2020
 "if we want to play with Ben, we have to play in his world" - [Coins](Supercoins) 19/3/2020
 "what are builders?" - 30/4/2020
 "builders are physicists because they care about shapes for building" - Ben 30/4/2020
