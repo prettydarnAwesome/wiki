@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-11-22T09:08:05.367Z
+date: 2020-12-06T22:43:54.906Z
 tags: 
 editor: markdown
 ---
@@ -84,6 +84,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "you can eat vaseline!" - huw 10/11/2020
 "it's undoubtable that i am dumb" - huw 11/11/2020
 "it's gotta be the milk hole" - huw 22/11/2020
+"i hate leg" - huw 6/12/2020
 
 # Games to play
 * Child of Light
