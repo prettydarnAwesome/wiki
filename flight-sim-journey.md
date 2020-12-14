@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-12-14T19:34:50.473Z
+date: 2020-12-14T20:36:22.642Z
 tags: 
 editor: markdown
 ---
@@ -175,4 +175,5 @@ a night flight in the Diamond DA40NG. Olanda is very small and had no runway lig
 2 good flights, although we got hit with the ATC bug where it sends you back a waypoint when you input an approach. TWICE! our flight paths look horrible :(
 
 # 2020-12-05 Riga `EVRA` → Vilnius `EYVI` (38m)
-huw's approach was kinda scuffed, and mine didn't exactly line up with the runway, so we did pretty well considering - `cesque`
+# 2020-12-05 Vilnius `EYVI` → Hrodna `UMMG` (38m)
+FIRST FLIGHT: huw's approach was kinda scuffed, and mine didn't exactly line up with the runway, so we did pretty well considering. SECOND FLIGHT: to hrodna! or maybe grodno! nice little flight with buttery landings for both of us (albeit on opposite sides of the same runway, i had to roll and then turn around and taxi back, presumably being yelled at to get off the freakin runway while huw was on his short final) - `cesque`
