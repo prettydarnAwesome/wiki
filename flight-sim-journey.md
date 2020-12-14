@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2020-12-14T18:33:46.721Z
+date: 2020-12-14T19:34:50.473Z
 tags: 
 editor: markdown
 ---
@@ -174,3 +174,5 @@ a night flight in the Diamond DA40NG. Olanda is very small and had no runway lig
 
 2 good flights, although we got hit with the ATC bug where it sends you back a waypoint when you input an approach. TWICE! our flight paths look horrible :(
 
+# 2020-12-05 Riga `EVRA` → Vilnius `EYVI` (38m)
+huw's approach was kinda scuffed, and mine didn't exactly line up with the runway, so we did pretty well considering - `cesque`
