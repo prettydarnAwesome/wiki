@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-12-06T22:43:54.906Z
+date: 2020-12-29T21:06:21.004Z
 tags: 
 editor: markdown
 ---
@@ -85,6 +85,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "it's undoubtable that i am dumb" - huw 11/11/2020
 "it's gotta be the milk hole" - huw 22/11/2020
 "i hate leg" - huw 6/12/2020
+"i AM a sexual predator and i AM french" - huw 29/12/2020
 
 # Games to play
 * Child of Light
