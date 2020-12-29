@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-12-29T21:06:21.004Z
+date: 2020-12-29T21:09:59.406Z
 tags: 
 editor: markdown
 ---
