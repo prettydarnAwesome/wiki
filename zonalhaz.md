@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2020-12-29T21:13:03.503Z
+date: 2020-12-29T21:14:22.650Z
 tags: 
 editor: markdown
 ---
@@ -38,7 +38,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "can we go back to talking about Ant-Man's ass or whatever?" - huw 27/4/2019
 "ah, bees in my fuckin ass" - huw 27/4/2019
 "can somebody get vaseline off my eyes" - huw 29/5/2019
-"oh, i am currently [beasley](brie)" - huw 15/6/2019
+"oh, i am currently [beasley](Brie)" - huw 15/6/2019
 "mouth time" - huw 15/6/2019
 "why do people have legs!? i hate legs!" - huw 16/6/2019
 "why do all the good people go mad :(" - huw 1/8/2019
