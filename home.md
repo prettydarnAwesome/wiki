@@ -1,5 +1,11 @@
-<!-- TITLE: pretty darn Wiki -->
-<!-- SUBTITLE: this is the wiki of pretty darn Awesome -->
+---
+title: pretty darn Wiki
+description: this is the wiki of pretty darn Awesome
+published: true
+date: 2020-12-30T22:25:45.594Z
+tags: 
+editor: markdown
+---
 
 This is the wiki for **pretty darn Awesome**. It contains such interesting and innovative content as `[COMING SOON]`.
 
@@ -11,7 +17,7 @@ Here's a link to [The Copypasta](opporator-idea)
 # Friends
 * [Azalima](azalima)
 * [Ben](ben)
-* [Bruzezeazaly](bruzezeazaly)
+* [Brie](bruzezeazaly)
 * [Cesque](cesque)
 * [Hexi](hexi)
 * [Lindskog](lindskog)
