@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2020-12-30T22:25:20.390Z
+date: 2021-01-01T15:18:20.554Z
 tags: 
 editor: markdown
 ---
@@ -24,6 +24,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "Are you ready for a big-sweaty-four-man-showdown" - cesque 7/9/2020
 * "sorry huw it's cannibal baby time" - cesque 25/11/2020
 * "i think if you ordered 1000 flags and you didn't eat one of them, you're a coward" - cesque 26/12/2020 (in a dream)
+* "i hate teeth" - cesque 01/01/2021
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
