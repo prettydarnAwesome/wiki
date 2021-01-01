@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2020-12-29T21:11:20.922Z
+date: 2021-01-01T01:01:23.007Z
 tags: 
 editor: markdown
 ---
@@ -18,3 +18,4 @@ editor: markdown
 "there's a multitude of lesbians" - beasley 7/3/2020
 "toddlers are meant to be in hell" - beasley 18/6/2020
 "am i currently squeezing, huw? - beasley 6/12/2020
+"i can't believe huw has his own skin!" - brie 1/1/2021
