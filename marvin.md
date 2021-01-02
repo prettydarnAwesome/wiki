@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2020-12-31T13:17:12.331Z
+date: 2021-01-02T16:13:26.383Z
 tags: 
 editor: markdown
 ---
@@ -63,6 +63,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "there's probably planets in the ~~solar system~~ universe where it rains oil" - marvin 20/11/2020
 * "im salad" - marvin 25/11/2020
 * "how dare you abuse my geometry" - marvin 31/12/2020
+* "2020 wasn't that bad" - marvin 2/1/2020
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
