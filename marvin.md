@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-02T16:13:26.383Z
+date: 2021-01-02T18:11:08.585Z
 tags: 
 editor: markdown
 ---
@@ -64,6 +64,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "im salad" - marvin 25/11/2020
 * "how dare you abuse my geometry" - marvin 31/12/2020
 * "2020 wasn't that bad" - marvin 2/1/2020
+* "He's the gunk lord" - Huw 2/1/2020
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
