@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2020-11-08T01:30:07.737Z
+date: 2021-01-03T14:30:10.698Z
 tags: 
 editor: markdown
 ---
@@ -46,3 +46,4 @@ editor: markdown
 "do people count as decorations?" - supercoins 24/9/2020
 "i have a brain that's level 84" - supercoins 24/10/2020
 "a bouncy castle is just a synonym for a knee :)" - supercoins 8/11/2020
+"oh, it's legs" - supercoins 3/1/2020
