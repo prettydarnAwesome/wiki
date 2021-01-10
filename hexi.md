@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2020-12-06T22:28:15.725Z
+date: 2021-01-10T23:13:02.099Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,7 @@ editor: markdown
 * "why does hexi look like a frog?" - Ben 6/12/2020
 * "i'm going to be 27 next year... does that still make me the oldest?" - Hexi 6/12/2020
 * "i'd like to live on Huwsface Lane" - Hexi 6/12/2020
+* "YOOOOO i've got a feral hog" - Hexi 10/1/2020
 
 # Games to play
 * Stanley Parable
