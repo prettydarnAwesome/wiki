@@ -2,7 +2,7 @@
 title: Syphonx
 description: A quick summary of Syphonx
 published: true
-date: 2021-01-10T23:39:25.955Z
+date: 2021-01-10T23:40:12.651Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,7 @@ editor: markdown
 * "i'm pogging in dablic" - jonk 28/7/2020
 * "i hate it when i intensely uwu" - bonk 2/8/2020
 * "They de-horneyd me" - bonk into horney jail with you 10/01/2021
+* "Aww, im in jail no one ever let me out" - jak in honey jail, forgotton 10/01/2021
 # Games That Jak Should Play
 * hyper light drifter
 * hollow knight
