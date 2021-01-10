@@ -1,5 +1,12 @@
-<!-- TITLE: Syphonx -->
-<!-- SUBTITLE: A quick summary of Syphonx -->
+---
+title: Syphonx
+description: A quick summary of Syphonx
+published: true
+date: 2021-01-10T23:39:25.955Z
+tags: 
+editor: markdown
+---
+
 # Quotes
 * "churros are German, right?" - Jak
 * "scroll tango salve mango" - a beautiful poem by our friend Jak 21/06/2018
@@ -11,6 +18,7 @@
 * "sleeping is fuck adjacent" - jak 7/3/2020
 * "i'm pogging in dablic" - jonk 28/7/2020
 * "i hate it when i intensely uwu" - bonk 2/8/2020
+* "They de-horneyd me" - bonk into horney jail with you 10/01/2021
 # Games That Jak Should Play
 * hyper light drifter
 * hollow knight
