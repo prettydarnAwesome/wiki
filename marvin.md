@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-10T00:12:45.926Z
+date: 2021-01-12T18:36:14.049Z
 tags: 
 editor: markdown
 ---
@@ -66,6 +66,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "2020 wasn't that bad" - marvin 2/1/2020
 * "He's the gunk lord" - Huw 2/1/2020
 * "cann-ed tomayto Zoop" - marvin 10/1/2020
+* "what the heck i **am** a tiny baby!!!... why am i a tiny baby ?????" - marvin 12/1/2020
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
