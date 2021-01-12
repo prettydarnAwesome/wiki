@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-01-12T21:19:49.111Z
+date: 2021-01-12T21:20:09.199Z
 tags: 
 editor: markdown
 ---
@@ -180,5 +180,4 @@ FIRST FLIGHT: huw's approach was kinda scuffed, and mine didn't exactly line up 
 
 # 2021-01-12 Hrodna `UMMG` → Kaliningrad `UMKK` (36m)
 lets gooooooooo we played again! my game looks real pretty, and i can fly the Longitude now. was a clean and FAST flight aside from us not knowing how to change CDI source at the start. - `cesque`
-# 2021-01-12 Kaliningrad `UMKK` → Warsaw Chopin `EPWA` (36m)
-lets gooooooooo we played again! my game looks real pretty, and i can fly the Longitude now. was a clean and FAST flight aside from us not knowing how to change CDI source at the start. - `cesque`
+# 2021-01-12 Kaliningrad `UMKK` → Warsaw Chopin `EPWA` (50m)
