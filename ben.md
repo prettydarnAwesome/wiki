@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-01-07T19:39:31.584Z
+date: 2021-01-14T20:27:55.689Z
 tags: 
 editor: markdown
 ---
@@ -40,6 +40,7 @@ editor: markdown
 "I turned my second for away!" - Ben 22/12/2020
 (Sees a candle) "how does it work, does it light from inside??" - Ben 25/12/2020
 "how long is a foot of rope?" - Ben 7/1/2021
+"does smoke go underground?" - Ben 14/1/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
