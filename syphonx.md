@@ -2,7 +2,7 @@
 title: Syphonx
 description: A quick summary of Syphonx
 published: true
-date: 2021-01-16T17:21:19.211Z
+date: 2021-01-16T17:22:21.934Z
 tags: 
 editor: markdown
 ---
@@ -21,6 +21,7 @@ editor: markdown
 * "They de-horneyd me" - bonk into horney jail with you 10/01/2021
 * "Aww, im in jail no one ever let me out" - jak in honey jail, forgotton 10/01/2021
 * "what do you have to do to please the wall-sphincter?" - jank 16/1/2021
+* "it killed me when i died" - EchoesOfTheJaklas 17/1/2021
 # Games That Jak Should Play
 * hyper light drifter
 * hollow knight
