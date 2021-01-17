@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-12T18:36:14.049Z
+date: 2021-01-17T23:52:38.473Z
 tags: 
 editor: markdown
 ---
@@ -71,3 +71,6 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
 <img src=https://cesque.com/storage/20/09/28/813120160245.png width=300px style="margin-top: 30px">
+
+bonus verse quote because he doesn't have a page:
+* "be right back i have to pee from my dick" - verse 17/1/2021
