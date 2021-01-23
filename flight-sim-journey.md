@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-01-12T21:20:09.199Z
+date: 2021-01-23T13:42:59.191Z
 tags: 
 editor: markdown
 ---
@@ -181,3 +181,14 @@ FIRST FLIGHT: huw's approach was kinda scuffed, and mine didn't exactly line up 
 # 2021-01-12 Hrodna `UMMG` → Kaliningrad `UMKK` (36m)
 lets gooooooooo we played again! my game looks real pretty, and i can fly the Longitude now. was a clean and FAST flight aside from us not knowing how to change CDI source at the start. - `cesque`
 # 2021-01-12 Kaliningrad `UMKK` → Warsaw Chopin `EPWA` (50m)
+
+# 2021-01-12 Warsaw Chopin `UMKK` → Poprad Tatry `LZTT` (1h43)
+nice takeoff! nice flight, relaxing, lots of clouds! watching Jak play PoE! but also... hell approach! changing anyuthing in the flight plan is cursed and breaks everything :( - `cesque`
+
+<a href="https://cesque.com/storage/21/01/23/906849335665.jpg" class="image-link">
+  <div class="content">
+    huw breaking out from being inside a cloud, to a lovely view
+  </div>
+	<img src="https://cesque.com/storage/21/01/23/906849335665.jpg">
+</a>
+
