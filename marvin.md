@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-17T23:52:38.473Z
+date: 2021-01-24T12:45:39.213Z
 tags: 
 editor: markdown
 ---
@@ -67,6 +67,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "He's the gunk lord" - Huw 2/1/2020
 * "cann-ed tomayto Zoop" - marvin 10/1/2020
 * "what the heck i **am** a tiny baby!!!... why am i a tiny baby ?????" - marvin 12/1/2020
+* "can i go to the hospital and they make me not drunk any more?" - marvin 24/1/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
