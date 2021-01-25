@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-24T14:02:43.413Z
+date: 2021-01-25T20:29:53.817Z
 tags: 
 editor: markdown
 ---
@@ -68,7 +68,8 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "cann-ed tomayto Zoop" - marvin 10/1/2020
 * "what the heck i **am** a tiny baby!!!... why am i a tiny baby ?????" - marvin 12/1/2020
 * "can i go to the hospital and they make me not drunk any more?" - marvin 24/1/2021
-* "i think the more in-game bugs your game has, the less programming bugs it has" - marvin 12/1//2021
+* "i think the more in-game bugs your game has, the less programming bugs it has" - marvin 24/1/2021
+* "i'm allergic to water so i can only drink ramen noodles" - marvin 25/1/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
