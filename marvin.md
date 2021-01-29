@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-25T20:29:53.817Z
+date: 2021-01-29T21:45:29.857Z
 tags: 
 editor: markdown
 ---
@@ -70,6 +70,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "can i go to the hospital and they make me not drunk any more?" - marvin 24/1/2021
 * "i think the more in-game bugs your game has, the less programming bugs it has" - marvin 24/1/2021
 * "i'm allergic to water so i can only drink ramen noodles" - marvin 25/1/2021
+* "quick, put mayonnaise in my mouth" - marvin 29/1/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
