@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-29T21:45:29.857Z
+date: 2021-01-30T17:02:03.356Z
 tags: 
 editor: markdown
 ---
@@ -71,6 +71,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i think the more in-game bugs your game has, the less programming bugs it has" - marvin 24/1/2021
 * "i'm allergic to water so i can only drink ramen noodles" - marvin 25/1/2021
 * "quick, put mayonnaise in my mouth" - marvin 29/1/2021
+* "spam is a food lootbox" - marvin 30/1/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
