@@ -2,7 +2,7 @@
 title: Syphonx
 description: A quick summary of Syphonx
 published: true
-date: 2021-01-23T12:30:52.451Z
+date: 2021-01-31T20:11:16.043Z
 tags: 
 editor: markdown
 ---
@@ -23,6 +23,7 @@ editor: markdown
 * "what do you have to do to please the wall-sphincter?" - jank 16/1/2021
 * "it killed me when i died" - EchoesOfTheJaklas 17/1/2021
 * "wewwy quewwy" - janks 23/1/2021
+* "i need to cap the framerate of my brain..." - jag 1/31/2021
 
 # Games That Jak Should Play
 * hyper light drifter
