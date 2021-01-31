@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-01-20T22:19:03.439Z
+date: 2021-01-31T20:01:34.478Z
 tags: 
 editor: markdown
 ---
@@ -89,6 +89,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "skin discord" - huw 1/1/2021
 "i'm too stupid for my shoes" - huw 16/1/2021
 "the next day i couldn't go to work because there was river" - 20/1/2021
+"dan's so mean to me just because i have a pretty pink unicorn hat" - 31/1/2021
 
 # Games to play
 * Child of Light
