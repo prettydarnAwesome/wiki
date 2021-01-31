@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-01-31T19:38:05.576Z
+date: 2021-01-31T19:38:44.618Z
 tags: 
 editor: markdown
 ---
@@ -58,7 +58,8 @@ editor: markdown
 * "YOOOOO i've got a feral hog" - Hexi 10/1/2021
 * "imagine if you went to prison and every prison door was a sphincter" - Hexi 16/1/2021
 * "oh, here we go! i'm out of date :)" - Hexi 31/1/2021
-* "i like it when the heinz beans squelch under the tamper" - 31/1/2021
+* "i like it when the heinz beans squelch under the tamper" - Hexi 31/1/2021
+* "i also like putting heinz beans through the grinder that i have and watching all the juice squeeze out" - Hexi 31/1/2021
 
 # Games to play
 * Stanley Parable
