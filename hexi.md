@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-01-16T17:11:25.029Z
+date: 2021-01-31T16:09:07.113Z
 tags: 
 editor: markdown
 ---
@@ -56,7 +56,8 @@ editor: markdown
 * "i'm going to be 27 next year... does that still make me the oldest?" - Hexi 6/12/2020
 * "i'd like to live on Huwsface Lane" - Hexi 6/12/2020
 * "YOOOOO i've got a feral hog" - Hexi 10/1/2021
-* "imagine if you went to prison and every prison door was a sphincter" - Hexi 16/1/2020
+* "imagine if you went to prison and every prison door was a sphincter" - Hexi 16/1/2021
+* "oh, here we go! i'm out of date :)" - Hexi 31/1/2021
 
 # Games to play
 * Stanley Parable
