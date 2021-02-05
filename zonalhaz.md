@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-01-31T20:04:24.836Z
+date: 2021-02-05T20:17:27.608Z
 tags: 
 editor: markdown
 ---
@@ -90,6 +90,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i'm too stupid for my shoes" - huw 16/1/2021
 "the next day i couldn't go to work because there was river" - huw 20/1/2021
 "dan's so mean to me just because i have a pretty pink unicorn hat" - huw 31/1/2021
+"imagine if you had a gyroscopically stabilised penis" - huw 5/2/2021
 
 # Games to play
 * Child of Light
