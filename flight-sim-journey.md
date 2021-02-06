@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-01-23T13:42:59.191Z
+date: 2021-02-06T17:02:13.943Z
 tags: 
 editor: markdown
 ---
@@ -182,8 +182,8 @@ FIRST FLIGHT: huw's approach was kinda scuffed, and mine didn't exactly line up 
 lets gooooooooo we played again! my game looks real pretty, and i can fly the Longitude now. was a clean and FAST flight aside from us not knowing how to change CDI source at the start. - `cesque`
 # 2021-01-12 Kaliningrad `UMKK` → Warsaw Chopin `EPWA` (50m)
 
-# 2021-01-12 Warsaw Chopin `UMKK` → Poprad Tatry `LZTT` (1h43)
-nice takeoff! nice flight, relaxing, lots of clouds! watching Jak play PoE! but also... hell approach! changing anyuthing in the flight plan is cursed and breaks everything :( - `cesque`
+# 2021-01-12 Warsaw Chopin `UMKK` → Poprad Tatry `LZTT` (1h43m)
+nice takeoff! nice flight, relaxing, lots of clouds! watching Jak play PoE! but also... hell approach! changing anything in the flight plan is cursed and breaks everything :( - `cesque`
 
 <a href="https://cesque.com/storage/21/01/23/906849335665.jpg" class="image-link">
   <div class="content">
@@ -192,3 +192,9 @@ nice takeoff! nice flight, relaxing, lots of clouds! watching Jak play PoE! but 
 	<img src="https://cesque.com/storage/21/01/23/906849335665.jpg">
 </a>
 
+# 2021-01-12 Poprad Tatry `LZTT` → Brno Turany `LKTB` (55m)
+someone put a big-ass mountain directly in the way of the start of our flight path. after circling to gain enough height to get past it, the rest of the flight was butter smooth all the way to parking at Brno. also i used my new Saitek Multi Panel!
+
+<a href="https://cesque.com/storage/21/01/23/906849335665.jpg" class="image-link">
+	<img src="https://cesque.com/storage/21/02/06/965370409588.jpg">
+</a>
