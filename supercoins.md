@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-02-06T19:54:43.497Z
+date: 2021-02-08T21:26:31.273Z
 tags: 
 editor: markdown
 ---
@@ -48,3 +48,4 @@ editor: markdown
 "a bouncy castle is just a synonym for a knee :)" - supercoins 8/11/2020
 "oh, it's legs" - supercoins 3/1/2021
 "normal boys don't get to pick where the laser goes" - supercoins 6/2/2021
+"who said you can't taste a book!?" - supercoins 8/2/2021
