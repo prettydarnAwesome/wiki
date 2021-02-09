@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-02-08T23:21:44.134Z
+date: 2021-02-09T00:23:33.489Z
 tags: 
 editor: markdown
 ---
@@ -62,6 +62,7 @@ editor: markdown
 * "i also like putting heinz beans through the grinder that i have and watching all the juice squeeze out" - Hexi 31/1/2021
 * "i'm an exotic human" - hexi 6/2/2021
 * "big lube" - hexi 8/2/2021
+* "you know that thing you see on reddit which is like 'why do you have to pay to not put babies in the baby shredder'" - hexi 9/2/2021
 
 # Games to play
 * Stanley Parable
