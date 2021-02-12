@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-02-10T21:57:37.674Z
+date: 2021-02-12T23:55:57.433Z
 tags: 
 editor: markdown
 ---
@@ -93,6 +93,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "imagine if you had a gyroscopically stabilised penis" - huw 5/2/2021
 "what happens if you just, like... **drink cocaine**?" - huw 10/2/2021
 "if i run fast enough, i can escape the moon" - huw 10/2/2021
+"making things thiccer is always good" - huw 12/2/2021
 
 # Games to play
 * Child of Light
