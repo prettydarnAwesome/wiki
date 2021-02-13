@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-02-13T18:30:21.354Z
+date: 2021-02-13T23:40:02.771Z
 tags: 
 editor: markdown
 ---
@@ -94,6 +94,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "what happens if you just, like... **drink cocaine**?" - huw 10/2/2021
 "if i run fast enough, i can escape the moon" - huw 10/2/2021
 "making things thiccer is always good" - huw 12/2/2021
+"i'm going backwards but i'm not sweatin'" - huw 12/2/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
