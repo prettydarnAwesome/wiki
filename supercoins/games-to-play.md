@@ -1,5 +1,12 @@
-<!-- TITLE: Games To Play -->
-<!-- SUBTITLE: Some games that SuperCoins should play and potentially stream -->
+---
+title: Games To Play
+description: Some games that SuperCoins should play and potentially stream
+published: true
+date: 2021-02-13T18:14:11.132Z
+tags: 
+editor: markdown
+---
+
 # To Play
 ### Very Big Games
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
@@ -39,6 +46,11 @@
 * [Nowhere Prophet](https://store.steampowered.com/app/681730/Nowhere_Prophet/)
 * [The Messenger](https://store.steampowered.com/app/764790/The_Messenger/)
 * [Environmental Station Alpha](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/)
+* [The Medium](https://store.steampowered.com/app/1293160/The_Medium/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/the-medium/9NFSR96G6K4N?activetab=pivot:overviewtab)
+* [Vambrace: Cold Soul](https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/vambrace-cold-soul/9N171CGFVT1L?activetab=pivot:overviewtab)
+* [Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/touhou-luna-nights/9NBLGJQQBHH4?activetab=pivot:overviewtab)
+* [ScourgeBringer](https://store.steampowered.com/app/1037020/ScourgeBringer/) (More content added)
+* [Star Renegades](https://store.steampowered.com/app/651670/Star_Renegades/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/star-renegades/9PK5S1QKV10D?activetab=pivot:overviewtab)
 
 ### Hard Games
 * [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
@@ -82,7 +94,6 @@
 * [~~Pokémon Mystery Dungeon: Rescue Team DX~~](https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Mystery-Dungeon-Rescue-Team-DX-1695693.html)
 * [~~Octopath Traveler~~](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/)
 * [~~Sayonara Wild Hearts~~](https://store.steampowered.com/app/1122720/Sayonara_Wild_Hearts/)
-* [~~ScourgeBringer~~](https://store.steampowered.com/app/1037020/ScourgeBringer/)
 * [~~Children of Morta~~](https://store.steampowered.com/app/330020/Children_of_Morta/)
 * [~~One Step From Eden~~](https://store.steampowered.com/app/960690/One_Step_From_Eden/) (100% achievements)
 * [~~Yes, Your Grace~~](https://store.steampowered.com/app/1115690/Yes_Your_Grace/)
