@@ -2,7 +2,7 @@
 title: Games To Play
 description: 
 published: true
-date: 2021-02-13T18:36:03.141Z
+date: 2021-02-13T18:40:15.549Z
 tags: 
 editor: markdown
 ---
@@ -17,6 +17,7 @@ editor: markdown
 - Aragami
 - Star Wars Battlefront 2 Campaign
 - Wind Waker Randomizer??
+- Indivisible
 
 ### When Released/Cheap
 - Assassin's Creed Valhalla
