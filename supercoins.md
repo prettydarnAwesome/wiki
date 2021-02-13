@@ -2,14 +2,14 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-02-08T21:26:31.273Z
+date: 2021-02-13T17:48:54.651Z
 tags: 
 editor: markdown
 ---
 
 **Alternate names**: Mr Currency, SuperBooks, Literally/Literary Coins, Generic Currency, LowlandBag27923, Señor Peso, Penny
 
-[Games to Play](supercoins/games-to-play)
+[Games to Play](games-to-play)
 
 # Quotes
 
