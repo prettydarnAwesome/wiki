@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-02-12T23:55:57.433Z
+date: 2021-02-13T18:30:21.354Z
 tags: 
 editor: markdown
 ---
@@ -95,36 +95,6 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "if i run fast enough, i can escape the moon" - huw 10/2/2021
 "making things thiccer is always good" - huw 12/2/2021
 
-# Games to play
-* Child of Light
-* ~~INSIDE~~
-* ~~Watch Dogs 2~~
-* ~~Little Nightmares~~
-* Metroid: Zero Mission :)
-* ~~Asscreed: Syndicate~~
-* ASTRONEER
-* ~~Barony~~
-* Borderlands: The Presequel
-* ~~Caveblazers~~
-* Exapunks!
-* ~~Hexatrains~~
-* ~~Katamari Damacy: Reroll~~
-* Northgard
-* Octodad
-* RiME
-* ~~Opus Magnum~~
-* The Room 3
-* Shenzhen I/O
-* Civ VI
-* Slime Rancher
-* ~~When Ski Lifts Go Wrong~~
-* ~~The Witcher 3~~
-* Titanfall 2
-* ~~Hellblade~~
-* ~~Wolfenstein 2~~
-* ~~Tomb Raider 3~~
-* Absolver
-* Hollow Knight: Silksong
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
