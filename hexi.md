@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-02-13T21:47:13.386Z
+date: 2021-02-13T22:13:02.341Z
 tags: 
 editor: markdown
 ---
@@ -66,6 +66,10 @@ editor: markdown
 * "would Shakespeare use 'POGGERS' if he had a concept of it?" - hexi 13/2/2021
 * "dust is fingers and thumbs, really" - hexi 13/2/2021
 * "this is exactly what i do: i overzip from 3pm to 10pm, then i crash" - hexi 13/2/2021
+
+<a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
+  <img src="https://cesque.com/storage/21/02/13/201869046852.png">
+</a>
 
 # Games to play
 * Stanley Parable
