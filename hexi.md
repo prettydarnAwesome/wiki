@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-02-09T00:23:33.489Z
+date: 2021-02-13T20:30:28.031Z
 tags: 
 editor: markdown
 ---
@@ -63,6 +63,7 @@ editor: markdown
 * "i'm an exotic human" - hexi 6/2/2021
 * "big lube" - hexi 8/2/2021
 * "you know that thing you see on reddit which is like 'why do you have to pay to not put babies in the baby shredder'" - hexi 9/2/2021
+* "would Shakespeare use 'POGGERS' if he had a concept of it?" - hexi 13/2/2021
 
 # Games to play
 * Stanley Parable
