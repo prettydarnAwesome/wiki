@@ -2,7 +2,7 @@
 title: Games To Play
 description: 
 published: true
-date: 2021-02-13T18:31:24.105Z
+date: 2021-02-13T18:33:06.816Z
 tags: 
 editor: markdown
 ---
@@ -14,6 +14,8 @@ editor: markdown
 - Spiritfarer (Gamepass)
 - Breath of the Wild (again + dlc)
 - Ape Out (Gamepass)
+- Aragami
+- Star Wars Battlefront 2 Campaign
 
 ### When Released/Cheap
 - Assassin's Creed Valhalla
