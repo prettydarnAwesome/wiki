@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-02-14T22:05:10.217Z
+date: 2021-02-14T22:06:06.186Z
 tags: 
 editor: markdown
 ---
@@ -95,7 +95,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "if i run fast enough, i can escape the moon" - huw 10/2/2021
 "making things thiccer is always good" - huw 12/2/2021
 "i'm going backwards but i'm not sweatin'" - huw 12/2/2021
-"at least i can use my grandma sword" - huw 14/2/2021
+"at least we've got the grandma juice [...] at least i can use my grandma sword" - huw 14/2/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
