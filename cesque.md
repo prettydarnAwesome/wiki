@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2021-02-13T22:11:49.908Z
+date: 2021-02-14T19:25:59.942Z
 tags: 
 editor: markdown
 ---
@@ -26,6 +26,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "i think if you ordered 1000 flags and you didn't eat one of them, you're a coward" - cesque 26/12/2020 (in a dream)
 * "i hate teeth" - cesque 01/01/2021
 * "daniel james is fully liquid" - 13/2/2021
+* "if you were like me you should feel bad about yourself" - 14/02/2021
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
