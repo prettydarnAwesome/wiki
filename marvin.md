@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-01-31T14:45:58.660Z
+date: 2021-02-16T16:20:27.958Z
 tags: 
 editor: markdown
 ---
@@ -73,6 +73,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "quick, put mayonnaise in my mouth" - marvin 29/1/2021
 * "spam is a food lootbox" - marvin 30/1/2021
 * "what if instead of being birthed by someone else, you gave birth to yourself... i think i would prefer it that way" - marvin 31/1/2021
+* "apparently in Serbia, Neon Genesis isn't real" - 16/2/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
