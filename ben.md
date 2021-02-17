@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-01-14T20:27:55.689Z
+date: 2021-02-17T20:07:58.357Z
 tags: 
 editor: markdown
 ---
@@ -41,6 +41,7 @@ editor: markdown
 (Sees a candle) "how does it work, does it light from inside??" - Ben 25/12/2020
 "how long is a foot of rope?" - Ben 7/1/2021
 "does smoke go underground?" - Ben 14/1/2021
+"ah yes, heart disease. i remember now" - Ben 17/2/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
