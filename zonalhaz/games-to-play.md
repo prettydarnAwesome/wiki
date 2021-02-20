@@ -2,7 +2,7 @@
 title: Games To Play
 description: 
 published: true
-date: 2021-02-13T18:40:15.549Z
+date: 2021-02-20T15:36:20.286Z
 tags: 
 editor: markdown
 ---
@@ -16,7 +16,7 @@ editor: markdown
 - Ape Out (Gamepass)
 - Aragami
 - Star Wars Battlefront 2 Campaign
-- Wind Waker Randomizer??
+- ~~Wind Waker Randomizer??~~
 - Indivisible
 
 ### When Released/Cheap
