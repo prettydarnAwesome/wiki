@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-02-24T15:42:22.131Z
+date: 2021-02-28T15:47:29.201Z
 tags: 
 editor: markdown
 ---
@@ -68,6 +68,7 @@ editor: markdown
 * "this is exactly what i do: i overzip from 3pm to 10pm, then i crash" - hexi 13/2/2021
 * "if you talk to someone, you're in a relationship with them" - hexi 22/2/2021
 * "if you turn hexi upside-down, you still have hexi. he's just upside down" - superbcoins 22/2/2021
+* "for some reason, saying the word *bones* makes me want to go on holiday" - hexi 29/2/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
