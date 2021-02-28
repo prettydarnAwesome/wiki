@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2021-02-17T20:09:46.486Z
+date: 2021-02-28T23:44:31.601Z
 tags: 
 editor: markdown
 ---
@@ -27,6 +27,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "i hate teeth" - cesque 01/01/2021
 * "daniel james is fully liquid" - hexi 13/2/2021
 * "if you were like me you should feel bad about yourself" - 14/02/2021
+* "[mole mitts mole mitts mole mitts mole mitts mole mitts mole mitts molemitts molemitts](https://www.youtube.com/watch?v=KUvQaxnK7sc)" - cesque (and huw) 28/2/2021
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
