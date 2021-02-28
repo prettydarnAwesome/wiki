@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-02-14T22:06:06.186Z
+date: 2021-02-28T23:43:31.385Z
 tags: 
 editor: markdown
 ---
@@ -96,6 +96,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "making things thiccer is always good" - huw 12/2/2021
 "i'm going backwards but i'm not sweatin'" - huw 12/2/2021
 "at least we've got the grandma juice [...] at least i can use my grandma sword" - huw 14/2/2021
+"[https://www.youtube.com/watch?v=KUvQaxnK7sc](mole mitts mole mitts mole mitts mole mitts mole mitts mole mitts molemitts molemitts)" - huw (and cesque) 28/2/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
