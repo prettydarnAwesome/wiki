@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-02-25T22:49:08.378Z
+date: 2021-03-04T20:11:33.580Z
 tags: 
 editor: markdown
 ---
@@ -51,3 +51,4 @@ editor: markdown
 "who said you can't taste a book!?" - supercoins 8/2/2021
 "can 2 owls exist at once?" - supercoins 25/2/2021
 "i forgot tom was a compiler" - syphonx 25/2/2021
+"what's a tunnel with tunnel juice?" - supercoins, though blame huw for this one 4/3/2021
