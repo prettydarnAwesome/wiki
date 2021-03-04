@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-02-17T20:07:58.357Z
+date: 2021-03-04T20:10:49.141Z
 tags: 
 editor: markdown
 ---
@@ -42,6 +42,7 @@ editor: markdown
 "how long is a foot of rope?" - Ben 7/1/2021
 "does smoke go underground?" - Ben 14/1/2021
 "ah yes, heart disease. i remember now" - Ben 17/2/2021
+"are the French on another plane of existence?" - Ben 4/3/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
