@@ -2,7 +2,7 @@
 title: Syphonx
 description: A quick summary of Syphonx
 published: true
-date: 2021-02-08T23:54:07.021Z
+date: 2021-03-06T16:40:01.564Z
 tags: 
 editor: markdown
 ---
@@ -26,6 +26,7 @@ editor: markdown
 * "i need to cap the framerate of my brain..." - jag 1/31/2021
 * "my average beaver happiness has reached an all-time high" - jok 04/02/2021
 * "you're not gonna beat my Toothbrush Hero speedrun time!" - block 8/2/2021
+* "my ass is a temple" - jaaaaaak 6/3/2021
 
 # Games That Jak Should Play
 * hyper light drifter
