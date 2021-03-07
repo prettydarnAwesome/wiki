@@ -2,7 +2,7 @@
 title: Syphonx
 description: A quick summary of Syphonx
 published: true
-date: 2021-03-07T13:06:54.766Z
+date: 2021-03-07T13:45:43.050Z
 tags: 
 editor: markdown
 ---
@@ -28,6 +28,7 @@ editor: markdown
 * "you're not gonna beat my Toothbrush Hero speedrun time!" - block 8/2/2021
 * "my ass is a temple" - jaaaaaak 6/3/2021
 * "why am i so white" - jaaaaaaaaaaaaaaak 7/3/2021
+* "wait, did i just draw my first furry art!?" - jaaaaaaaaaaaaaaaaaaaaaaaaaaaaak 7/3/2021
 
 # Games That Jak Should Play
 * hyper light drifter
