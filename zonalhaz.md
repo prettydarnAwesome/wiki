@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-03-02T19:39:12.008Z
+date: 2021-03-13T20:12:26.578Z
 tags: 
 editor: markdown
 ---
@@ -98,6 +98,8 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "at least we've got the grandma juice [...] at least i can use my grandma sword" - huw 14/2/2021
 "[mole mitts mole mitts mole mitts mole mitts mole mitts mole mitts molemitts molemitts](https://www.youtube.com/watch?v=KUvQaxnK7sc)" - huw (and cesque) 28/2/2021
 "send me to the breeding tank" - huw 2/3/2021
+"i'm cheesin'" - huweth 13/3/2021
+"where's the ability to shoot bombs out of my ass?" - huweth 13/3/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
