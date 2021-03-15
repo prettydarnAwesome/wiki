@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-03-13T20:12:26.578Z
+date: 2021-03-15T22:04:39.691Z
 tags: 
 editor: markdown
 ---
@@ -100,6 +100,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "send me to the breeding tank" - huw 2/3/2021
 "i'm cheesin'" - huweth 13/3/2021
 "where's the ability to shoot bombs out of my ass?" - huweth 13/3/2021
+"i feel good enough to kill the moon now :)" - huw 15/3/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
