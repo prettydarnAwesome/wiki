@@ -1,5 +1,11 @@
-<!-- TITLE: Lindskog -->
-<!-- SUBTITLE: A quick summary of Lindskog -->
+---
+title: Lindskog
+description: A quick summary of Lindskog
+published: true
+date: 2021-03-20T23:00:50.265Z
+tags: 
+editor: markdown
+---
 
 # Quotes
 * "memes are hard" - lindskog
@@ -12,6 +18,7 @@
 * "oh no, i'm retarded!" - MrLindskog 08/09/2018
 * "[huw](Zonalhaz), have you actually *ever* slept?" - Lindskog 21/1/2020
 * "the problem is that the body can't speak without the head, so you can't ask it if it's in pain or not" - Lindskog 2/5/2020
+* "we need to go to Sweden so we can kill Lindskog" - ben 20/3/2021
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
 * "i love lindskog" - Nublar ☂ܟ
