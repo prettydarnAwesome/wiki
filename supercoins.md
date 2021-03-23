@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-03-04T20:11:33.580Z
+date: 2021-03-23T02:24:37.836Z
 tags: 
 editor: markdown
 ---
@@ -52,3 +52,4 @@ editor: markdown
 "can 2 owls exist at once?" - supercoins 25/2/2021
 "i forgot tom was a compiler" - syphonx 25/2/2021
 "what's a tunnel with tunnel juice?" - supercoins, though blame huw for this one 4/3/2021
+"it's not about feeling good, it's about the crusades" - supercoins 23/3/2021
