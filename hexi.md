@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-03-22T19:40:48.511Z
+date: 2021-03-23T02:26:51.006Z
 tags: 
 editor: markdown
 ---
@@ -70,7 +70,8 @@ editor: markdown
 * "if you turn hexi upside-down, you still have hexi. he's just upside down" - superbcoins 22/2/2021
 * "for some reason, saying the word *bones* makes me want to go on holiday" - hexi 29/2/2021
 * "if you were a cheese person, would you be made of moon or would the moon be made of flesh?" - hexi 7/3/2021
-* "people don't usually let me have sentience!" - hexi 22/3/2021
+* "people don't usually let me have sentience!" - hexi 22/3/2021\
+* "hexi's a very positive force on this world" - supercoins 23/3/2021 (this isn't funny it's just wholesome)
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
