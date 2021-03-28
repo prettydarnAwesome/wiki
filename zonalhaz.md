@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-03-21T22:10:27.762Z
+date: 2021-03-28T18:54:50.625Z
 tags: 
 editor: markdown
 ---
@@ -104,6 +104,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "huw looks like a fly" - all beasleys 20/3/2021
 "huw's got a tiny head and a big body" - brie 20/3/2021
 "they are having the Olympics in Japan this year, but without any of the international boyos" - huw 21/3/2021
+"i'm like the Typhoid Mary for Huwitis" - huwitis - 28/3/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
