@@ -2,7 +2,7 @@
 title: Games To Play
 description: Some games that SuperCoins should play and potentially stream
 published: true
-date: 2021-03-27T15:26:01.660Z
+date: 2021-03-30T19:28:56.912Z
 tags: 
 editor: markdown
 ---
@@ -63,6 +63,7 @@ editor: markdown
 * [Carto](https://store.steampowered.com/app/1172450/Carto/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carto/9PFS8Q01C2C4?activetab=pivot:overviewtab)
 * [Carrion](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab)
 * [Hollow Knight Randomiser](https://www.nexusmods.com/hollowknight/mods/9) (enemy randomiser + item randomiser)
+* [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
 
 ### Hard Games
 * [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
