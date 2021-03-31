@@ -1,5 +1,11 @@
-<!-- TITLE: Tarot -->
-<!-- SUBTITLE: A list of nice tarot decks (and possibly oracle decks) -->
+---
+title: Tarot
+description: A list of nice tarot decks (and possibly oracle decks)
+published: true
+date: 2021-03-31T12:29:50.269Z
+tags: 
+editor: markdown
+---
 
 # Tarot of the Divine
 https://www.bookdepository.com/Tarot-Divine-Yoshi-Yoshitani/9780593135143
@@ -192,6 +198,12 @@ https://littleredtarot.com/product/anima-mundi-tarot/
 
 <img src=https://cesque.com/storage/20/02/20/010155531236.jpg width=500px>
 
+# Oriens Tarot
+
+https://littleredtarot.com/product/oriens-tarot/
+
+<img src=https://cesque.com/storage/21/03/31/124322051172.png width=500px>
+
 <br>
 <br>
 <br>
@@ -228,14 +240,3 @@ Elements!
 https://littleredtarot.com/product/materia-prima-deck/
 
 <img src=https://cesque.com/storage/20/02/20/371604418726.png width=500px>
-
-
-
-
-
-
-
-
-
-
-
