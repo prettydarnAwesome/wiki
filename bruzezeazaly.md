@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2021-01-01T01:01:23.007Z
+date: 2021-04-01T18:07:56.279Z
 tags: 
 editor: markdown
 ---
@@ -19,3 +19,4 @@ editor: markdown
 "toddlers are meant to be in hell" - beasley 18/6/2020
 "am i currently squeezing, huw? - beasley 6/12/2020
 "i can't believe huw has his own skin!" - brie 1/1/2021
+"that lego skeleton horse looks like it could have been made out of pasta in some sort of spaghetti hoop meal" - brie 1/4/2021
