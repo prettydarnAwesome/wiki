@@ -1,8 +1,8 @@
 ---
 title: Syphonx
-description: A quick summary of Syphonx
+description: non-sexual grandma
 published: true
-date: 2021-03-07T13:45:43.050Z
+date: 2021-04-01T21:04:49.318Z
 tags: 
 editor: markdown
 ---
