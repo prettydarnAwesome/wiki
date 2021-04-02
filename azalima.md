@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-04-01T23:44:06.930Z
+date: 2021-04-02T02:03:02.007Z
 tags: 
 editor: markdown
 ---
@@ -36,3 +36,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i'd rather have rainbow 6 than peach 69" - ardam 2/5/2020
 "well, six of horse, half a dozen of the other" - ardam 24/10/2020
 "ardam why are you a catgirl?" - jak 2/4/2021
+"i do the same damage now as when i was a full baby" - ardam 2/4/2021
