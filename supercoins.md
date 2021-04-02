@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-04-02T00:02:06.187Z
+date: 2021-04-02T00:04:17.958Z
 tags: 
 editor: markdown
 ---
@@ -55,3 +55,4 @@ editor: markdown
 "it's not about feeling good, it's about the crusades" - supercoins 23/3/2021
 "what am i if not a collection of a load of guns?" - 24/3/2021
 "if i could wake up in the morning and just eat nuts all day, i would" - tom 2/4/2021
+"batman fixes websites at night" - tom 2/4/2021
