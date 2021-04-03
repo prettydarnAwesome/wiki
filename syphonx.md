@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-04-01T21:04:49.318Z
+date: 2021-04-03T22:12:48.935Z
 tags: 
 editor: markdown
 ---
@@ -29,6 +29,7 @@ editor: markdown
 * "my ass is a temple" - jaaaaaak 6/3/2021
 * "why am i so white" - jaaaaaaaaaaaaaaak 7/3/2021
 * "wait, did i just draw my first furry art!?" - jaaaaaaaaaaaaaaaaaaaaaaaaaaaaak 7/3/2021
+* "if you ever find me, please kill me and take a photo" - jak the black 3/4/2021
 
 # Games That Jak Should Play
 * hyper light drifter
