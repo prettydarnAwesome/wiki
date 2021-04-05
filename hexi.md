@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-03-23T02:33:29.268Z
+date: 2021-04-05T10:42:37.847Z
 tags: 
 editor: markdown
 ---
@@ -72,6 +72,7 @@ editor: markdown
 * "if you were a cheese person, would you be made of moon or would the moon be made of flesh?" - hexi 7/3/2021
 * "people don't usually let me have sentience!" - hexi 22/3/2021\
 * "hexi's a very positive force on this world ... we need to beat back the tides of entropy" - supercoins 23/3/2021
+* "i'm gonna go to voice activity, so you might start hearing screams" - hexi 5/4/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
