@@ -2,7 +2,7 @@
 title: Games To Play
 description: 
 published: true
-date: 2021-02-20T15:36:20.286Z
+date: 2021-04-10T20:45:42.436Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 
 ### Games
 - Titanfall 2 Campaign
-- Ori and the Blind Forest: Will of the Wisps (Gamepass)
+- ~~Ori and the Blind Forest: Will of the Wisps (Gamepass)~~
 - Spiritfarer (Gamepass)
 - Breath of the Wild (again + dlc)
 - Ape Out (Gamepass)
