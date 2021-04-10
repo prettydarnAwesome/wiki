@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2021-03-31T14:58:38.271Z
+date: 2021-04-10T16:03:15.127Z
 tags: 
 editor: markdown
 ---
@@ -29,6 +29,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "if you were like me you should feel bad about yourself" - 14/02/2021
 * "[mole mitts mole mitts mole mitts mole mitts mole mitts mole mitts molemitts molemitts](https://www.youtube.com/watch?v=KUvQaxnK7sc)" - cesque (and huw) 28/2/2021
 * "in alternate reality the default enemy is just horses" - cesque 32/3/2012
+* "huw is using his bimbo energy to play metroid zero mission randomiser" - cesque, uttering the First Sentence 10/4/2021
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
