@@ -2,7 +2,7 @@
 title: Games To Play
 description: 
 published: true
-date: 2021-04-10T20:45:42.436Z
+date: 2021-04-11T12:05:40.972Z
 tags: 
 editor: markdown
 ---
@@ -18,6 +18,7 @@ editor: markdown
 - Star Wars Battlefront 2 Campaign
 - ~~Wind Waker Randomizer??~~
 - Indivisible
+- Sea of Solitude (EA Play via Gamepass)
 
 ### When Released/Cheap
 - Assassin's Creed Valhalla
