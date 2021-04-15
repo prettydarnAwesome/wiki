@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-04-15T22:27:40.643Z
+date: 2021-04-15T23:26:23.310Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 * "if you ever find me, please kill me and take a photo" - jak the black 3/4/2021
 * "you can't have hands AND goo!" - jak 5/4/2021
 * "i'm being bankrolled by a load of worms" - jak 15/4/2021
+* "i've collected all of the birds *and* all of the bees, can we have sex now?" - jak 16/4/2021
 
 # Games That Jak Should Play
 * hyper light drifter
