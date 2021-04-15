@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-04-02T18:02:07.262Z
+date: 2021-04-15T20:44:05.554Z
 tags: 
 editor: markdown
 ---
@@ -106,6 +106,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "they are having the Olympics in Japan this year, but without any of the international boyos" - huw 21/3/2021
 "i'm like the Typhoid Mary for Huwitis" - huwitis - 28/3/2021
 "i'm printing boys" - zonalhaz 2/4/2021
+"that's fine because it's looting" - zonalhaz 15/4/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
