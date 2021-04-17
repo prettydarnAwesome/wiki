@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-04-10T16:01:24.624Z
+date: 2021-04-17T00:28:34.261Z
 tags: 
 editor: markdown
 ---
@@ -57,3 +57,4 @@ editor: markdown
 "if i could wake up in the morning and just eat nuts all day, i would" - tom 2/4/2021
 "batman fixes websites at night" - tom 2/4/2021
 "i feel like what is instinctual" - tom 10/4/2021
+"if any 2 bodies collide, i wouldn't necessarily call that a body slam" - tom 17/4/2021
