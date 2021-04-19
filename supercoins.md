@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-04-18T01:31:18.086Z
+date: 2021-04-19T19:04:52.566Z
 tags: 
 editor: markdown
 ---
@@ -59,3 +59,4 @@ editor: markdown
 "i feel like what is instinctual" - tom 10/4/2021
 "if any 2 bodies collide, i wouldn't necessarily call that a body slam" - tom 17/4/2021
 "if it's not alive, is it really a horse" - tommm 18/4/2021
+"What is it, its long and green"- Jak, "baguette?" - Tom 19/4/2021
