@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-04-15T23:26:23.310Z
+date: 2021-04-21T19:06:47.218Z
 tags: 
 editor: markdown
 ---
@@ -33,6 +33,7 @@ editor: markdown
 * "you can't have hands AND goo!" - jak 5/4/2021
 * "i'm being bankrolled by a load of worms" - jak 15/4/2021
 * "i've collected all of the birds *and* all of the bees, can we have sex now?" - jak 16/4/2021
+* "nice! i have a free hole in my toe :)" - jak 21/4/2021
 
 # Games That Jak Should Play
 * hyper light drifter
