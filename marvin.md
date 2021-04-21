@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-02-24T15:39:33.784Z
+date: 2021-04-21T19:05:55.270Z
 tags: 
 editor: markdown
 ---
@@ -75,6 +75,8 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "what if instead of being birthed by someone else, you gave birth to yourself... i think i would prefer it that way" - marvin 31/1/2021
 * "apparently in Serbia, Neon Genesis isn't real" - marvin 16/2/2021
 * "oh no I'm in Serbia, be right back" - marvin 24/2/2021
+* "i feel like wasps are pretty similar to crabs anyway" - marvin 20/4/2021
+* "move, bitch, get out the *porcupine*" - marvin 20/4/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
