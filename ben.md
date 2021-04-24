@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-04-02T00:01:26.842Z
+date: 2021-04-24T21:04:47.891Z
 tags: 
 editor: markdown
 ---
@@ -45,6 +45,7 @@ editor: markdown
 "are the French on another plane of existence?" - Ben 4/3/2021
 "if i had a superpower, it would be the power to knock anyone off a cliff anywhere" - bem 5/3/2021
 "i wanna be a tentlord" - ben 2/4/2021
+"this man's on acid!" - huw about ben 24/4/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
