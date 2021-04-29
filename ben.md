@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-04-24T21:04:47.891Z
+date: 2021-04-29T20:49:45.377Z
 tags: 
 editor: markdown
 ---
@@ -46,6 +46,7 @@ editor: markdown
 "if i had a superpower, it would be the power to knock anyone off a cliff anywhere" - bem 5/3/2021
 "i wanna be a tentlord" - ben 2/4/2021
 "this man's on acid!" - huw about ben 24/4/2021
+"I have 5 IQ" - Ben 29/04/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
@@ -69,6 +70,7 @@ editor: markdown
 •	Black pepper – **boneless** (1/4tsp)
 •	White Pepper – **boneless** (1/4tsp)
 •	Chopped Tomatoes – **boneless** (400g)
+
 
 ### Method
 1.	Preheat oven to 200 degree Celsius (boneless fan oven)
