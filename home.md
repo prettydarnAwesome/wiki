@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2020-12-30T22:25:45.594Z
+date: 2021-04-29T19:43:14.591Z
 tags: 
 editor: markdown
 ---
@@ -39,4 +39,8 @@ Click one of the above buddies to go find out information about them!
 * [Game ideas](game-ideas)
 
 # Discord rules
+## 1
 ![](https://cesque.com/storage/19/04/23/443317308873.png)
+
+## 2
+You don't have to listen to science.
