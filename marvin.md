@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-04-21T19:05:55.270Z
+date: 2021-05-02T11:40:39.846Z
 tags: 
 editor: markdown
 ---
@@ -77,6 +77,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "oh no I'm in Serbia, be right back" - marvin 24/2/2021
 * "i feel like wasps are pretty similar to crabs anyway" - marvin 20/4/2021
 * "move, bitch, get out the *porcupine*" - marvin 20/4/2021
+* "i feel like America is not a real place" - marvin 2/5/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
