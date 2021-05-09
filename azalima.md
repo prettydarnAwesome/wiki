@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-04-02T02:03:02.007Z
+date: 2021-05-09T10:55:53.822Z
 tags: 
 editor: markdown
 ---
@@ -37,3 +37,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "well, six of horse, half a dozen of the other" - ardam 24/10/2020
 "ardam why are you a catgirl?" - jak 2/4/2021
 "i do the same damage now as when i was a full baby" - ardam 2/4/2021
+"apparently imagination is the opposite of life" - ardam 9/5/2021
