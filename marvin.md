@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-05-12T20:20:43.748Z
+date: 2021-05-12T21:00:42.492Z
 tags: 
 editor: markdown
 ---
@@ -79,6 +79,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "move, bitch, get out the *porcupine*" - marvin 20/4/2021
 * "i feel like America is not a real place" - marvin 2/5/2021
 * "you never know when there's a fire in the Spongebob Kingdom" - marvin, on being asked why he needs a fire extinguisher underwater 12/5/2021
+* "marvin's ideal fish has no eyes" - huw 12/5/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
