@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-05-16T13:10:48.747Z
+date: 2021-05-16T13:11:34.451Z
 tags: 
 editor: markdown
 ---
@@ -199,6 +199,11 @@ someone put a big-ass mountain directly in the way of the start of our flight pa
 	<img src="https://cesque.com/storage/21/02/06/965370409588.jpg">
 </a>
 
- # 2021-05-16 Brno Turany `LZTT` →  Innsbruck `LOWI` (52m)
- not a bad flight considering we didn't play in 4 months. but as always, landing is kinda hell
+# 2021-05-16 Brno Turany `LZTT` →  Innsbruck `LOWI` (52m)
+ not a bad flight considering we didn't play in 4 months. but as always, landing is kinda hell. also me and huw were pretty synced up
+ 
+<a href="https://cesque.com/storage/21/05/16/506825118490.jpg" class="image-link">
+	<img src="https://cesque.com/storage/21/05/16/506825118490.jpg">
+</a>
+
 
