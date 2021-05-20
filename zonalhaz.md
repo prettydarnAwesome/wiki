@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-05-16T13:55:36.573Z
+date: 2021-05-20T12:40:36.246Z
 tags: 
 editor: markdown
 ---
@@ -107,7 +107,8 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i'm like the Typhoid Mary for Huwitis" - huwitis - 28/3/2021
 "i'm printing boys" - zonalhaz 2/4/2021
 "that's fine because it's looting" - zonalhaz 15/4/2021
-"there's a way to change your dog settings" - 16/5/2021
+"there's a way to change your dog settings" - huw 16/5/2021
+"if you kickflip in the office then i think its required for them to say "sick trick bro"" - huw 20/5/2021
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
