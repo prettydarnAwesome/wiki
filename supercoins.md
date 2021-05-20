@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-04-21T19:04:23.591Z
+date: 2021-05-20T15:52:56.752Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 - "can 2 owls exist at once?" - supercoins 25/2/2021
 - "i forgot tom was a compiler" - syphonx 25/2/2021
 - "what's a tunnel with tunnel juice?" - supercoins, though blame huw for this one 4/3/2021
+- "i just don't want to give you the electrons because you wouldn't know what to do with them if you had them" - hexi (about tom) 22/3/2021
 - "it's not about feeling good, it's about the crusades" - supercoins 23/3/2021
 - "what am i if not a collection of a load of guns?" - 24/3/2021
 - "if i could wake up in the morning and just eat nuts all day, i would" - tom 2/4/2021
