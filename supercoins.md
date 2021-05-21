@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-05-20T15:52:56.752Z
+date: 2021-05-21T21:32:12.727Z
 tags: 
 editor: markdown
 ---
@@ -63,3 +63,4 @@ editor: markdown
 - "if it's not alive, is it really a horse" - tommm 18/4/2021
 - "What is it, its long and green"- Jak, "baguette?" - Tom 19/4/2021
 - "you're a butt person, go have a look at some butts" - tom to jak 19/4/2021
+- "Is pie just a big myth?" - Tom 21/5/2021
