@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-05-21T21:15:43.889Z
+date: 2021-05-22T15:59:47.091Z
 tags: 
 editor: markdown
 ---
@@ -82,6 +82,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "marvin's ideal fish has no eyes" - huw 12/5/2021
 * "everyone knows about piss vapor insulation" - marvin 21/5/2021
 * "i'm not crazy i'm just foreign" - marvin 21/5/2021
+* "spiders are bugs in the gaming world" - marvin 22/5/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
