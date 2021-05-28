@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-05-16T13:11:34.451Z
+date: 2021-05-28T20:58:09.315Z
 tags: 
 editor: markdown
 ---
@@ -205,5 +205,10 @@ someone put a big-ass mountain directly in the way of the start of our flight pa
 <a href="https://cesque.com/storage/21/05/16/506825118490.jpg" class="image-link">
 	<img src="https://cesque.com/storage/21/05/16/506825118490.jpg">
 </a>
+
+# 2021-05-16 Brno Turany `LOWI` →  Tessera `LIPZ` (1h21m)
+beautiful! i love austrian mountains!!! wow. it was very scary to avoid mountains while flying through the clouds but once we got past that, it was pretty nice and comfy. we followed the river down past some nice towns nestled in the mountains, then out onto the plains and landed at Venice.
+
+
 
 
