@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-04-21T19:06:47.218Z
+date: 2021-05-28T21:37:29.441Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,7 @@ editor: markdown
 * "i'm being bankrolled by a load of worms" - jak 15/4/2021
 * "i've collected all of the birds *and* all of the bees, can we have sex now?" - jak 16/4/2021
 * "nice! i have a free hole in my toe :)" - jak 21/4/2021
+* "can i eat raw chicken?" - jak 28/5/2021
 
 # Games That Jak Should Play
 * hyper light drifter
