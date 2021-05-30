@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-05-29T00:34:04.975Z
+date: 2021-05-30T13:03:38.670Z
 tags: 
 editor: markdown
 ---
@@ -206,9 +206,10 @@ someone put a big-ass mountain directly in the way of the start of our flight pa
 	<img src="https://cesque.com/storage/21/05/16/506825118490.jpg">
 </a>
 
-# 2021-05-16 Brno Turany `LOWI` →  Tessera `LIPZ` (1h21m)
+# 2021-05-16 Brno Turany `LOWI` → Vienna Tessera `LIPZ` (1h21m)
 beautiful! i love austrian mountains!!! wow. it was very scary to avoid mountains while flying through the clouds but once we got past that, it was pretty nice and comfy. we followed the river down past some nice towns nestled in the mountains, then out onto the plains and landed at Venice.
 
-
+# 2021-05-16 Tessera `LIPZ` → Ljublana Brnik `LJLJ` (58m)
+flew in the Diamond DV20, and i like this plane. lots of visibility, and it has instruments (but no autopilot). pretty comfy
 
 
