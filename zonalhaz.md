@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-06-02T19:22:23.620Z
+date: 2021-06-05T12:35:21.892Z
 tags: 
 editor: markdown
 ---
@@ -111,6 +111,8 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "if you kickflip in the office then i think its required for them to say "sick trick bro"" - huw 20/5/2021
 "the aim of the game is to get huw to cry" - brie 20/5/2021
 "i've got the poppers in my ass! that's where they go right!? i know drugs!" - huw 2/6/2021
+"if the ocean is on fire, that's fine" - huw 5/6/2021
+
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
