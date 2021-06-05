@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-06-02T19:22:47.154Z
+date: 2021-06-05T16:53:18.428Z
 tags: 
 editor: markdown
 ---
@@ -84,6 +84,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i'm not crazy i'm just foreign" - marvin 21/5/2021
 * "spiders are bugs in the gaming world" - marvin 22/5/2021
 * "mayonnaise is just glass" - marvin
+* "i'm investing in cummies" - marvin 5/6/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
