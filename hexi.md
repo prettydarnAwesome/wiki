@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-05-05T21:27:02.543Z
+date: 2021-06-07T20:17:20.285Z
 tags: 
 editor: markdown
 ---
@@ -74,6 +74,7 @@ editor: markdown
 * "hexi's a very positive force on this world ... we need to beat back the tides of entropy" - supercoins 23/3/2021
 * "i'm gonna go to voice activity, so you might start hearing screams" - hexi 5/4/2021
 * "**\[on hearing that Yahoo Answers has shut down\]** OH NO! what am i gonna do with all my Yahoo Questions!?" - hexi 5/5/2021
+* "**\[on being asked "What are you doing?"]** i've got oil blood :)" - hexi 7/6/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
