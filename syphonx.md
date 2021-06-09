@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-05-28T22:37:29.844Z
+date: 2021-06-09T20:58:46.987Z
 tags: 
 editor: markdown
 ---
@@ -37,6 +37,8 @@ editor: markdown
 * "can i eat raw chicken?" - jak 28/5/2021
 * "can you commit war crimes please?" - jak 28/5/2021
 * "i've got fuckin' worms!" - jak 28/5/2021
+* "leave my jak juice alone" - Jak 09/06/2021
+* "I've shown everyone my jonuts today, they were all mad" - Jak 09/06/2021
 
 # Games That Jak Should Play
 * hyper light drifter
