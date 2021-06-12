@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-06-09T21:57:52.223Z
+date: 2021-06-12T16:34:34.464Z
 tags: 
 editor: markdown
 ---
@@ -40,6 +40,7 @@ editor: markdown
 * "leave my jak juice alone" - Jak 09/06/2021
 * "I've shown everyone my jonuts today, they were all mad" - Jak 09/06/2021
 * "you thought you saw spaghetti on the internet" - jak 9/6/2021
+* "man, i love dart" - jak 12/6/2021
 
 # Games That Jak Should Play
 * hyper light drifter
