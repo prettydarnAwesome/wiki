@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless)
 published: true
-date: 2021-04-29T20:49:45.377Z
+date: 2021-06-12T16:05:46.977Z
 tags: 
 editor: markdown
 ---
@@ -47,6 +47,7 @@ editor: markdown
 "i wanna be a tentlord" - ben 2/4/2021
 "this man's on acid!" - huw about ben 24/4/2021
 "I have 5 IQ" - Ben 29/04/2021
+"i wish i could put my horse inside an egg" - ben 12/6/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
