@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-06-05T12:35:21.892Z
+date: 2021-06-24T20:38:00.980Z
 tags: 
 editor: markdown
 ---
@@ -112,6 +112,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "the aim of the game is to get huw to cry" - brie 20/5/2021
 "i've got the poppers in my ass! that's where they go right!? i know drugs!" - huw 2/6/2021
 "if the ocean is on fire, that's fine" - huw 5/6/2021
+"big bazonkers does not an anime make" - huw 24/6/2021
 
 
 
