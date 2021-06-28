@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-06-27T18:19:09.132Z
+date: 2021-06-28T18:50:57.713Z
 tags: 
 editor: markdown
 ---
@@ -77,6 +77,7 @@ editor: markdown
 * "**\[on being asked "What are you doing?"]** i've got oil blood :)" - hexi 7/6/2021
 * "don't punch a hexi, or he'll spit at you" - hexi 12/6/2021
 * "i'm a ball expert. anything round. i don't do eggs, or egg-shaped" - hexi 27/6/2021
+* "because i have to pee, i will die" - hexi 28/6/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
