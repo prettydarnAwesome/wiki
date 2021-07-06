@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-05-21T21:32:12.727Z
+date: 2021-07-06T20:10:37.811Z
 tags: 
 editor: markdown
 ---
@@ -64,3 +64,4 @@ editor: markdown
 - "What is it, its long and green"- Jak, "baguette?" - Tom 19/4/2021
 - "you're a butt person, go have a look at some butts" - tom to jak 19/4/2021
 - "Is pie just a big myth?" - Tom 21/5/2021
+- "you have to eat apples until you die" - tomas 6/7/2021
