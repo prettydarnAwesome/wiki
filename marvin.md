@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-07-08T16:27:43.569Z
+date: 2021-07-08T16:28:44.827Z
 tags: 
 editor: markdown
 ---
@@ -94,3 +94,7 @@ bonus verse quote because he doesn't have a page:
 * "be right back i have to pee from my dick" - verse 17/1/2021
 
 <img src=https://cesque.com/storage/21/07/08/816466415685.png width=500px>
+
+- Marvin is centrally located and easily accessible to major employment centers within Center City Charlotte, Ballantyne and South Charlotte.
+- Marvin has the highest median income in the state.
+- Marvin values greenspace preservation through tree, stream and viewshed buffers.
