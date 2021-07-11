@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker
 published: true
-date: 2021-07-09T20:46:11.857Z
+date: 2021-07-11T18:51:38.465Z
 tags: 
 editor: markdown
 ---
@@ -52,6 +52,7 @@ editor: markdown
 "what are the best 20 questions?" - ben 22/6/2021
 "dan's the angel in my ear and huw's the devil who wants to fuck the pope" - ben 6/7/2021
 "i really love piss!!!" - ben 9/7/2021
+"did i ever tell you the story of how i almost killed a child?" - ben 11/7/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
