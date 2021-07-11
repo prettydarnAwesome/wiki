@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2021-07-11T17:21:28.356Z
+date: 2021-07-11T17:30:14.269Z
 tags: 
 editor: markdown
 ---
@@ -21,3 +21,4 @@ editor: markdown
 "i can't believe huw has his own skin!" - brie 1/1/2021
 "that lego skeleton horse looks like it could have been made out of pasta in some sort of spaghetti hoop meal" - brie 1/4/2021
 "you need a more precise phallus" - brie 11/7/2021
+"if something's translucent, is it a donut?" - brie 11/7/2021
