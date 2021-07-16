@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-07-06T20:10:37.811Z
+date: 2021-07-16T19:19:05.481Z
 tags: 
 editor: markdown
 ---
@@ -65,3 +65,4 @@ editor: markdown
 - "you're a butt person, go have a look at some butts" - tom to jak 19/4/2021
 - "Is pie just a big myth?" - Tom 21/5/2021
 - "you have to eat apples until you die" - tomas 6/7/2021
+- "do you believe in Africa, tom?" - huw 16/7/2021
