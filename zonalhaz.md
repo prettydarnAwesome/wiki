@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-07-22T20:18:28.666Z
+date: 2021-07-22T20:19:32.754Z
 tags: 
 editor: markdown
 ---
@@ -119,4 +119,4 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
 
-![https://cesque.com/storage/21/07/22/867048638949.png](https://cesque.com/storage/19/04/19/unknown.png)
+[<img src="https://cesque.com/storage/19/04/19/unknown.png" />](https://cesque.com/storage/21/07/22/867048638949.png)
