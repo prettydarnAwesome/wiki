@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-05-09T10:55:53.822Z
+date: 2021-07-25T14:04:10.940Z
 tags: 
 editor: markdown
 ---
@@ -38,3 +38,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "ardam why are you a catgirl?" - jak 2/4/2021
 "i do the same damage now as when i was a full baby" - ardam 2/4/2021
 "apparently imagination is the opposite of life" - ardam 9/5/2021
+"tom i don't have free will!!!" - ardam 25/7/2021
