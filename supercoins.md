@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-07-19T22:15:56.072Z
+date: 2021-07-25T20:31:47.810Z
 tags: 
 editor: markdown
 ---
@@ -66,4 +66,4 @@ editor: markdown
 - "Is pie just a big myth?" - Tom 21/5/2021
 - "you have to eat apples until you die" - tomas 6/7/2021
 - "do you believe in Africa, tom?" - huw 16/7/2021
-- "my preferred name is 'X' and my real name is 'Exodia'" - huw 19/7/2021
+- "my preferred name is 'X' and my real name is 'Exodia'" - tom 19/7/2021
