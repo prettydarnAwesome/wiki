@@ -1,5 +1,11 @@
-<!-- TITLE: Book Gathering -->
-<!-- SUBTITLE: The Book Gathering -->
+---
+title: Book Gathering
+description: The Book Gathering
+published: true
+date: 2021-07-26T19:22:04.898Z
+tags: 
+editor: markdown
+---
 
 # List of Books Read
 1. [Final Empire](books/the-final-empire)
