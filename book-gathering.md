@@ -2,7 +2,7 @@
 title: Book Gathering
 description: The Book Gathering
 published: true
-date: 2021-07-26T19:22:57.953Z
+date: 2021-07-26T19:23:33.741Z
 tags: 
 editor: markdown
 ---
@@ -26,4 +26,4 @@ Firstly we use [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting) 
 If that doesn't get us to a clear winner, we use [Borda Count](https://en.wikipedia.org/wiki/Borda_count).
 If we end up with a draw, we use [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) to decide between the final two candidates.
 
-*[Old suggestions](books/old-suggestions)*
+*[Old suggestions](/books/old-suggestions)*
