@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2021-07-11T17:30:14.269Z
+date: 2021-07-28T20:41:29.383Z
 tags: 
 editor: markdown
 ---
@@ -22,3 +22,4 @@ editor: markdown
 "that lego skeleton horse looks like it could have been made out of pasta in some sort of spaghetti hoop meal" - brie 1/4/2021
 "you need a more precise phallus" - brie 11/7/2021
 "if something's translucent, is it a donut?" - brie 11/7/2021
+"right, time to get chonking" - brie 28/7/2021
