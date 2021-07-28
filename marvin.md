@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-07-10T17:19:26.214Z
+date: 2021-07-28T20:31:01.622Z
 tags: 
 editor: markdown
 ---
@@ -86,6 +86,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "mayonnaise is just glass" - marvin
 * "i'm investing in cummies" - marvin 5/6/2021
 * "\*gasp*! i hear a friendly smack-smack sound. it must be a friendly smack-smack man!" - marvin 10/7/2021
+* "what the heck, marvin has so many diseases!" - ben 28/7/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
