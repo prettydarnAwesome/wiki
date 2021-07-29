@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-07-28T20:44:20.014Z
+date: 2021-07-29T19:29:32.945Z
 tags: 
 editor: markdown
 ---
@@ -213,3 +213,5 @@ beautiful! i love austrian mountains!!! wow. it was very scary to avoid mountain
 flew in the Diamond DV20, and i like this plane. lots of visibility, and it has instruments (but no autopilot). pretty comfy
 
 
+# 2021-05-30 Ljublana Brnik `LJLJ` → Krk Island `LDRI` (54m)
+dan crashed like twice but got there in the end. i had a pretty smooth flight.
