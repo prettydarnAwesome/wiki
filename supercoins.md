@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-07-25T20:31:47.810Z
+date: 2021-07-30T19:11:25.111Z
 tags: 
 editor: markdown
 ---
@@ -67,3 +67,4 @@ editor: markdown
 - "you have to eat apples until you die" - tomas 6/7/2021
 - "do you believe in Africa, tom?" - huw 16/7/2021
 - "my preferred name is 'X' and my real name is 'Exodia'" - tom 19/7/2021
+- "if you don't have a forehead, you can't put makeup on it" - tom 30/7/2021
