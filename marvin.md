@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-07-28T20:31:01.622Z
+date: 2021-08-04T21:17:31.011Z
 tags: 
 editor: markdown
 ---
@@ -87,6 +87,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i'm investing in cummies" - marvin 5/6/2021
 * "\*gasp*! i hear a friendly smack-smack sound. it must be a friendly smack-smack man!" - marvin 10/7/2021
 * "what the heck, marvin has so many diseases!" - ben 28/7/2021
+* "i had to check if leonardo da vinci would know what "pee" meant" - marvin 4/8/2021 ("he wouldn't cause he died 400 years before people started using the word "pee"")
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
