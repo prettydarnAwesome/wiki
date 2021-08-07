@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-07-26T19:10:45.976Z
+date: 2021-08-07T18:54:16.819Z
 tags: 
 editor: markdown
 ---
@@ -80,6 +80,7 @@ editor: markdown
 * "because i have to pee, i will die" - hexi 28/6/2021
 * "i'm a (Theta/feeta) licker" - hexi 01/07/2021
 * "i tried satan for the first time today" - hexi 26/07/2021
+* "when i hear sludge, i am provokked" - hexi 7/8/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
