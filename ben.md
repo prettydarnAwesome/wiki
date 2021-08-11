@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker
 published: true
-date: 2021-07-25T14:04:51.405Z
+date: 2021-08-11T19:35:10.649Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,7 @@ editor: markdown
 "did i ever tell you the story of how i almost killed a child?" - ben 11/7/2021
 "hello sir!... oh, it's an oven" - ben 12/7/2021
 "i'm an actual" - ben 21/7/2021
+"snakes are kinda like plants!" - ben 11/8/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
