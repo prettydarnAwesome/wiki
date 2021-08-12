@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-08-12T18:50:19.390Z
+date: 2021-08-12T18:57:50.858Z
 tags: 
 editor: markdown
 ---
@@ -96,6 +96,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 
 bonus verse quote because he doesn't have a page:
 * "be right back i have to pee from my dick" - verse 17/1/2021
+* "snakes are basically bugs" - verse 12/8/2021
 
 <img src=https://cesque.com/storage/21/07/08/816466415685.png width=500px style="margin-top: 50px">
 
