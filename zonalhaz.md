@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-07-22T20:19:32.754Z
+date: 2021-08-20T22:06:27.114Z
 tags: 
 editor: markdown
 ---
@@ -113,6 +113,8 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i've got the poppers in my ass! that's where they go right!? i know drugs!" - huw 2/6/2021
 "if the ocean is on fire, that's fine" - huw 5/6/2021
 "big bazonkers does not an anime make" - huw 24/6/2021
+"babies shouldn't have arms, they can't even do anything with them" - huw 20/8/2021
+"you can tell when i am activating my neurons, because i go through so much water!" - huw 20/8/2021 (👍 upvote from marvin)
 
 
 
