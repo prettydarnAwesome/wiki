@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-08-20T22:09:25.975Z
+date: 2021-08-20T23:06:05.710Z
 tags: 
 editor: markdown
 ---
@@ -41,3 +41,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "tom i don't have free will!!!" - ardam 25/7/2021
 "stenographer's keyboards aren't just for ramadan" - ardam 30/7/2021
 "i'm not ontologically convinced by the existence of holes" - ardam 20/8/2021
+"i just heard '*chromosome*' and i just started speaking before thinking" - ardam 21/8/2021
