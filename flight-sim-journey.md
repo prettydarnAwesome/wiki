@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-07-29T19:29:32.945Z
+date: 2021-08-21T20:35:36.035Z
 tags: 
 editor: markdown
 ---
@@ -172,7 +172,7 @@ a night flight in the Diamond DA40NG. Olanda is very small and had no runway lig
 # 2020-12-05 Olanda `ESMZ` → Tallinn `EETN` (1h35m)
 # 2020-12-05 Tallinn `EETN` → Riga `EVRA` (50m)
 
-2 good flights, although we got hit with the ATC bug where it sends you back a waypoint when you input an approach. TWICE! our flight paths look horrible :(
+2 good flights, although we got hit with the ATC bug where it sends you back a waypoint when you input an approach. TWICE! our flight paths look horrible :( - `cesque`
 
 # 2020-12-05 Riga `EVRA` → Vilnius `EYVI` (38m)
 # 2020-12-05 Vilnius `EYVI` → Hrodna `UMMG` (33m)
@@ -193,25 +193,28 @@ nice takeoff! nice flight, relaxing, lots of clouds! watching Jak play PoE! but 
 </a>
 
 # 2021-01-12 Poprad Tatry `LZTT` → Brno Turany `LKTB` (55m)
-someone put a big-ass mountain directly in the way of the start of our flight path. after circling to gain enough height to get past it, the rest of the flight was butter smooth all the way to parking at Brno. also i used my new Saitek Multi Panel!
+someone put a big-ass mountain directly in the way of the start of our flight path. after circling to gain enough height to get past it, the rest of the flight was butter smooth all the way to parking at Brno. also i used my new Saitek Multi Panel! - `cesque`
 
 <a href="https://cesque.com/storage/21/01/23/906849335665.jpg" class="image-link">
 	<img src="https://cesque.com/storage/21/02/06/965370409588.jpg">
 </a>
 
 # 2021-05-16 Brno Turany `LZTT` →  Innsbruck `LOWI` (52m)
- not a bad flight considering we didn't play in 4 months. but as always, landing is kinda hell. also me and huw were pretty synced up
+ not a bad flight considering we didn't play in 4 months. but as always, landing is kinda hell. also me and huw were pretty synced up - `cesque`
  
 <a href="https://cesque.com/storage/21/05/16/506825118490.jpg" class="image-link">
 	<img src="https://cesque.com/storage/21/05/16/506825118490.jpg">
 </a>
 
 # 2021-05-16 Brno Turany `LOWI` → Vienna Tessera `LIPZ` (1h21m)
-beautiful! i love austrian mountains!!! wow. it was very scary to avoid mountains while flying through the clouds but once we got past that, it was pretty nice and comfy. we followed the river down past some nice towns nestled in the mountains, then out onto the plains and landed at Venice.
+beautiful! i love austrian mountains!!! wow. it was very scary to avoid mountains while flying through the clouds but once we got past that, it was pretty nice and comfy. we followed the river down past some nice towns nestled in the mountains, then out onto the plains and landed at Venice. - `cesque`
 
 # 2021-05-30 Tessera `LIPZ` → Ljublana Brnik `LJLJ` (58m)
-flew in the Diamond DV20, and i like this plane. lots of visibility, and it has instruments (but no autopilot). pretty comfy
+flew in the Diamond DV20, and i like this plane. lots of visibility, and it has instruments (but no autopilot). pretty comfy - `cesque`
 
 
-# 2021-05-30 Ljublana Brnik `LJLJ` → Krk Island `LDRI` (54m)
-dan crashed like twice but got there in the end. i had a pretty smooth flight.
+# 2021-07-29 Ljublana Brnik `LJLJ` → Krk Island `LDRI` (54m)
+dan crashed like twice but got there in the end. i had a pretty smooth flight. - `zonalhaz`
+
+# 2021-08-21 Krk Island `LDRI` → Zagreb Pleso (Franjo Tuđman) `LDZA` (1h03m)
+we used headtracking! which worked pretty well aside from when adding our flight plans. there was a little confusing in the middle; i got sent up to 17,000ft when basically at the airport, and huw got almost sent back to Rijeka, but our actual landings were both smooth as heck. also tracked my flight in Tacview, though unfortunately it didn't track huw's flight too (i think because of an MSFS bug). now we can go visit marvin lets goooooo - `cesque` 
