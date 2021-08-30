@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-08-21T20:35:36.035Z
+date: 2021-08-30T19:10:19.050Z
 tags: 
 editor: markdown
 ---
@@ -218,3 +218,10 @@ dan crashed like twice but got there in the end. i had a pretty smooth flight. -
 
 # 2021-08-21 Krk Island `LDRI` → Zagreb Pleso (Franjo Tuđman) `LDZA` (1h03m)
 we used headtracking! which worked pretty well aside from when adding our flight plans. there was a little confusing in the middle; i got sent up to 17,000ft when basically at the airport, and huw got almost sent back to Rijeka, but our actual landings were both smooth as heck. also tracked my flight in Tacview, though unfortunately it didn't track huw's flight too (i think because of an MSFS bug). now we can go visit marvin lets goooooo - `cesque` 
+
+# 2021-08-30 Zagreb Pleso (Franjo Tuđman) `LDZA` → Heviz-Balaton `LHSM` (37m)
+you know what? this was probably one of the most stable flights between the two of us. also we saw Balaton Lake which is apparently a cool holiday destination. looked nice. though huw did call it Piss Lake... - `cesque`
+# 2021-08-30 Heviz-Balaton `LHSM` → Jelas `LDOR` (44m)
+arrived in Slavonski Brod! the airport (okay, air*strip*) is right behind City Colosseum so we are gonna go see a movie and get some mlinar pog. visual landing so we were kiiiinda in hell but we managed it. 
+
+also this is basically our 1 year anniversary flight(s) since our first flight was on 2020-08-31. congrats! 🛫🎉✨ - `cesque`
