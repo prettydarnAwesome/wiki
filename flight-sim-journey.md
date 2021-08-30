@@ -2,10 +2,18 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-08-30T19:10:19.050Z
+date: 2021-08-30T19:11:21.721Z
 tags: 
 editor: markdown
 ---
+
+<style>
+	h1 code {
+  	background: hotpink;
+  }
+</style>
+
+
 
 The concept is that [cesque](/cesque) and [zonalhaz](/zonalhaz) are travelling southwards together from the very northernmost part of the UK in flight sim. Our goal is to reach the south of the UK and then onwards from there to... Norway? France? who knows...
 
