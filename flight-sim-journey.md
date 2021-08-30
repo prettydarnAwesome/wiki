@@ -2,14 +2,14 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-08-30T19:11:21.721Z
+date: 2021-08-30T19:16:16.211Z
 tags: 
 editor: markdown
 ---
 
 <style>
 	h1 code {
-  	background: hotpink;
+  	background: hotpink !important;
   }
 </style>
 
