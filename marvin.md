@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-08-20T22:11:01.695Z
+date: 2021-09-06T18:49:04.892Z
 tags: 
 editor: markdown
 ---
@@ -91,6 +91,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "shine bright like a breadmaker" - marvin 12/8/2021
 * "will this guy beat my little pussy up if i attack him?" - marvin 20/8/2021
 * "is this guy gonna smell my feet if i attack him?" - marvin 20/8/2021
+* "Da Vinci is short for Dante Vinci" - marvin 6/9/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
