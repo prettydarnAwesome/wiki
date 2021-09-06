@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-09-06T18:49:04.892Z
+date: 2021-09-06T19:26:10.809Z
 tags: 
 editor: markdown
 ---
@@ -88,10 +88,10 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "\*gasp*! i hear a friendly smack-smack sound. it must be a friendly smack-smack man!" - marvin 10/7/2021
 * "what the heck, marvin has so many diseases!" - ben 28/7/2021
 * "i had to check if leonardo da vinci would know what "pee" meant" - marvin 4/8/2021 ("he wouldn't cause he died 400 years before people started using the word "pee"" ("also he's italian"))
+	* <div style="color: #aaa">"Da Vinci is short for Dante Vinci" - marvin 6/9/2021</div>
 * "shine bright like a breadmaker" - marvin 12/8/2021
 * "will this guy beat my little pussy up if i attack him?" - marvin 20/8/2021
 * "is this guy gonna smell my feet if i attack him?" - marvin 20/8/2021
-* "Da Vinci is short for Dante Vinci" - marvin 6/9/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
