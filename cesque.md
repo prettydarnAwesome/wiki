@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2021-06-23T23:37:45.630Z
+date: 2021-09-08T20:37:03.725Z
 tags: 
 editor: markdown
 ---
@@ -31,6 +31,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "in alternate reality the default enemy is just horses" - cesque 32/3/2012
 * "huw is using his bimbo energy to play metroid zero mission randomiser" - cesque, uttering the First Sentence 10/4/2021
 * "do you wanna blow up my husband" - cesque 24/6/2021
+* "casual civilities" - cesque 31/8/2021 (instead of 'civilian casualties')
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
