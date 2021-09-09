@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-09-03T21:32:39.661Z
+date: 2021-09-09T20:19:24.855Z
 tags: 
 editor: markdown
 ---
@@ -83,6 +83,7 @@ editor: markdown
 * "when i hear sludge, i am provokked" - hexi 7/8/2021
 * "you're allowed to be horny. you have permission from me" - hexi 14/8/2021
 * "can't argue with the hexi wisdom swamp tank" - ben 3/9/2021
+* "i'm hexi, i gotta poop sweet honey" - hexi 9/9/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
