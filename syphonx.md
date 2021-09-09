@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-08-16T18:58:56.680Z
+date: 2021-09-09T18:44:22.970Z
 tags: 
 editor: markdown
 ---
@@ -45,6 +45,7 @@ editor: markdown
 * "i'll send you photos of my feet AND tutorials \[...] it's called jaksfeetandcode.com" - jak 28/6/2021
 * "there are no corners in my house" - jak 26/7/2021
 * "that is a *big* penis inside a clam" - jak, about gooey duck 16/8/2021
+* "big J, little A, welcome to my café" - jak 9/9/2021
 
 # Games That Jak Should Play
 * hyper light drifter
