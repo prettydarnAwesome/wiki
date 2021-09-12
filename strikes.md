@@ -1,5 +1,16 @@
-<!-- TITLE: Strikes -->
-<!-- SUBTITLE: Fast strike times -->
+---
+title: Strikes
+description: Fast strike times
+published: true
+date: 2021-09-12T00:56:15.701Z
+tags: 
+editor: markdown
+---
+
+# Prophecy
+* **43:07** - Coins, Cesque & Zonalhaz
+
+---
 
 # Arms Dealer
 * **7:42** - Zonalhaz, Cesque & Hexi
