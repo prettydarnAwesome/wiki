@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2021-09-12T01:39:40.657Z
+date: 2021-09-12T01:51:46.368Z
 tags: 
 editor: markdown
 ---
@@ -52,6 +52,7 @@ editor: markdown
 * **9:00** - Zonalhaz, Cesque & Supercoins
 
 # The Corrupted
+* **8:45** - Hexi, Cesque & Supercoins
 * **9:11** - Zonalhaz, Cesque & Supercoins
 
 # Insight Terminus
