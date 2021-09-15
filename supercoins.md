@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-07-30T19:11:25.111Z
+date: 2021-09-15T19:59:21.561Z
 tags: 
 editor: markdown
 ---
@@ -68,3 +68,4 @@ editor: markdown
 - "do you believe in Africa, tom?" - huw 16/7/2021
 - "my preferred name is 'X' and my real name is 'Exodia'" - tom 19/7/2021
 - "if you don't have a forehead, you can't put makeup on it" - tom 30/7/2021
+- "i have coloured carpet but i don't have a shelf to put my ham on" - tom 15/9/2021
