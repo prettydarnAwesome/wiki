@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2020-12-06T22:28:58.931Z
+date: 2021-09-20T09:55:58.893Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,9 @@ editor: markdown
 # Deep Stone Crypt
 
 <img src=https://cesque.com/storage/20/12/06/270918275408.png width=500px>
-
+---
+<img src=https://cesque.com/storage/21/09/20/230108536371.png width=500px>
+---
 <img src=https://cesque.com/storage/20/12/06/114127836053.jpg width=500px>
 
 # Year 3 Raid Team
