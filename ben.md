@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker
 published: true
-date: 2021-08-11T19:35:10.649Z
+date: 2021-09-24T22:19:23.934Z
 tags: 
 editor: markdown
 ---
@@ -56,6 +56,7 @@ editor: markdown
 "hello sir!... oh, it's an oven" - ben 12/7/2021
 "i'm an actual" - ben 21/7/2021
 "snakes are kinda like plants!" - ben 11/8/2021
+"how many cabbage do you think you could hold?" - ben 24/9/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
