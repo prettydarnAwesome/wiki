@@ -2,7 +2,7 @@
 title: To Play
 description: Games which we should get round to playing as a group
 published: true
-date: 2021-04-04T14:48:06.597Z
+date: 2021-09-25T23:20:26.728Z
 tags: 
 editor: markdown
 ---
@@ -10,6 +10,25 @@ editor: markdown
 This is a big list of all multiplayer games we should try to play. This doesn't include singleplayer games which are streamed, which should be put on individual people's pages? I guess?
 
 # The List™
+
+**added 2021-09-26:**
+
+* Surgeon Simulator
+* Myst
+* Nioh 2
+* Aragami 2
+
+**added 2021-04-04:**
+
+- minecraft roguelike adventures & dungeons [modpack](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)
+- element td 2
+- absolver!!!
+- scrap mechanic (**survival mode**)
+- mindustry
+- stormworks
+
+**original list**
+
 * Absolver
 * Astroneer
 * Dungeon Defenders 2 (or the original)
@@ -26,18 +45,6 @@ This is a big list of all multiplayer games we should try to play. This doesn't 
 * The Division 2
 * **The Room** ~~2 &~~ **3**
 * Scrap Mechanic
-
-**added 2021-04-04:**
-
-- minecraft roguelike adventures & dungeons [modpack](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)
-- element td 2
-- absolver!!!
-- scrap mechanic (**survival mode**)
-- mindustry
-- stormworks
-
-
-
 
 # We Have Played Some
 * Destiny 2 raid content
