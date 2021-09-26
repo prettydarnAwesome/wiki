@@ -2,7 +2,7 @@
 title: Games To Play
 description: Some games that SuperCoins should play and potentially stream
 published: true
-date: 2021-03-30T19:28:56.912Z
+date: 2021-09-26T12:32:50.046Z
 tags: 
 editor: markdown
 ---
@@ -49,19 +49,18 @@ editor: markdown
 * [The Messenger](https://store.steampowered.com/app/764790/The_Messenger/)
 * [Environmental Station Alpha](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/)
 * [The Medium](https://store.steampowered.com/app/1293160/The_Medium/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/the-medium/9NFSR96G6K4N?activetab=pivot:overviewtab)
-* [Vambrace: Cold Soul](https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/vambrace-cold-soul/9N171CGFVT1L?activetab=pivot:overviewtab)
-* [Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/touhou-luna-nights/9NBLGJQQBHH4?activetab=pivot:overviewtab)
+* [Vambrace: Cold Soul](https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/)
+* [Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/touhou-luna-nights/9NBLGJQQBHH4?activetab=pivot:overviewtab) (and Dan owns it)
 * [ScourgeBringer](https://store.steampowered.com/app/1037020/ScourgeBringer/) (More content added)
 * [Star Renegades](https://store.steampowered.com/app/651670/Star_Renegades/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/star-renegades/9PK5S1QKV10D?activetab=pivot:overviewtab)
 * [Pikuniku](https://store.steampowered.com/app/572890/Pikuniku/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/pikuniku-win10/9N8QNKN5ZKTH?activetab=pivot:overviewtab)
-* [Plebby Quest: The Crusades](https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/plebby-quest-the-crusades/9MWBPSQ5PKQR?activetab=pivot:overviewtab)
-* [MISTOVER](https://store.steampowered.com/app/909510/MISTOVER/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/mistover/9P8K66J3CQ9S?activetab=pivot:overviewtab#)
-* [Monster Sanctuary](https://store.steampowered.com/app/814370/Monster_Sanctuary/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/monster-sanctuary/9PBWWQGXVMKC?activetab=pivot:overviewtab#)
+* [Plebby Quest: The Crusades](https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/)
+* [MISTOVER](https://store.steampowered.com/app/909510/MISTOVER/)
 * [Ikenfell](https://store.steampowered.com/app/854940/Ikenfell/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/ikenfell/9N2X1J99S4M9?activetab=pivot:overviewtab#)
 * [GONNER2](https://store.steampowered.com/app/1117670/GONNER2/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/gonner2-win10/9P44W70MC99Z?activetab=pivot:overviewtab)
-* [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/crosscode/9NFDPQ0KZ6RN?activetab=pivot:overviewtab)
-* [Carto](https://store.steampowered.com/app/1172450/Carto/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carto/9PFS8Q01C2C4?activetab=pivot:overviewtab)
-* [Carrion](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab)
+* [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/crosscode/9NFDPQ0KZ6RN?activetab=pivot:overviewtab) (and Dan owns it)
+* [Carto](https://store.steampowered.com/app/1172450/Carto/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carto/9PFS8Q01C2C4?activetab=pivot:overviewtab) (and Dan owns it)
+* [Carrion](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab) (and Dan owns it)
 * [Hollow Knight Randomiser](https://www.nexusmods.com/hollowknight/mods/9) (enemy randomiser + item randomiser)
 * [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
 
@@ -87,7 +86,7 @@ editor: markdown
 * [~~Ori and the Blind Forest~~](https://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/)
 * [~~Ori and the Will of the Wisps~~](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/)
 * [~~Nioh~~](https://store.steampowered.com/app/485510/Nioh_Complete_Edition___Complete_Edition/)
-* [~~Forager~~](https://store.steampowered.com/app/751780/Forager/)
+* [~~Forager~~](https://store.steampowered.com/app/751780/Forager/) (100%)
 * [~~Shovel Knight~~](https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/)
 * [~~The Witness~~](https://store.steampowered.com/app/210970/The_Witness/)
 * [~~Wizard of Legend~~](https://store.steampowered.com/app/445980/Wizard_of_Legend/) (18/19 achievements)
@@ -117,3 +116,4 @@ editor: markdown
 * [~~Momodora: Reverie Under The Moonlight~~](https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/)
 * [~~The Last of Us Part II~~](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/)
 * [~~STAR WARS Jedi: Fallen Order~~](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
+* [~~Monster Sanctuary~~](https://store.steampowered.com/app/814370/Monster_Sanctuary/)
