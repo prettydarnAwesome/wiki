@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-09-18T15:31:33.775Z
+date: 2021-09-28T21:39:07.777Z
 tags: 
 editor: markdown
 ---
@@ -116,6 +116,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "babies shouldn't have arms, they can't even do anything with them" - huw 20/8/2021
 "you can tell when i am activating my neurons, because i go through so much water!" - huw 20/8/2021 (👍 upvote from marvin)
 "if you press 8 and hold it long enough, you **do** get connected to the Emergency Witch" - huw 18/9/2021
+"what if i use the wikipedia hitler game to get to tiger bread on asda" - huw 28/9/2021
 
 
 
