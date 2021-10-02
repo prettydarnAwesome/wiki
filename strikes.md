@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2021-10-01T19:02:07.463Z
+date: 2021-10-02T00:10:19.466Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,7 @@ editor: markdown
 	* shoutout to tom for pushing the warden off the map :)
 
 # Lake of Shadows
+* **3:35** - Zonalhaz, Cesque & Supercoins
 * **3:50** - Cesque, Supercoins & Hexi
 * **5:36** - Zonalhaz, Beasley & Cesque
 * **5:48** - Beasley, Cesque & Random
