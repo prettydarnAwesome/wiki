@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-10-19T13:08:33.864Z
+date: 2021-10-19T13:08:50.377Z
 tags: pda championship series
 editor: markdown
 ---
@@ -13,3 +13,4 @@ editor: markdown
 
 - PICO PARK
 - \[INSERT GAME HERE] fashion show (Destiny?) (+Theme?)
+- Hebereke no Popoon
