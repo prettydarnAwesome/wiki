@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker
 published: true
-date: 2021-10-19T20:39:42.410Z
+date: 2021-10-19T20:40:01.905Z
 tags: 
 editor: markdown
 ---
@@ -58,6 +58,7 @@ editor: markdown
 "snakes are kinda like plants!" - ben 11/8/2021
 "how many cabbage do you think you could hold?" - ben 24/9/2021
 "give me chocolate dirt to munch on. put it in a bag and turn me into a horse" - ben 19/10/2021
+"sometimes stuff is too crunchy and it makes my brain fuzz" - ben 19/10/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
