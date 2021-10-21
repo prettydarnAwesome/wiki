@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2021-10-21T21:03:24.863Z
+date: 2021-10-21T21:10:39.304Z
 tags: 
 editor: markdown
 ---
@@ -62,6 +62,7 @@ editor: markdown
 * **9:11** - Zonalhaz, Cesque & Supercoins
 
 # Insight Terminus
+* **6:26** - Zonalhaz, Cesque & Random
 * **7:12** - Zonalhaz, Cesque & Hexi
 
 # Savathun's Song
