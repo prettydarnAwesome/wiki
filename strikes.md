@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2021-10-21T21:02:32.736Z
+date: 2021-10-21T21:03:04.634Z
 tags: 
 editor: markdown
 ---
@@ -73,3 +73,6 @@ editor: markdown
 
 # The Pyramidion
 * **7:30** - Cesque, Hexi & Random
+
+# The Scarlet Keep
+* **9:58** - Cesque, Zonalhaz & Random
