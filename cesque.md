@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2021-10-24T20:14:29.949Z
+date: 2021-10-24T20:14:47.333Z
 tags: 
 editor: markdown
 ---
@@ -32,7 +32,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "huw is using his bimbo energy to play metroid zero mission randomiser" - cesque, uttering the First Sentence 10/4/2021
 * "do you wanna blow up my husband" - cesque 24/6/2021
 * "casual civilities" - cesque 31/8/2021 (instead of 'civilian casualties')
-* "nerves are basically thoought tendrils" - cesque 24/10/2021
+* "nerves are basically thought tendrils" - cesque 24/10/2021
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
