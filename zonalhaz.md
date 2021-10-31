@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-10-31T22:19:24.503Z
+date: 2021-10-31T22:20:47.658Z
 tags: 
 editor: markdown
 ---
@@ -118,6 +118,8 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "if you press 8 and hold it long enough, you **do** get connected to the Emergency Witch" - huw 18/9/2021
 "what if i use the wikipedia hitler game to get to tiger bread on asda" - huw 28/9/2021
 "how many shapes are there? is it 4?" - huw 7/10/2021
+"i need to drink a pint of water every minute otherwise i get thirsty. \[how do you sleep?] i don't" - huw 8/10/2021
+"don't you just put it together and let it yoghurt" - huw 8/10/2021 (on how you make yoghurt)
 
 
 
