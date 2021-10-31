@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-10-29T22:58:59.300Z
+date: 2021-10-31T22:25:30.450Z
 tags: 
 editor: markdown
 ---
@@ -69,4 +69,5 @@ editor: markdown
 - "my preferred name is 'X' and my real name is 'Exodia'" - tom 19/7/2021
 - "if you don't have a forehead, you can't put makeup on it" - tom 30/7/2021
 - "i have coloured carpet but i don't have a shelf to put my ham on" - tom 15/9/2021
+- "kid's don't eat apricots, kids only eat the base fruits" - tom 8/10/2021
 - "physical objects are *meant* to explode" - tom 29/10/2021
