@@ -1,8 +1,8 @@
 ---
 title: Zonalhaz
-description: "I said something stupid pretty recently"
+description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2021-10-31T22:20:47.658Z
+date: 2021-10-31T22:21:08.162Z
 tags: 
 editor: markdown
 ---
