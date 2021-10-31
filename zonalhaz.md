@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently"
 published: true
-date: 2021-09-28T21:39:07.777Z
+date: 2021-10-31T22:19:24.503Z
 tags: 
 editor: markdown
 ---
@@ -117,6 +117,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "you can tell when i am activating my neurons, because i go through so much water!" - huw 20/8/2021 (👍 upvote from marvin)
 "if you press 8 and hold it long enough, you **do** get connected to the Emergency Witch" - huw 18/9/2021
 "what if i use the wikipedia hitler game to get to tiger bread on asda" - huw 28/9/2021
+"how many shapes are there? is it 4?" - huw 7/10/2021
 
 
 
