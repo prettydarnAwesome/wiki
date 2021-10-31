@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2021-09-12T11:06:02.044Z
+date: 2021-10-31T22:26:56.517Z
 tags: 
 editor: markdown
 ---
@@ -85,6 +85,7 @@ editor: markdown
 * "can't argue with the hexi wisdom swamp tank" - ben 3/9/2021
 * "i'm hexi, i gotta poop sweet honey" - hexi 9/9/2021
 * "i just speedrun speeding" - hexi 12/9/2021
+* "i think horses are something you want to avoid and not necessarily fight" - hexi 9/10/2021
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
