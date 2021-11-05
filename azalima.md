@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-08-24T21:56:14.131Z
+date: 2021-11-05T23:56:29.364Z
 tags: 
 editor: markdown
 ---
@@ -43,3 +43,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i'm not ontologically convinced by the existence of holes" - ardam 20/8/2021
 "i just heard '*chromosome*' and i just started speaking before thinking" - ardam 21/8/2021
 "i wouldn't object if Gatwick declared itself a nation state" - ardam 24/8/2021
+"what's Mongalia up to in the modern day?" - ardam 5/11/2021
