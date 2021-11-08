@@ -2,10 +2,14 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-11-05T23:56:29.364Z
+date: 2021-11-08T15:23:00.425Z
 tags: 
 editor: markdown
 ---
+
+# Flag of Azalima
+
+<img src=https://cesque.com/storage/21/11/08/164198442597.png width=600px style=margin-top:20px>
 
 # Quotes
 
