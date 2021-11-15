@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-11-15T20:54:31.410Z
+date: 2021-11-15T20:58:25.962Z
 tags: pda championship series
 editor: markdown
 ---
@@ -21,3 +21,4 @@ editor: markdown
 - Sporcle Playlist
 - Downwell
 - Dungeons & Dragons (small competitive one-shot, I have a cute book with this in)
+- Treasure hunt - could do it in a video game like Destiny or FFXIV, or on the wiki
