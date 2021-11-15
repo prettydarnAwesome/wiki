@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-11-15T20:33:18.173Z
+date: 2021-11-15T20:40:21.457Z
 tags: pda championship series
 editor: markdown
 ---
@@ -19,3 +19,5 @@ editor: markdown
 - Uno, Snap
 - Tabletop Sim
 - Sporcle Playlist
+- Downwell
+- Dungeons & Dragons (small competitive one-shot, I have a cute book with this in)
