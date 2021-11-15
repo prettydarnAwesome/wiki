@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-10-31T22:25:30.450Z
+date: 2021-11-15T22:58:21.098Z
 tags: 
 editor: markdown
 ---
@@ -43,7 +43,7 @@ editor: markdown
 - "i don't get stressed by scary, but i *do* get stressed by Jenga" - supercoins 13/8/2020
 - "falling is gender nonspecific" - supercoins 15/8/2020
 - "i've figured it out - you know how there are all these books about 'why do we sleep every day'? it's because our bones poison us" - supercoins 15/8/2020
-- "the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020
+- "the first thing i do every day when i get into work is say "**where are the spiders**" - SuperCoins - 27/8/2020 (on Spider Day, which comes once a decade and the spiders move into both your home and your place of work - 15/11/2021)
 - "do people count as decorations?" - supercoins 24/9/2020
 - "i have a brain that's level 84" - supercoins 24/10/2020
 - "a bouncy castle is just a synonym for a knee :)" - supercoins 8/11/2020
