@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-11-15T20:40:21.457Z
+date: 2021-11-15T20:54:31.410Z
 tags: pda championship series
 editor: markdown
 ---
