@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-11-14T20:15:13.750Z
+date: 2021-11-15T20:32:23.557Z
 tags: pda championship series
 editor: markdown
 ---
@@ -16,3 +16,5 @@ editor: markdown
 - Hebereke no Popoon
 - https://twitter.com/TerroristSweet/status/1450591196955348996/photo/1
 - Worms (or maybe Scorched Earth)
+- Uno, Snap
+- Tabletop Sim
