@@ -2,7 +2,7 @@
 title: pdA Championship Series
 description: 
 published: true
-date: 2021-11-15T20:32:23.557Z
+date: 2021-11-15T20:33:18.173Z
 tags: pda championship series
 editor: markdown
 ---
@@ -18,3 +18,4 @@ editor: markdown
 - Worms (or maybe Scorched Earth)
 - Uno, Snap
 - Tabletop Sim
+- Sporcle Playlist
