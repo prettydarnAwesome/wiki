@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-10-31T22:16:56.521Z
+date: 2021-11-15T16:33:49.127Z
 tags: 
 editor: markdown
 ---
@@ -93,6 +93,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "will this guy beat my little pussy up if i attack him?" - marvin 20/8/2021
 * "is this guy gonna smell my feet if i attack him?" - marvin 20/8/2021
 * "dude, jesus is *so* shiny" - marvin 31/10/2021
+* "if yugoslavia was still around we wouldn't be having this problem" - marvin 15/11/2021
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
