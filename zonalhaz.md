@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2021-10-31T22:21:08.162Z
+date: 2021-11-24T18:44:33.346Z
 tags: 
 editor: markdown
 ---
@@ -120,6 +120,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "how many shapes are there? is it 4?" - huw 7/10/2021
 "i need to drink a pint of water every minute otherwise i get thirsty. \[how do you sleep?] i don't" - huw 8/10/2021
 "don't you just put it together and let it yoghurt" - huw 8/10/2021 (on how you make yoghurt)
+"i'm scared of things i can't see... like....... atoms........." - huw 24/11/2021
 
 
 
