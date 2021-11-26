@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2021-11-15T16:33:49.127Z
+date: 2021-11-26T21:07:55.993Z
 tags: 
 editor: markdown
 ---
@@ -94,6 +94,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "is this guy gonna smell my feet if i attack him?" - marvin 20/8/2021
 * "dude, jesus is *so* shiny" - marvin 31/10/2021
 * "if yugoslavia was still around we wouldn't be having this problem" - marvin 15/11/2021
+* "there's only 2 things you can be in life: a healer or a cringer" - marvin 26/11/2021 ("time to get trenchfoot")
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
