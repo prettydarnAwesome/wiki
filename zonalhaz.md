@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2021-11-24T18:44:33.346Z
+date: 2021-12-01T20:25:57.345Z
 tags: 
 editor: markdown
 ---
@@ -121,6 +121,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i need to drink a pint of water every minute otherwise i get thirsty. \[how do you sleep?] i don't" - huw 8/10/2021
 "don't you just put it together and let it yoghurt" - huw 8/10/2021 (on how you make yoghurt)
 "i'm scared of things i can't see... like....... atoms........." - huw 24/11/2021
+"hey kids, let's all play Smite The War Criminal! yaaaay!" - huw 1/12/2021
 
 
 
