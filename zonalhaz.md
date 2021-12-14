@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2021-12-01T20:25:57.345Z
+date: 2021-12-14T23:51:26.971Z
 tags: 
 editor: markdown
 ---
@@ -15,6 +15,7 @@ oh no here comes huw's face
 * **length**: medium
 * **thickness**: chunky
 * **color**: yellow
+* **Class**: Outer God of Doom
 
 Huw is categorically **NOT** an expert on Bovril:tm:.
 
@@ -122,6 +123,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "don't you just put it together and let it yoghurt" - huw 8/10/2021 (on how you make yoghurt)
 "i'm scared of things i can't see... like....... atoms........." - huw 24/11/2021
 "hey kids, let's all play Smite The War Criminal! yaaaay!" - huw 1/12/2021
+"Outer god of Doom" - Tarot 14/12/2021
 
 
 
