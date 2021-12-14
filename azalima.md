@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2021-11-12T23:10:23.417Z
+date: 2021-12-14T23:49:38.075Z
 tags: 
 editor: markdown
 ---
@@ -49,3 +49,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i wouldn't object if Gatwick declared itself a nation state" - ardam 24/8/2021
 "what's Mongalia up to in the modern day?" - ardam 5/11/2021
 "He does deserve to eat cake, I think?" - Tom 12/11/2021
+"Outer god of doom"-tarot 14/12/2021
