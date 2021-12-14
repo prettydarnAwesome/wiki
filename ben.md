@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker
 published: true
-date: 2021-10-19T20:40:01.905Z
+date: 2021-12-14T23:50:35.708Z
 tags: 
 editor: markdown
 ---
@@ -59,6 +59,7 @@ editor: markdown
 "how many cabbage do you think you could hold?" - ben 24/9/2021
 "give me chocolate dirt to munch on. put it in a bag and turn me into a horse" - ben 19/10/2021
 "sometimes stuff is too crunchy and it makes my brain fuzz" - ben 19/10/2021
+"outer god of doom" - tarot 14/12/2021
 
 # Ben's **Boneless** Bake
 ### Ingredients
