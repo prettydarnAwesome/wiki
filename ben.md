@@ -1,8 +1,8 @@
 ---
 title: Ben
-description: (boneless), Sludge Magic Wizard, Popefucker
+description: (boneless), Sludge Magic Wizard, Popefucker, Stinky-stack Soog
 published: true
-date: 2021-12-14T23:50:35.708Z
+date: 2022-01-08T20:39:02.945Z
 tags: 
 editor: markdown
 ---
