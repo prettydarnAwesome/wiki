@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker, Stinky-stack Soog
 published: true
-date: 2022-01-08T20:39:02.945Z
+date: 2022-01-08T20:40:10.357Z
 tags: 
 editor: markdown
 ---
@@ -60,6 +60,7 @@ editor: markdown
 "give me chocolate dirt to munch on. put it in a bag and turn me into a horse" - ben 19/10/2021
 "sometimes stuff is too crunchy and it makes my brain fuzz" - ben 19/10/2021
 "outer god of doom" - tarot 14/12/2021
+"Stinky-stack Soogintown was sacked by soogs" - Stinky-sack Stoog 8/1/2022
 
 # Ben's **Boneless** Bake
 ### Ingredients
