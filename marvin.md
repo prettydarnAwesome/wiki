@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-01-12T01:21:01.307Z
+date: 2022-01-12T21:38:39.841Z
 tags: 
 editor: markdown
 ---
@@ -96,7 +96,8 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "if yugoslavia was still around we wouldn't be having this problem" - marvin 15/11/2021
 * "there's only 2 things you can be in life: a healer or a cringer" - marvin 26/11/2021 ("time to get trenchfoot")
 * "if you really need to pee then when you start the pee velocity is gonna blast you off into space, but then the pee parabola is gonna start moving towards you" - marvin 5/12/2021
-" "every baby should just be tazed on day 2" - marvin 21/12/2021
+* "every baby should just be tazed on day 2" - marvin 21/12/2021
+* "how is making music even hard? you just stringy strangy with your mouth and its good" - marvin 12/1/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
