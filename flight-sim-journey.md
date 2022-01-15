@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2021-08-30T19:17:58.469Z
+date: 2022-01-15T17:52:02.320Z
 tags: 
 editor: markdown
 ---
@@ -227,3 +227,6 @@ you know what? this was probably one of the most stable flights between the two 
 arrived in Slavonski Brod! the airport (okay, air*strip*) is right behind City Colosseum so we are gonna go see a movie and get some mlinar pog. visual landing so we were kiiiinda in hell but we managed it. 
 
 also this is basically our 1 year anniversary flight(s) since our first flight was on 2020-08-31. congrats! 🛫🎉✨ - `cesque`
+
+# 2021-08-30 Jelas `LDOR` → Nikola Tesla Belgrade `LHSM`(46m)
+hooray, we flew again after 100000 years! out of slavonski brod (i saw the fort) and along the Sava to Belgrade. my first flight on my new ultrawide monitor too - `cesque`
