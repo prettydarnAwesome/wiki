@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2022-01-15T17:52:16.724Z
+date: 2022-01-23T23:08:55.688Z
 tags: 
 editor: markdown
 ---
@@ -228,5 +228,15 @@ arrived in Slavonski Brod! the airport (okay, air*strip*) is right behind City C
 
 also this is basically our 1 year anniversary flight(s) since our first flight was on 2020-08-31. congrats! 🛫🎉✨ - `cesque`
 
-# 2021-01-15 Jelas `LDOR` → Nikola Tesla Belgrade `LHSM`(46m)
+# 2022-01-15 Jelas `LDOR` → Nikola Tesla Belgrade `LHSM`(46m)
 hooray, we flew again after 100000 years! out of slavonski brod (i saw the fort) and along the Sava to Belgrade. my first flight on my new ultrawide monitor too - `cesque`
+
+# 2022-01-23 Nikola Tesla Belgrade `LHSM` → Sarajevo `LQSA` (1h17m)
+using my newly-found VOR navigation knowledge, we did this flight in the 152 without checking our position on maps or anything, just following VORs and also NDB at the end. easy peasy (even if they did put Sarajevo airport in the middle of a bunch of hills)
+
+<a href="https://cesque.com/storage/22/01/23/942056939104.png" class="image-link">
+  <div class="content">
+    LHSM ➡️ VAL ➡️ KEB ➡️ IL LQSA
+  </div>
+	<img src="https://cesque.com/storage/22/01/23/942056939104.png">
+</a>
