@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2022-01-23T23:12:58.341Z
+date: 2022-01-23T23:14:27.152Z
 tags: 
 editor: markdown
 ---
@@ -238,13 +238,13 @@ using my newly-found VOR navigation knowledge, we did this flight in the 152 wit
 
 <a href="https://cesque.com/storage/22/01/23/942056939104.png" class="image-link">
   <div class="content">
-    LHSM ➡️ VAL ➡️ KEB ➡️ IL LQSA (cesque)
+    LHSM ➡️ VAL ➡️ KEB ➡️ IL LQSA <small>cesque</small>
   </div>
 	<img src="https://cesque.com/storage/22/01/23/942056939104.png">
 </a>
   <a href="https://cesque.com/storage/22/01/23/333972238344.jpg" class="image-link">
   <div class="content">
-    LHSM ➡️ VAL ➡️ KEB ➡️ IL LQSA (zonalhaz)
+    LHSM ➡️ VAL ➡️ KEB ➡️ IL LQSA (with wiggles) <small>zonalhaz</small>
   </div>
 	<img src="https://cesque.com/storage/22/01/23/333972238344.jpg">
 </a>
