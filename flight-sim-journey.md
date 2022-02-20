@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2022-01-23T23:14:27.152Z
+date: 2022-02-20T15:39:46.630Z
 tags: 
 editor: markdown
 ---
@@ -249,3 +249,6 @@ using my newly-found VOR navigation knowledge, we did this flight in the 152 wit
 	<img src="https://cesque.com/storage/22/01/23/333972238344.jpg">
 </a>
 </div>
+
+# 2022-01-23 Sarajevo `LQSA` → Dubrovnik `LLDU`
+huw's autopilot was messed up for most of the flight lmao. and i got yelled at for not having landing clearance even tho i definitely did!?!? - `cesque`
