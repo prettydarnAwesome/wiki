@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2021-10-31T22:26:10.415Z
+date: 2022-03-07T20:19:42.555Z
 tags: 
 editor: markdown
 ---
@@ -47,6 +47,8 @@ editor: markdown
 * "that is a *big* penis inside a clam" - jak, about gooey duck 16/8/2021
 * "big J, little A, welcome to my café" - jak 9/9/2021
 * "thinking about alternate horse realities has made my hands sweaty" - jak 9/10/2021
+* "Against powerline adaptors morally" - jak 07/03/2022
+
 
 # Games That Jak Should Play
 * hyper light drifter
