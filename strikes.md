@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-03-12T14:29:17.890Z
+date: 2022-03-12T14:46:43.883Z
 tags: 
 editor: markdown
 ---
@@ -14,6 +14,7 @@ editor: markdown
 ---
 
 # Arms Dealer
+* **5:46** - Zonalhaz, Cesque & Random
 * **6:35** - Zonalhaz, Cesque & Random
 * **7:42** - Zonalhaz, Cesque & Hexi
 * **7:51** - Coins, Cesque & Hexi
