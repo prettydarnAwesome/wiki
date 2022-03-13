@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2021-07-28T20:41:29.383Z
+date: 2022-03-13T19:05:47.752Z
 tags: 
 editor: markdown
 ---
@@ -23,3 +23,4 @@ editor: markdown
 "you need a more precise phallus" - brie 11/7/2021
 "if something's translucent, is it a donut?" - brie 11/7/2021
 "right, time to get chonking" - brie 28/7/2021
+"cats don't understand Nandos!" - brie 13/3/2022
