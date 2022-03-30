@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-03-30T20:46:33.013Z
+date: 2022-03-30T20:47:02.147Z
 tags: 
 editor: markdown
 ---
@@ -83,4 +83,4 @@ editor: markdown
 * **9:58** - Cesque, Zonalhaz & Random
 
 # Proving Grounds
-* **6:06** - Cesque, Zonalhaz & Random (469 power level)
+* **6:06** - Cesque, Zonalhaz & Random (469 season level)
