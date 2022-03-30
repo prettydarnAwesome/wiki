@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-03-30T21:18:16.283Z
+date: 2022-03-30T21:28:21.344Z
 tags: 
 editor: markdown
 ---
@@ -85,3 +85,6 @@ editor: markdown
 
 # Proving Grounds
 * **6:06** - Cesque, Zonalhaz & Random (469 season level)
+
+# Glassway
+* **7:57** - Cesque, Zonalhaz & Random
