@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-03-30T20:47:02.147Z
+date: 2022-03-30T21:18:16.283Z
 tags: 
 editor: markdown
 ---
@@ -80,6 +80,7 @@ editor: markdown
 * **7:30** - Cesque, Hexi & Random
 
 # The Scarlet Keep
+* **8:43** - Cesque, Zonalhaz & Random
 * **9:58** - Cesque, Zonalhaz & Random
 
 # Proving Grounds
