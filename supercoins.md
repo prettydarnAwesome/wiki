@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2021-11-15T22:58:21.098Z
+date: 2022-04-01T19:30:50.730Z
 tags: 
 editor: markdown
 ---
@@ -71,3 +71,4 @@ editor: markdown
 - "i have coloured carpet but i don't have a shelf to put my ham on" - tom 15/9/2021
 - "kid's don't eat apricots, kids only eat the base fruits" - tom 8/10/2021
 - "physical objects are *meant* to explode" - tom 29/10/2021
+- "i believe that i DO have objective dog-sensing powers" - tom 1/4/2021
