@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-04-07T19:58:14.237Z
+date: 2022-04-07T20:33:46.918Z
 tags: 
 editor: markdown
 ---
@@ -91,4 +91,5 @@ editor: markdown
 * **6:06** - Cesque, Zonalhaz & Random (469 season level)
 
 # Glassway
+* **7:34** - Cesque, Zonalhaz & Brie
 * **7:57** - Cesque, Zonalhaz & Random
