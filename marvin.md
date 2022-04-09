@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-01-12T21:38:39.841Z
+date: 2022-04-09T18:02:35.246Z
 tags: 
 editor: markdown
 ---
@@ -98,6 +98,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "if you really need to pee then when you start the pee velocity is gonna blast you off into space, but then the pee parabola is gonna start moving towards you" - marvin 5/12/2021
 * "every baby should just be tazed on day 2" - marvin 21/12/2021
 * "how is making music even hard? you just stringy strangy with your mouth and its good" - marvin 12/1/2022
+* "what's the difference between cooking and pissing?" - marvin 9/4/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
