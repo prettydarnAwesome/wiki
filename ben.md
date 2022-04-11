@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker, Stinky-stack Soog
 published: true
-date: 2022-04-02T19:35:47.493Z
+date: 2022-04-11T20:51:25.881Z
 tags: 
 editor: markdown
 ---
@@ -62,6 +62,7 @@ editor: markdown
 "outer god of doom" - tarot 14/12/2021
 "Stinky-stack Soogintown was sacked by soogs" - Stinky-sack Stoog 8/1/2022
 "i have a small brain, but it works sometimes" - ben 2/4/2022
+"is courier individual, or is it shigged?" - ben 11/4/2022
 
 # Ben's **Boneless** Bake
 ### Ingredients
