@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-04-13T20:59:35.739Z
+date: 2022-04-13T20:59:47.165Z
 tags: 
 editor: markdown
 ---
@@ -99,7 +99,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "every baby should just be tazed on day 2" - marvin 21/12/2021
 * "how is making music even hard? you just stringy strangy with your mouth and its good" - marvin 12/1/2022
 * "what's the difference between cooking and pissing?" - marvin 9/4/2022
-* "this man's obsessed with mouth temperature" - huw 13/4/2022
+* "this man's obsessed with mouth temperature" - huw, about marvin 13/4/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
