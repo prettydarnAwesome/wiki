@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-04-07T21:40:59.360Z
+date: 2022-04-17T18:55:17.340Z
 tags: 
 editor: markdown
 ---
@@ -51,6 +51,7 @@ editor: markdown
 * **7:21** - Zonalhaz, Cesque & Random
 
 # Inverted Spire
+* **5:51** - Zonalhaz, Cesque & Random
 * **6:10** - Zonalhaz, Cesque & Random
 * **7:28** - Zonalhaz, Cesque & Supercoins
 * **7:39** - Zonalhaz, Cesque & Supercoins
