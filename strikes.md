@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-04-17T19:07:23.860Z
+date: 2022-04-19T22:14:19.785Z
 tags: 
 editor: markdown
 ---
@@ -78,6 +78,7 @@ editor: markdown
 * **10:20** - Zonalhaz, Cesque & Supercoins
 
 # Exodus Crash
+* **6:24** - Zonalhaz, Cesque & Brie
 * **7:52** - Zonalhaz, Cesque & Hexi
 
 # The Pyramidion
