@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2022-04-20T19:55:14.829Z
+date: 2022-04-20T19:55:24.574Z
 tags: 
 editor: markdown
 ---
@@ -39,7 +39,7 @@ editor: markdown
 
 # Lake of Shadows
 * **3:25** - Zonalhaz, Cesque & Hexi
-* **3:25** - Zonalhaz, Cesque & Random
+* **3:25** - Zonalhaz, Cesque & Random (older)
 * **3:35** - Zonalhaz, Cesque & Supercoins
 * **3:39** - Zonalhaz, Cesque & Random
 * **3:50** - Cesque, Supercoins & Hexi
