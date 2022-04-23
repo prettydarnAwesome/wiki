@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2022-04-08T21:20:57.923Z
+date: 2022-04-23T18:17:20.784Z
 tags: 
 editor: markdown
 ---
@@ -25,3 +25,4 @@ editor: markdown
 "right, time to get chonking" - brie 28/7/2021
 "cats don't understand Nandos!" - brie 13/3/2022
 "people care more about genes than Iraq" - brie 8/4/2022
+"eyeballs are the blackberry of the eye" - brie 23/4/2022
