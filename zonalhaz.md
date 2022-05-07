@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2022-02-09T19:33:51.630Z
+date: 2022-05-07T23:19:58.519Z
 tags: 
 editor: markdown
 ---
@@ -126,6 +126,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "Outer god of Doom" - Tarot 14/12/2021
 "i'm just imagining counting out 30 seconds while sucking someone's toe" - huw 11/1/2022
 "what's sludge about?" - huw 9/2/2022
+"i wish *i* was surrounded by endless lard... i think..." - huw 8/5/2022
 
 
 
