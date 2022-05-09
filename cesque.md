@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2022-05-06T23:43:44.925Z
+date: 2022-05-09T22:28:23.898Z
 tags: 
 editor: markdown
 ---
@@ -36,6 +36,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "nerves are basically thought tendrils" - cesque 24/10/2021
 * "every monkey noise must end" - cesque 31/12/2021
 * "you're just a floor kinda guy" - coins to cesque 7/5/2022
+* "a worm is no different to a cat!" - cesque 9/5/2022
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
