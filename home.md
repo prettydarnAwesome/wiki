@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2021-04-29T19:43:14.591Z
+date: 2022-05-09T20:26:50.691Z
 tags: 
 editor: markdown
 ---
@@ -38,6 +38,13 @@ Click one of the above buddies to go find out information about them!
 * [Book Gathering](book-gathering)
 * [Game ideas](game-ideas)
 
+# PDA Questions
+
+* What percentage of people in the UK have cut a lime?
+* If you had to eat dirt would you?
+* If you could trade a human abaility for a chitinous shell which ability?
+* If you had to lose a sense, How long could you lose it for? Which sense would you want to be twice as good?
+* 
 # Discord rules
 ## 1
 ![](https://cesque.com/storage/19/04/23/443317308873.png)
