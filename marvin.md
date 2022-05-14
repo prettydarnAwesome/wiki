@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-05-13T20:10:12.256Z
+date: 2022-05-14T12:12:58.137Z
 tags: 
 editor: markdown
 ---
@@ -101,6 +101,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "what's the difference between cooking and pissing?" - marvin 9/4/2022
 * "this man's obsessed with mouth temperature" - huw, about marvin 13/4/2022
 * "friends transcend time and space" - marvin 13/5/2022
+* "wait, how do i count?...... 1, 2, 3...... 1, 2.. 3...." - marvin 14/5/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
