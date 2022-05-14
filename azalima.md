@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2022-04-09T21:30:23.922Z
+date: 2022-05-14T12:15:48.083Z
 tags: 
 editor: markdown
 ---
@@ -52,3 +52,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i wonder what the natural frequency of a chicken wing bone is... do you think you could liquefy them?" - ardam 13/12/2021
 "Outer god of doom"-tarot 14/12/2021
 "do you reckon i would get sued by the Co-op if i opened a pet shop called The Coop?" - ardam 9/4/2022
+"you love castrating babies, ardam!" - huw 14/5/2022
