@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2022-04-01T19:30:50.730Z
+date: 2022-07-09T18:46:05.345Z
 tags: 
 editor: markdown
 ---
@@ -72,3 +72,4 @@ editor: markdown
 - "kid's don't eat apricots, kids only eat the base fruits" - tom 8/10/2021
 - "physical objects are *meant* to explode" - tom 29/10/2021
 - "i believe that i DO have objective dog-sensing powers" - tom 1/4/2021
+- "if you teleport, you lose all world records" - tom 9/7/2022
