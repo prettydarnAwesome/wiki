@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2022-05-14T12:15:48.083Z
+date: 2022-07-16T16:13:48.207Z
 tags: 
 editor: markdown
 ---
@@ -53,3 +53,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "Outer god of doom"-tarot 14/12/2021
 "do you reckon i would get sued by the Co-op if i opened a pet shop called The Coop?" - ardam 9/4/2022
 "you love castrating babies, ardam!" - huw 14/5/2022
+"i was just too busy thinking about grublets..." - ardam 16/7/2022
