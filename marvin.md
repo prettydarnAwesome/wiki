@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-05-14T12:12:58.137Z
+date: 2022-07-21T19:50:07.304Z
 tags: 
 editor: markdown
 ---
@@ -102,6 +102,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "this man's obsessed with mouth temperature" - huw, about marvin 13/4/2022
 * "friends transcend time and space" - marvin 13/5/2022
 * "wait, how do i count?...... 1, 2, 3...... 1, 2.. 3...." - marvin 14/5/2022
+* "airport thoughts get wiped from my brain" - marvin 21/7/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
