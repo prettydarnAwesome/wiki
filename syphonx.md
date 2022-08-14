@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2022-03-07T20:27:06.931Z
+date: 2022-08-14T11:06:15.606Z
 tags: 
 editor: markdown
 ---
@@ -48,6 +48,7 @@ editor: markdown
 * "big J, little A, welcome to my café" - jak 9/9/2021
 * "thinking about alternate horse realities has made my hands sweaty" - jak 9/10/2021
 * "Against powerline adaptors morally" - jak 07/03/2022
+* "What's slug got to do?" - jak 14/08/2022
 
 
 # Games That Jak Should Play
