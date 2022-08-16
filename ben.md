@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker, Stinky-stack Soog
 published: true
-date: 2022-04-16T17:21:29.634Z
+date: 2022-08-16T22:13:19.579Z
 tags: 
 editor: markdown
 ---
@@ -64,6 +64,7 @@ editor: markdown
 "i have a small brain, but it works sometimes" - ben 2/4/2022
 "is courier individual, or is it shigged?" - ben 11/4/2022
 "ice creams are the number one cause for doctors" - ben  16/4/2022
+"rain is dry which means it's boggers" - 16/8/2022
 
 # Ben's **Boneless** Bake
 ### Ingredients
