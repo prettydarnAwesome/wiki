@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2022-08-14T11:06:15.606Z
+date: 2022-08-20T00:01:36.611Z
 tags: 
 editor: markdown
 ---
@@ -47,9 +47,9 @@ editor: markdown
 * "that is a *big* penis inside a clam" - jak, about gooey duck 16/8/2021
 * "big J, little A, welcome to my café" - jak 9/9/2021
 * "thinking about alternate horse realities has made my hands sweaty" - jak 9/10/2021
-* "Against powerline adaptors morally" - jak 07/03/2022
-* "What's slug got to do?" - jak 14/08/2022
-
+* "Against powerline adaptors morally" - jak 07/3/2022
+* "What's slug got to do with it?" - jak 14/8/2022
+* "i just got really excited that i can name my ship The Cum Zone" - jak, explaining why he is choking to death 14/8/2022
 
 # Games That Jak Should Play
 * hyper light drifter
