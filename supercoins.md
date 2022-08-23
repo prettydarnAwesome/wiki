@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2022-07-09T18:46:05.345Z
+date: 2022-08-23T21:12:02.129Z
 tags: 
 editor: markdown
 ---
@@ -73,3 +73,4 @@ editor: markdown
 - "physical objects are *meant* to explode" - tom 29/10/2021
 - "i believe that i DO have objective dog-sensing powers" - tom 1/4/2021
 - "if you teleport, you lose all world records" - tom 9/7/2022
+- "pre-hot the ice coffee" - tom 23/8/2022
