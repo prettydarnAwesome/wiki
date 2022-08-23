@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire"
 published: true
-date: 2022-04-29T10:37:17.265Z
+date: 2022-08-23T21:13:28.381Z
 tags: 
 editor: markdown
 ---
@@ -90,6 +90,7 @@ editor: markdown
 * "i always love a good annihilation" - hexi 17/1/2022
 * "i'm glad i don't work with bacteria. they could be doing anything down there!" - hexi 23/3/2022
 * "is serbia like, a place?" - hexi 29/04/2022
+* "i feel like we should know all bodies of water around us" - hexi 23/8/2022
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
