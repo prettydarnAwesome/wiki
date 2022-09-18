@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2022-05-05T22:40:30.304Z
+date: 2022-09-18T20:30:47.428Z
 tags: 
 editor: markdown
 ---
@@ -27,3 +27,4 @@ editor: markdown
 "people care more about genes than Iraq" - brie 8/4/2022
 "eyeballs are the blackberry of the eye" - brie 23/4/2022
 "the feet wear the legs as a hat" - brie 30/4/2022
+"Sir John Progesterone" - brie 18/9/2022
