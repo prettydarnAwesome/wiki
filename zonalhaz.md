@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2022-09-22T19:06:29.222Z
+date: 2022-09-25T18:18:21.616Z
 tags: 
 editor: markdown
 ---
@@ -129,7 +129,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i wish *i* was surrounded by endless lard... i think..." - huw 8/5/2022
 "you yelly, McFry?" - huw 9/7/2022
 "penguins are not a basis for a formal society" - huw 22/9/2022
-
+"anyone that's dead, their helmet no longer applies" - huw 25/9/2022
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
