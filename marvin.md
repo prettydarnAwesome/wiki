@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-10-02T15:07:47.303Z
+date: 2022-10-02T19:26:09.670Z
 tags: 
 editor: markdown
 ---
@@ -105,6 +105,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "airport thoughts get wiped from my brain" - marvin 21/7/2022
 * "that's what coffee is... it's just hot water... and that's it :)" - marvin 23/8/2022
 * "Cock and Ball Theory" - marvin 2/10/2022
+* "any cock ring enjoyers?" - marvin 2/10/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
