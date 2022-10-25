@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-10-25T18:11:08.567Z
+date: 2022-10-25T18:16:13.324Z
 tags: 
 editor: markdown
 ---
@@ -108,6 +108,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "any cock ring enjoyers?" - marvin 2/10/2022
 * "any bloomers? any blurrers?" - marvin 22/10/2022
 * "bitch, you died otherwise you'd be dead" - marvin 25/10/2022
+* "How kills snake with a gunch" - marvin 25/10/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
@@ -122,3 +123,5 @@ bonus verse quotes because he doesn't have a page:
 - Marvin is centrally located and easily accessible to major employment centers within Center City Charlotte, Ballantyne and South Charlotte.
 - Marvin has the highest median income in the state.
 - Marvin values greenspace preservation through tree, stream and viewshed buffers.
+
+<img src=https://cesque.com/storage/22/10/25/894249223084.png width=500px style="margin-top: 50px">
