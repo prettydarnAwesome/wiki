@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2022-10-22T15:02:37.940Z
+date: 2022-10-25T18:11:08.567Z
 tags: 
 editor: markdown
 ---
@@ -107,6 +107,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "Cock and Ball Theory" - marvin 2/10/2022
 * "any cock ring enjoyers?" - marvin 2/10/2022
 * "any bloomers? any blurrers?" - marvin 22/10/2022
+* "bitch, you died otherwise you'd be dead" - marvin 25/10/2022
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
