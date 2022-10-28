@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2022-09-26T20:11:35.242Z
+date: 2022-10-28T13:18:30.682Z
 tags: 
 editor: markdown
 ---
@@ -52,6 +52,7 @@ editor: markdown
 * "i just got really excited that i can name my ship The Cum Zone" - jak, explaining why he is choking to death 14/8/2022
 * "" - jak 9/9/2022
 * "if you get a fanta fruit twist at the end of it it’s a journey" - jak 26/9/2022
+* "i like drugs, dan" - jak 28/10/2022
 
 # Games That Jak Should Play
 * hyper light drifter
