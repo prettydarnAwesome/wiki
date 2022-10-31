@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2022-10-28T13:18:30.682Z
+date: 2022-10-31T21:30:50.821Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 * "" - jak 9/9/2022
 * "if you get a fanta fruit twist at the end of it it’s a journey" - jak 26/9/2022
 * "i like drugs, dan" - jak 28/10/2022
+* "he's a bit of a clown 🤡... but not the spooky kind of clown 🤡" - hexi about jak 31/10/2022 
 
 # Games That Jak Should Play
 * hyper light drifter
