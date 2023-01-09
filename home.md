@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2022-05-09T20:26:50.691Z
+date: 2023-01-09T21:19:41.445Z
 tags: 
 editor: markdown
 ---
@@ -28,7 +28,7 @@ Here's a link to [The Copypasta](opporator-idea)
 
 Click one of the above buddies to go find out information about them!
 
-![741434174808](https://cesque.com/storage/19/07/21/114224542388.png)
+![741434174808](https://cesque.com/storage/23/01/09/574852069501.png)
 
 <p style="font-size: 0.75rem">source: <a href="https://twitter.com/IanZell/status/1152663246698139655">https://twitter.com/IanZell/status/1152663246698139655</a></p>
 
