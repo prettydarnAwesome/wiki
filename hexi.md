@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-01-30T17:12:32.471Z
+date: 2023-01-30T17:34:24.078Z
 tags: 
 editor: markdown
 ---
