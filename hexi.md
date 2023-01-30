@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-01-30T17:03:06.051Z
+date: 2023-01-30T17:12:32.471Z
 tags: 
 editor: markdown
 ---
@@ -93,7 +93,10 @@ editor: markdown
 * "i feel like we should know all bodies of water around us" - hexi 23/8/2022
 * "i am the listening pepperami" - hexi 16/1/2023
 * "every game character strikes but link bombs" - hexi 28/1/2023
-* **\[on discussing competitive battle royale hide and seek\]** tom: we should broadcast it all via police body cams, that would be immersive...
+* **\[on discussing competitive battle royale hide and seek\]** - hexi 30/1/2023
+  * hexi (commentator 1): and here we see Lionel Messi packed into the kitchen cupboard, little does he know theres a guy with a machete right around the corner
+  * hexi (commentator 2): i wonder what he'll do once he's found
+  * hexi (commentator 1): at the very least it's going to be messi
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
