@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-02-18T00:06:55.295Z
+date: 2023-02-18T00:35:27.816Z
 tags: 
 editor: markdown
 ---
@@ -11,6 +11,7 @@ editor: markdown
 * **25:39** - Coins, Cesque & Zonalhaz
 
 # Prophecy
+* **25:19** - Coins, Cesque & Zonalhaz
 * **30:25** - Coins, Cesque & Zonalhaz
 * **43:07** - Coins, Cesque & Zonalhaz
 
