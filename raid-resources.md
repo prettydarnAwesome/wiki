@@ -2,10 +2,16 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2021-09-20T09:55:58.893Z
+date: 2023-03-29T23:07:13.680Z
 tags: 
 editor: markdown
 ---
+
+# Vow of the Disciple
+
+<img src=https://cesque.com/storage/23/03/30/734508352692.png width=500px>
+<img src=https://cesque.com/storage/23/03/30/675300406878.png width=500px>
+<img src=https://cesque.com/storage/23/03/30/021980514812.png width=300px>
 
 # Deep Stone Crypt
 
