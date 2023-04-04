@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2022-09-26T18:53:39.690Z
+date: 2023-04-04T20:30:36.969Z
 tags: 
 editor: markdown
 ---
@@ -75,3 +75,4 @@ editor: markdown
 - "if you teleport, you lose all world records" - tom 9/7/2022
 - "pre-hot the ice coffee" - tom 23/8/2022
 - "you've gotta consider the kitten logistics" - tom 26/9/2022
+- "you just naturally accumulate toes throughout your life!" - tom 4/4/2023
