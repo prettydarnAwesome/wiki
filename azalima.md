@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2022-07-16T16:13:48.207Z
+date: 2023-04-10T15:52:45.037Z
 tags: 
 editor: markdown
 ---
@@ -54,3 +54,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "do you reckon i would get sued by the Co-op if i opened a pet shop called The Coop?" - ardam 9/4/2022
 "you love castrating babies, ardam!" - huw 14/5/2022
 "i was just too busy thinking about grublets..." - ardam 16/7/2022
+"i didn't know corn grows on spiders" - ardam 10/4/2023
