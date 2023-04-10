@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2023-03-23T19:53:47.602Z
+date: 2023-04-10T14:21:27.914Z
 tags: 
 editor: markdown
 ---
@@ -14,6 +14,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 # Quotes
 * "well now you can, like, double cum"
 * "this says gabby douglas, but when i first read it i definitely thought it said 'baby goulash'" - marvin 04/06/2018
+	* <div style="color: #aaa">"i'm <i>always</i> baby goulash" - marvin 10/4/2023</div>
 * "i'm gonna throw this grenade, you have 1 second: 1" - marvin, june 2018
 * "I just wanna stick those yellow fuckers up my tight asshole" - marvin, about Minions, 22/06/2018
 * "4 hours later he starts laughing with laughter" - marvin 27/06/2018
