@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2023-02-13T23:55:38.880Z
+date: 2023-04-12T19:11:31.549Z
 tags: 
 editor: markdown
 ---
@@ -56,6 +56,7 @@ editor: markdown
 * "he's a bit of a clown 🤡... but not the spooky kind of clown 🤡" - hexi about jak 31/10/2022 
 * "i'm more elaborate than a tiger!!! give me shiny things!!!" - jak 13/2/2023
 * "jak is his own auto-titrator" - hexi 13/2/2023
+* "noooo... hexi's fucking toes... 😢😢😢" - jak 12/4/2023
 
 # Games That Jak Should Play
 * hyper light drifter
