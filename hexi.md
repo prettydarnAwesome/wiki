@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-03-23T20:26:16.677Z
+date: 2023-04-18T21:32:04.586Z
 tags: 
 editor: markdown
 ---
@@ -98,6 +98,7 @@ editor: markdown
   * hexi (commentator 2): i wonder what he'll do once he's found
   * hexi (commentator 1): at the very least it's going to be messi
 * "what if your nipples get deactivated?" - hexi 23/3/2023
+* "it's good to have regular crises" - hexi 18/4/2023
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
