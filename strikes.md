@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-03-21T22:57:38.996Z
+date: 2023-04-21T21:37:03.217Z
 tags: 
 editor: markdown
 ---
@@ -15,6 +15,9 @@ editor: markdown
 
 # Duality
 * **25:39** - Coins, Cesque & Zonalhaz
+
+# *Master* Duality
+* **41:46** - Coins, Cesque & Zonalhaz
 
 # Prophecy
 * **25:19** - Coins, Cesque & Zonalhaz
