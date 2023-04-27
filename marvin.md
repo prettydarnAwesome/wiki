@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2023-04-10T14:21:27.914Z
+date: 2023-04-27T18:36:56.491Z
 tags: 
 editor: markdown
 ---
@@ -113,6 +113,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "florence pugh was at one point in my brain '*flower power*'" - marvin 8/11/2022
 * "<span style="color: #aaa">*(extremely sadly)*</span> i just want to borrow the monkey......." - marvin 12/12/2022
 * "i'm not a racist, i have a friend from space" - marvin 23/3/2023
+* "whale is a type of penguin" - marvin 27/4/2023
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
