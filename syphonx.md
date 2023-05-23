@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2023-04-12T19:11:31.549Z
+date: 2023-05-23T21:55:39.590Z
 tags: 
 editor: markdown
 ---
@@ -57,6 +57,7 @@ editor: markdown
 * "i'm more elaborate than a tiger!!! give me shiny things!!!" - jak 13/2/2023
 * "jak is his own auto-titrator" - hexi 13/2/2023
 * "noooo... hexi's fucking toes... 😢😢😢" - jak 12/4/2023
+* "jesus could only turn water into wine, but ahamkara's can turn air into piss" - jak 23/5/2023
 
 # Games That Jak Should Play
 * hyper light drifter
