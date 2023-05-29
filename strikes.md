@@ -2,11 +2,14 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-04-21T22:11:13.512Z
+date: 2023-05-29T20:02:44.880Z
 tags: 
 editor: markdown
 ---
 
+
+# Ghosts of the Deep
+* **44:14** - Coins, Cesque & Zonalhaz *2023-05-29*
 
 # Shattered Throne
 * **16:13** - Coins, Cesque & Zonalhaz
