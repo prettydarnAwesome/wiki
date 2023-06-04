@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2022-02-20T15:41:49.064Z
+date: 2023-06-04T20:29:48.399Z
 tags: 
 editor: markdown
 ---
@@ -250,5 +250,8 @@ using my newly-found VOR navigation knowledge, we did this flight in the 152 wit
 </a>
 </div>
 
-# 2022-01-23 Sarajevo `LQSA` → Dubrovnik `LLDU` (46m)
+# 2022-01-23 Sarajevo `LQSA` → Dubrovnik `LDDU` (46m)
 huw's autopilot was messed up for most of the flight lmao. and i got yelled at for not having landing clearance even tho i definitely did!?!? - `cesque`
+
+# 2023-06-04 Dubrovnik `LDDU` → Thessaloniki `LGTS` (58m)
+considering we didn't fly in over a year, this whole thing went pretty smoothly. they *did* change how the CJ4 does its nav mode a bit, which was an initial source of confusion, but turns out you just need to get close to the flight plan and it'll lock onto it. - `cesque`
