@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2022-10-06T18:43:30.541Z
+date: 2023-06-10T20:51:34.197Z
 tags: 
 editor: markdown
 ---
@@ -131,6 +131,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "penguins are not a basis for a formal society" - huw 22/9/2022
 "anyone that's dead, their helmet no longer applies" - huw 25/9/2022
 "too many penguins in anime" - huw 6/10/2022
+"goblins: they're basically nodules" - huw 10/6/2023
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
