@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-06-04T20:29:48.399Z
+date: 2023-06-11T16:49:30.265Z
 tags: 
 editor: markdown
 ---
@@ -255,3 +255,6 @@ huw's autopilot was messed up for most of the flight lmao. and i got yelled at f
 
 # 2023-06-04 Dubrovnik `LDDU` → Thessaloniki `LGTS` (58m)
 considering we didn't fly in over a year, this whole thing went pretty smoothly. they *did* change how the CJ4 does its nav mode a bit, which was an initial source of confusion, but turns out you just need to get close to the flight plan and it'll lock onto it. - `cesque`
+
+# 2023-06-04 Thessaloniki `LGTS` → Santorini `LGSR` (1h03m)
+we decided to try to use Pilot2ATC - an extremely scary and mildly jank piece of software - in place of the default Microsoft ATC. And honestly, it worked decently well. Still a way to go in terms of us learning how to communicate with ATC properly, but its a good stepping stone towards VATSIM.
