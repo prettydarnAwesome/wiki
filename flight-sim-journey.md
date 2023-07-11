@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-06-14T21:18:04.051Z
+date: 2023-07-11T20:35:02.789Z
 tags: 
 editor: markdown
 ---
@@ -261,3 +261,6 @@ we decided to try to use Pilot2ATC - an extremely scary and mildly jank piece of
 
 # 2023-06-14 Santorini `LGTS` → Beirut `OLBA` (1h35m)
 our first Oxxx airport code! a decently long flight, and a relaxing one too. although in real life we'd probably be freaking out at the fact we landed with a bare minimum of fuel... if we had to go around we'd probably be done for... - `cesque` 
+
+# 2023-06-14 Beirut `OLBA` → Arar `OERR` (1h05m)
+i used my newfound knowledge of VNAV (yes it's embarrassing that we flew so long without it) to make this a very chill flight without much issue. i love when the plane takes care of all the height stuff for me. in fact the most complicated part of this flight was probably the set up with choosing a destination and entering everything into the FMS - `cesque` 
