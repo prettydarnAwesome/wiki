@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-07-11T20:35:12.857Z
+date: 2023-07-13T20:38:54.106Z
 tags: 
 editor: markdown
 ---
@@ -264,3 +264,6 @@ our first Oxxx airport code! a decently long flight, and a relaxing one too. alt
 
 # 2023-07-11 Beirut `OLBA` → Arar `OERR` (1h05m)
 i used my newfound knowledge of VNAV (yes it's embarrassing that we flew so long without it) to make this a very chill flight without much issue. i love when the plane takes care of all the height stuff for me. in fact the most complicated part of this flight was probably the set up with choosing a destination and entering everything into the FMS - `cesque` 
+
+# 2023-07-13 Arar `OERR` → 'Ar'ar `OEAR` (47m)
+marvin joined us! we flew the 152 VFR down a big long extremely straight road and landed at a barely-identifiable airport LOL. fun with 3 people especially doing VFR tho - `cesque` 
