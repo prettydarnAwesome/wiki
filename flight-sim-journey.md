@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-07-13T21:48:28.436Z
+date: 2023-07-13T21:48:37.197Z
 tags: 
 editor: markdown
 ---
@@ -268,5 +268,5 @@ i used my newfound knowledge of VNAV (yes it's embarrassing that we flew so long
 # 2023-07-13 Arar `OERR` → 'Ar'ar `OEAR` (47m)
 marvin joined us! we flew the 152 VFR down a big long extremely straight road and landed at a barely-identifiable airport LOL. fun with 3 people especially doing VFR tho - `cesque` 
 
-# 2023-07-13 'Ar'ar `OEAR` → Rafha `OERF` (47m)
+# 2023-07-13 'Ar'ar `OEAR` → Rafha `OERF` (56m)
 using the 172 to coast down further on our jaunt through the desert of Saudi Arabia... huw opted for a visual landing, and i decided to try the ILS approach which involved overflying the airport and heading to D8.0 before turning back onto the localizer - `cesque` 
