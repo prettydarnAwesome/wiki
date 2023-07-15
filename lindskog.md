@@ -2,7 +2,7 @@
 title: Lindskog
 description: A quick summary of Lindskog
 published: true
-date: 2023-07-15T12:48:29.234Z
+date: 2023-07-15T12:53:48.280Z
 tags: 
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
 * "the problem is that the body can't speak without the head, so you can't ask it if it's in pain or not" - Lindskog 2/5/2020
 * "we need to go to Sweden so we can kill Lindskog" - ben 20/3/2021
 * "i'm giving you justification for why war is terrible... you just shoot, dude" - lindskog 15/7/2023
+* "he's a pit enjoyer but a valley enjoyer, that's what we know about Lindskog" - zonalhaz 15/7/2023
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
 * "i love lindskog" - Nublar ☂ܟ
