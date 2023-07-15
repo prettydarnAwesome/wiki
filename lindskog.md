@@ -2,7 +2,7 @@
 title: Lindskog
 description: A quick summary of Lindskog
 published: true
-date: 2021-03-20T23:00:50.265Z
+date: 2023-07-15T12:48:29.234Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,7 @@ editor: markdown
 * "[huw](Zonalhaz), have you actually *ever* slept?" - Lindskog 21/1/2020
 * "the problem is that the body can't speak without the head, so you can't ask it if it's in pain or not" - Lindskog 2/5/2020
 * "we need to go to Sweden so we can kill Lindskog" - ben 20/3/2021
+* "i'm giving you justification for why war is terrible... you just shoot, dude" - lindskog 15/7/2023
 # Quotes about lindskog
 * "lindskog is love, lindskog is live" - CheekiBreeki
 * "i love lindskog" - Nublar ☂ܟ
