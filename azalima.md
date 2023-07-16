@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2023-04-10T15:52:45.037Z
+date: 2023-07-16T21:29:59.614Z
 tags: 
 editor: markdown
 ---
@@ -16,6 +16,7 @@ editor: markdown
 Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "I'm Adam Zaman and welcome to my tent talk" - azalima on tent talk - 22/08/18
 "'Wool'? Do you mean 'Walnut'?" - ardam 19/09/2018
+"have we got to the ardam time zone?" - hexi 10/5/2019
 "I don't think shitting your pants is yoga" - ardam 27/05/2019
 "oh dude then you'd have Zeno's Dick" - ardam 27/05/2019
 "Oh man this is sick, i wish i was a jew!" - ardam 29/05/2019
