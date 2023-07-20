@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-07-13T21:48:37.197Z
+date: 2023-07-20T21:37:35.952Z
 tags: 
 editor: markdown
 ---
@@ -270,3 +270,6 @@ marvin joined us! we flew the 152 VFR down a big long extremely straight road an
 
 # 2023-07-13 'Ar'ar `OEAR` → Rafha `OERF` (56m)
 using the 172 to coast down further on our jaunt through the desert of Saudi Arabia... huw opted for a visual landing, and i decided to try the ILS approach which involved overflying the airport and heading to D8.0 before turning back onto the localizer - `cesque` 
+
+# 2023-07-20 Rafha `OEAR` → Dubai `OMDB` (1h52m)
+longitude time! we escaped desert hell and made it to Dubai. india here we come!!! it was a long flight and it was mostly fine... but the arrival and approach was questionable. we were fighting RNAV and also failing to get to the heights we need. however: huw's plane committed suicide on short final and fell out the sky for some reason??? - `cesque` 
