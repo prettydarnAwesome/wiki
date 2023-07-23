@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2023-07-23T19:06:45.783Z
+date: 2023-07-23T19:27:31.537Z
 tags: 
 editor: markdown
 ---
@@ -115,7 +115,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i'm not a racist, i have a friend from space" - marvin 23/3/2023
 * "whale is a type of penguin" - marvin 27/4/2023
 * "you know every song that has clapping is a banger" - marvin 13/5/2023
-* "ah it's shitting o'clock. every, time to go shitting together!" - marvin 23/7/2023
+* "ah it's shitting o'clock. everyone, time to go shitting together!" - marvin 23/7/2023
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
