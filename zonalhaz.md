@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2023-06-11T20:28:19.789Z
+date: 2023-07-26T20:02:16.782Z
 tags: 
 editor: markdown
 ---
@@ -133,6 +133,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "too many penguins in anime" - huw 6/10/2022
 "goblins: they're basically nodules" - huw 10/6/2023
 "i'm not against oil rigs" - huw 11/6/2023
+"i've had lots of Cow Exposure" - huw 26/7/2023
 
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
