@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-07-20T21:37:35.952Z
+date: 2023-07-26T20:21:11.262Z
 tags: 
 editor: markdown
 ---
@@ -273,3 +273,6 @@ using the 172 to coast down further on our jaunt through the desert of Saudi Ara
 
 # 2023-07-20 Rafha `OEAR` → Dubai `OMDB` (1h52m)
 longitude time! we escaped desert hell and made it to Dubai. india here we come!!! it was a long flight and it was mostly fine... but the arrival and approach was questionable. we were fighting RNAV and also failing to get to the heights we need. however: huw's plane committed suicide on short final and fell out the sky for some reason??? - `cesque` 
+
+# 2023-07-26 Dubai `OMDB` → Khasab `OOKB` (50m)
+easy VFR up the coast, on our way to India -- we just need to get close enough that it's not gonna be a 2hr flight there - `cesque` 
