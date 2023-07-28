@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-07-21T19:59:20.210Z
+date: 2023-07-28T23:47:00.158Z
 tags: 
 editor: markdown
 ---
@@ -122,3 +122,6 @@ editor: markdown
 * Jak Barnes clone kill count                      0
 
 hexi is also cancelled because he agreed with [Ben](Ben) that a group of squid is called a squad
+
+## bonus jane quote
+- "how would you guys grab things without your toes?" - jane 8/7/2023
