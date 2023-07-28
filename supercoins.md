@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-04-08T13:43:25.854Z
+date: 2023-07-28T23:46:05.117Z
 tags: 
 editor: markdown
 ---
@@ -77,3 +77,4 @@ editor: markdown
 - "you've gotta consider the kitten logistics" - tom 26/9/2022
 - "you just naturally accumulate toes throughout your life!" - tom 4/4/2023
 - "no-one's a marsupial these days" - tom 8/4/2023
+- "how many people does a toddler have to kill before you're willing to shoot them" - tom 8/7/2023
