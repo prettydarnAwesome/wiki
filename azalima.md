@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2023-07-16T21:29:59.614Z
+date: 2023-07-28T21:56:54.278Z
 tags: 
 editor: markdown
 ---
@@ -56,3 +56,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "you love castrating babies, ardam!" - huw 14/5/2022
 "i was just too busy thinking about grublets..." - ardam 16/7/2022
 "i didn't know corn grows on spiders" - ardam 10/4/2023
+"i've never been in an inadequately lit tunnel - ardam 8/7/2023
