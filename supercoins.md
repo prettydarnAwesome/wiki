@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-08-03T18:40:04.800Z
+date: 2023-08-03T18:46:29.076Z
 tags: 
 editor: markdown
 ---
@@ -59,7 +59,7 @@ editor: markdown
 - "if i could wake up in the morning and just eat nuts all day, i would" - tom 2/4/2021
 - "batman fixes websites at night" - tom 2/4/2021
 - "i feel like what is instinctual" - tom 10/4/2021
-- "ifany 2 bodies collide, i wouldn't necessarily call that a body slam" - tom 17/4/2021
+- "if any 2 bodies collide, i wouldn't necessarily call that a body slam" - tom 17/4/2021
 - "if it's not alive, is it really a horse" - tommm 18/4/2021
 - "What is it, its long and green"- Jak, "baguette?" - Tom 19/4/2021
 - "you're a butt person, go have a look at some butts" - tom to jak 19/4/2021
