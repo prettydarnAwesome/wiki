@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-07-28T23:46:05.117Z
+date: 2023-08-03T18:40:04.800Z
 tags: 
 editor: markdown
 ---
@@ -78,3 +78,4 @@ editor: markdown
 - "you just naturally accumulate toes throughout your life!" - tom 4/4/2023
 - "no-one's a marsupial these days" - tom 8/4/2023
 - "how many people does a toddler have to kill before you're willing to shoot them" - tom 8/7/2023
+- "slime is a type of cheese" - tom 3/8/2023
