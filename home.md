@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2023-08-04T23:24:50.086Z
+date: 2023-08-04T23:24:56.021Z
 tags: 
 editor: markdown
 ---
@@ -42,7 +42,7 @@ Click one of the above buddies to go find out information about them!
 
 * What percentage of people in the UK have cut a lime?
 * If you had to eat dirt would you?
-* If you could trade a human abaility for a chitinous shell which ability?
+* If you could trade a human ability for a chitinous shell which ability?
 * If you had to lose a sense, How long could you lose it for? Which sense would you want to be twice as good?
 * Can you invent a new weather?
 
