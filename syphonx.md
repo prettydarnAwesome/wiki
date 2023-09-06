@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2023-06-08T12:58:39.773Z
+date: 2023-09-06T20:00:30.456Z
 tags: 
 editor: markdown
 ---
@@ -59,6 +59,8 @@ editor: markdown
 * "noooo... hexi's fucking toes... 😢😢😢" - jak 12/4/2023
 * "jesus could only turn water into wine, but ahamkaras can turn air into piss" - jak 23/5/2023
 * "this is the big shitting powder" - jak 7/6/2023
+* "ITS WORKING. IM A PISS COOKER" - jak 6/9/2023
+	- "I will soon be a piss eater" - jak 6/9/2023
 
 # Games That Jak Should Play
 * hyper light drifter
