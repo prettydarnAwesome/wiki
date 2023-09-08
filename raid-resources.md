@@ -2,13 +2,17 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2023-05-29T20:04:12.733Z
+date: 2023-09-08T14:23:08.504Z
 tags: 
 editor: markdown
 ---
 
 # Ghosts of the Deep
 <img src=https://cesque.com/storage/23/05/28/695195445836.jpg width=800px>
+
+# Root of Nightmares
+
+<img src=https://cesque.com/storage/23/09/08/087074312462.png width=800px>
 
 # Vow of the Disciple
 
