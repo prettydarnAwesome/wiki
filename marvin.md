@@ -2,7 +2,7 @@
 title: marvin
 description: should be in a band
 published: true
-date: 2023-07-30T19:32:47.354Z
+date: 2023-09-08T23:21:29.600Z
 tags: 
 editor: markdown
 ---
@@ -117,6 +117,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "you know every song that has clapping is a banger" - marvin 13/5/2023
 * "ah it's shitting o'clock. everyone, time to go shitting together!" - marvin 23/7/2023
 * "now Johnny English is trans :)" - marvin 30/7/2023
+* "who let me drink cranberry juice!? it makes me stupid!!!" - marvin 9/9/2023 (pub quiz!)
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
