@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-08-03T18:46:29.076Z
+date: 2023-09-23T17:17:53.558Z
 tags: 
 editor: markdown
 ---
@@ -79,3 +79,4 @@ editor: markdown
 - "no-one's a marsupial these days" - tom 8/4/2023
 - "how many people does a toddler have to kill before you're willing to shoot them" - tom 8/7/2023
 - "slime is a type of cheese" - tom 3/8/2023
+- "i think demons are slugs" - tom 9/9/2023
