@@ -1,8 +1,8 @@
 ---
 title: marvin
-description: should be in a band
+description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-09-08T23:21:29.600Z
+date: 2023-09-23T17:13:37.887Z
 tags: 
 editor: markdown
 ---
