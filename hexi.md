@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-09-23T17:19:12.354Z
+date: 2023-09-26T17:43:00.917Z
 tags: 
 editor: markdown
 ---
@@ -130,3 +130,7 @@ hexi is also cancelled because he agreed with [Ben](Ben) that a group of squid i
 
 ## bonus jane quote
 - "how would you guys grab things without your toes?" - jane 8/7/2023
+
+---
+
+<img src=https://cesque.com/storage/23/09/26/695380282877.png width=400px />
