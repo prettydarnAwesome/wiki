@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2023-08-12T23:26:47.028Z
+date: 2023-09-29T19:33:05.139Z
 tags: 
 editor: markdown
 ---
@@ -135,6 +135,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "i'm not against oil rigs" - huw 11/6/2023
 "i've had lots of Cow Exposure" - huw 26/7/2023
 "you should be able to be sand in everything. you can only be boulders in everything... you *can* be a *lot* of boulders though" - huw 13/8/2023
+"there are many parking car parking car parking parks" - huw 29/9/2023
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
