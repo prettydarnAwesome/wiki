@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-09-23T17:17:53.558Z
+date: 2023-10-06T21:09:15.841Z
 tags: 
 editor: markdown
 ---
@@ -80,3 +80,4 @@ editor: markdown
 - "how many people does a toddler have to kill before you're willing to shoot them" - tom 8/7/2023
 - "slime is a type of cheese" - tom 3/8/2023
 - "i think demons are slugs" - tom 9/9/2023
+- "i still think chocolate cake is chocolate cake" - tom 6/10/2023
