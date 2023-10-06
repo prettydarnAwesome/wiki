@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-09-23T17:16:43.464Z
+date: 2023-10-06T21:04:53.647Z
 tags: 
 editor: markdown
 ---
@@ -120,6 +120,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "who let me drink cranberry juice!? it makes me stupid!!!" - marvin 9/9/2023 (pub quiz!)
 * "right, it's pootis time.......... how do i pootis?" - marvin 11/9/2023
 * "omg it's the sex shark!" - marvin 11/9/2023
+* "sorry i forgot that milk exists" - marvin 6/10/2023
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
