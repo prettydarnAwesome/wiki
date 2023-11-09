@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-10-06T21:09:15.841Z
+date: 2023-11-09T20:36:50.345Z
 tags: 
 editor: markdown
 ---
@@ -81,3 +81,4 @@ editor: markdown
 - "slime is a type of cheese" - tom 3/8/2023
 - "i think demons are slugs" - tom 9/9/2023
 - "i still think chocolate cake is chocolate cake" - tom 6/10/2023
+- "anime girl into snail... has it ever been done before..." - tom 9/11/2023
