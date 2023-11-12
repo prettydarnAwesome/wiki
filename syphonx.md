@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2023-09-06T20:00:30.456Z
+date: 2023-11-12T15:28:45.994Z
 tags: 
 editor: markdown
 ---
@@ -61,6 +61,7 @@ editor: markdown
 * "this is the big shitting powder" - jak 7/6/2023
 * "ITS WORKING. IM A PISS COOKER" - jak 6/9/2023
 	- "I will soon be a piss eater" - jak 6/9/2023
+* "if a baby can't survive the cold, skill issue" - jak 11/11/2023
 
 # Games That Jak Should Play
 * hyper light drifter
