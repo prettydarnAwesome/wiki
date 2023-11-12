@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-11-09T20:48:41.466Z
+date: 2023-11-12T15:27:35.726Z
 tags: 
 editor: markdown
 ---
@@ -123,6 +123,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "sorry i forgot that milk exists" - marvin 6/10/2023
 * "you should get an achievement for, like, tickling their nips" - marvin 21/10/2023
 * "sometimes they wake up and they're like 'what should we invent today?: Pig.'" - marvin 8/11/2023
+* "you're going against God's ideals if you just use javascript" - marvin 8/11/2023
 * "snail once, snail forever" - marvin 9/11/2023
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
