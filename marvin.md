@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-11-12T15:27:35.726Z
+date: 2023-11-15T19:52:46.758Z
 tags: 
 editor: markdown
 ---
@@ -125,6 +125,9 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "sometimes they wake up and they're like 'what should we invent today?: Pig.'" - marvin 8/11/2023
 * "you're going against God's ideals if you just use javascript" - marvin 8/11/2023
 * "snail once, snail forever" - marvin 9/11/2023
+* "that's just baby propaganda" - marvin 15/11/2023
+	* "you ever seen a baby? they're dumb as shit" - marvin 15/11/2023
+  * "did you know when a baby is born, they're already ready to shit? and it's completely different to any shit which happens afterwards"  - marvin 15/11/2023
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
 
