@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
 published: true
-date: 2022-09-18T20:30:47.428Z
+date: 2023-11-17T21:37:37.757Z
 tags: 
 editor: markdown
 ---
@@ -28,3 +28,4 @@ editor: markdown
 "eyeballs are the blackberry of the eye" - brie 23/4/2022
 "the feet wear the legs as a hat" - brie 30/4/2022
 "Sir John Progesterone" - brie 18/9/2022
+"just think like Chumbawumba" - brie 17/11/2023
