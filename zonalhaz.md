@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2023-10-06T18:16:38.254Z
+date: 2023-11-23T22:20:50.279Z
 tags: 
 editor: markdown
 ---
@@ -138,6 +138,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "there are many parking car parking car parking parks" - huw 29/9/2023
 "when i die i don't wanna be an anime zombie girl, i just wanna be dead" - huw 5/10/2023
 "they've got extra legs for their legs" - huw 6/10/2023
+"space and death are different things. but you can have one of them" - huw 23/11/2023
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
