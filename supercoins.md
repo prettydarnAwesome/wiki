@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2023-11-09T20:36:50.345Z
+date: 2023-11-24T23:56:31.519Z
 tags: 
 editor: markdown
 ---
@@ -82,3 +82,4 @@ editor: markdown
 - "i think demons are slugs" - tom 9/9/2023
 - "i still think chocolate cake is chocolate cake" - tom 6/10/2023
 - "anime girl into snail... has it ever been done before..." - tom 9/11/2023
+- "how's a homunculus different to an amongus?" - tom 24/11/2023
