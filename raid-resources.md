@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2023-09-08T14:23:08.504Z
+date: 2023-11-24T21:29:21.090Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,10 @@ editor: markdown
 # Root of Nightmares
 
 <img src=https://cesque.com/storage/23/09/08/087074312462.png width=800px>
+
+# Vault of Glass
+
+![image.png](/image.png)
 
 # Vow of the Disciple
 
