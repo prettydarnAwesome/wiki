@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T00:37:30.324Z
+date: 2023-11-25T00:47:08.784Z
 tags: 
 editor: markdown
 ---
@@ -133,3 +133,6 @@ editor: markdown
 
 # Birthplace of the Vile
 * **8:26** - Cesque, Zonalhaz & Coins
+
+# Hypernet Current
+* **8:15** - Cesque, Zonalhaz & Coins
