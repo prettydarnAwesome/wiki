@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-24T23:59:18.244Z
+date: 2023-11-25T00:06:47.081Z
 tags: 
 editor: markdown
 ---
@@ -118,6 +118,7 @@ editor: markdown
 * **8:43** - Cesque, Zonalhaz & Brie
 '
 # The Disgraced
+* **6:05** - Cesque, Zonalhaz & Coins
 * **6:40** - Cesque, Zonalhaz & Brie
 * **6:50** - Cesque, Zonalhaz & Coins
 
