@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T00:57:51.454Z
+date: 2023-11-25T01:08:26.953Z
 tags: 
 editor: markdown
 ---
@@ -139,3 +139,6 @@ editor: markdown
 
 # PsiOps Battlegrounds: EDZ
 * **8:57** - Cesque, Zonalhaz & Coins
+
+# Battleground: Oracle
+* **8:41** - Cesque, Zonalhaz & Coins
