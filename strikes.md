@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T01:08:26.953Z
+date: 2023-11-25T01:17:17.067Z
 tags: 
 editor: markdown
 ---
@@ -63,6 +63,9 @@ editor: markdown
 * **5:36** - Zonalhaz, Beasley & Cesque
 * **5:48** - Beasley, Cesque & Random
 * **6:04** - Zonalhaz, Cesque & Supercoins
+
+# Lake of Shadows (remastered)
+* **7:21** - Zonalhaz, Cesque & Coins
 
 # Garden World
 * **6:37** - Zonalhaz, Cesque & Hexi
