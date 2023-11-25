@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T00:06:47.081Z
+date: 2023-11-25T00:37:30.324Z
 tags: 
 editor: markdown
 ---
@@ -130,3 +130,6 @@ editor: markdown
 
 # Battleground: Behemoth
 * **8:48** - Cesque, Zonalhaz & Coins
+
+# Birthplace of the Vile
+* **8:26** - Cesque, Zonalhaz & Coins
