@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T00:47:08.784Z
+date: 2023-11-25T00:57:51.454Z
 tags: 
 editor: markdown
 ---
@@ -136,3 +136,6 @@ editor: markdown
 
 # Hypernet Current
 * **8:15** - Cesque, Zonalhaz & Coins
+
+# PsiOps Battlegrounds: EDZ
+* **8:57** - Cesque, Zonalhaz & Coins
