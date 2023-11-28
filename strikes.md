@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-28T22:19:26.723Z
+date: 2023-11-28T22:30:04.768Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,9 @@ editor: markdown
 * **6:35** - Zonalhaz, Cesque & Random
 * **7:42** - Zonalhaz, Cesque & Hexi
 * **7:51** - Coins, Cesque & Hexi
+
+# Arms Dealer (remastered)
+* **8:58** - Zonalhaz, Cesque & Coins
 
 # Strange Terrain
 * **4:54** - Cesque, Zonalhaz & Hexi
