@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-28T22:30:04.768Z
+date: 2023-11-28T22:39:57.048Z
 tags: 
 editor: markdown
 ---
@@ -156,3 +156,6 @@ editor: markdown
 
 # Battleground: Oracle
 * **8:41** - Cesque, Zonalhaz & Coins
+
+# Devil's Lair
+* **7:11** - Cesque, Zonalhaz & Coins
