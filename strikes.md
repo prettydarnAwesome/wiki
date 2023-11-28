@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-28T22:00:10.562Z
+date: 2023-11-28T22:09:30.958Z
 tags: 
 editor: markdown
 ---
@@ -47,6 +47,7 @@ editor: markdown
 
 # Warden of Nothing
 * **7:15** - Coins, Cesque & Random
+* **8:14** - Coins, Cesque & Zonalhaz
 * **8:50** - Zonalhaz, Cesque & Hexi
 * **9:09** - Zonalhaz, Cesque & Hexi
 * **9:09** - Zonalhaz, Cesque & Random
