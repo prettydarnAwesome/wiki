@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2023-11-25T01:25:04.847Z
+date: 2023-11-28T22:00:10.562Z
 tags: 
 editor: markdown
 ---
@@ -130,6 +130,9 @@ editor: markdown
 
 # Heist Battleground: Europa
 * **9:31** - Cesque, Zonalhaz & Coins
+
+# Heist Battleground: Moon
+* **8:50** - Cesque, Zonalhaz & Coins
 
 # Battleground: Behemoth
 * **8:48** - Cesque, Zonalhaz & Coins
