@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2023-11-29T21:01:34.673Z
+date: 2023-11-29T21:04:02.209Z
 tags: 
 editor: markdown
 ---
@@ -141,6 +141,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "space and death are different things. but you can have one of them" - huw 23/11/2023
 "all crimes are the same" - huw 24/11/2023
 "you should only hire someone if they can beat you in a fistfight" - huw 29/11/2023
+"train can go anywhere" - huw 29/11/2023
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
