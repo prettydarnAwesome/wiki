@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2023-11-24T21:27:09.237Z
+date: 2023-11-29T21:01:34.673Z
 tags: 
 editor: markdown
 ---
@@ -140,6 +140,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 "they've got extra legs for their legs" - huw 6/10/2023
 "space and death are different things. but you can have one of them" - huw 23/11/2023
 "all crimes are the same" - huw 24/11/2023
+"you should only hire someone if they can beat you in a fistfight" - huw 29/11/2023
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
