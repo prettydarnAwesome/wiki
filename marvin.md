@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-12-06T21:14:12.283Z
+date: 2023-12-09T21:16:25.692Z
 tags: 
 editor: markdown
 ---
@@ -131,6 +131,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "our bones and flesh are nice but our souls are evil" - marvin 16/11/2023
 * "i would find 40 beetles who would let me stack them and then i would stack them, stack them <span style="color: #aaa">\*starts singing whimsically*</span> stack the beetles! stack the beetles!" - marvin 3/12/2023
 	* <span style="color: #aaa">"aren't there only like. 2 beetles alive?" - verse 3/12/2023</span>
+* "when a child is born, the mother doesn't produce pizza pockets out of her breasts" - marvin 9/12/2023
 
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
