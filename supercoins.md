@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-01-22T01:21:45.964Z
+date: 2024-01-22T01:22:03.303Z
 tags: 
 editor: markdown
 ---
@@ -83,4 +83,4 @@ editor: markdown
 - "i still think chocolate cake is chocolate cake" - tom 6/10/2023
 - "anime girl into snail... has it ever been done before..." - tom 9/11/2023
 - "how's a homunculus different to an amongus?" - tom 24/11/2023
-- "can you get me a can of pizza" - tom 12/1/2024
+- "can you get me a can of pizza?" - tom 12/1/2024
