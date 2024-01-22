@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2023-12-03T20:42:32.438Z
+date: 2024-01-22T01:22:35.538Z
 tags: 
 editor: markdown
 ---
@@ -109,6 +109,7 @@ editor: markdown
 	- "it's **NOT**!!!!!" - marvin 9/9/2023
 * "jazz: comfy, unless it's silly and crazy" - hexi 21/11/2023
 * "you can send your teeth to people you meet :)" - hexi 29/11/2023
+* "i felt like a chimp then. but in a good way" - hexi 13/1/2024
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
