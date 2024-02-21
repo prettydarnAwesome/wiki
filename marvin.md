@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2023-12-09T23:11:39.898Z
+date: 2024-02-21T20:48:01.824Z
 tags: 
 editor: markdown
 ---
@@ -133,6 +133,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 	* <span style="color: #aaa">"aren't there only like. 2 beetles alive?" - verse 3/12/2023</span>
 * "when a child is born, the mother doesn't produce pizza pockets out of her breasts" - marvin 9/12/2023
 * "i don't have sardine x-ray vision" - marvin 9/12/2023
+* "can sharks leave world? >:(" - marvin 21/2/2024
 
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
