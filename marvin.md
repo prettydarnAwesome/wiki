@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, should be in a band
 published: true
-date: 2024-02-21T20:48:01.824Z
+date: 2024-02-25T20:25:50.346Z
 tags: 
 editor: markdown
 ---
@@ -134,6 +134,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "when a child is born, the mother doesn't produce pizza pockets out of her breasts" - marvin 9/12/2023
 * "i don't have sardine x-ray vision" - marvin 9/12/2023
 * "can sharks leave world? >:(" - marvin 21/2/2024
+* "i wish i was a desiccated corpse" - marvin 25/2/2024
 
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
