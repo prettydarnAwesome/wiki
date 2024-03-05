@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-01-22T01:22:03.303Z
+date: 2024-03-05T22:23:34.092Z
 tags: 
 editor: markdown
 ---
@@ -84,3 +84,4 @@ editor: markdown
 - "anime girl into snail... has it ever been done before..." - tom 9/11/2023
 - "how's a homunculus different to an amongus?" - tom 24/11/2023
 - "can you get me a can of pizza?" - tom 12/1/2024
+- "gooey is inconvenient, syrupy is a problem" - tom 5/3/2024
