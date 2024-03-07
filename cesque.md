@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2023-11-12T15:29:16.861Z
+date: 2024-03-07T23:22:46.103Z
 tags: 
 editor: markdown
 ---
@@ -39,6 +39,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "a worm is no different to a cat!" - cesque 9/5/2022
 * "let's go browse xerox's website" - cesque 23/9/2022
 * "topologically, dogs *can* eat strawberries" - cesque 12/11/2023
+* "why doesn't wikipedia have an arachnophobia mode?" - cesque 7/3/2023
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
