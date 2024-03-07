@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-02-23T22:32:06.566Z
+date: 2024-03-07T23:03:50.434Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 * **6:31** - Coins, Cesque & Zonalhaz
 
 # Warden of Nothing
+* **7:11** - Coins, Cesque & Zonalhaz (guardian games)
 * **7:15** - Coins, Cesque & Random
 * **8:14** - Coins, Cesque & Zonalhaz
 * **8:50** - Zonalhaz, Cesque & Hexi
@@ -135,6 +136,7 @@ editor: markdown
 * **6:50** - Cesque, Zonalhaz & Coins
 
 # The Lightblade
+* **9:00** - Coins, Cesque & Zonalhaz (guardian games)
 * **11:01** - Cesque, Zonalhaz & Random
 
 # Heist Battleground: Europa
