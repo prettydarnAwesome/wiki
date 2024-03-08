@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-03-08T00:42:16.573Z
+date: 2024-03-08T00:59:59.963Z
 tags: 
 editor: markdown
 ---
@@ -93,6 +93,7 @@ editor: markdown
 * **9:31** - Cesque, Zonalhaz & Coins
 
 ## Heist Battleground: Moon
+* **7:41** - Coins, Cesque & Random (guardian games)
 * **8:50** - Cesque, Zonalhaz & Coins
 
 ## Hypernet Current
