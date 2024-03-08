@@ -2,57 +2,73 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-03-07T23:12:47.323Z
+date: 2024-03-08T00:06:10.700Z
 tags: 
 editor: markdown
 ---
 
 
-# Warlord's Ruin
-* **55:55** - Coins, Cesque & Zonalhaz *2024-02-23*
+# Dungeons
 
-# Ghosts of the Deep
-* **44:14** - Coins, Cesque & Zonalhaz *2023-05-29*
-
-# Shattered Throne
-* **16:13** - Coins, Cesque & Zonalhaz
-* **18:21** - Coins, Cesque & Zonalhaz
-
-# Duality
+## Duality
 * **25:22** - Coins, Cesque & Zonalhaz *(and we did Heartshadow catalyst lmao)*
 * **25:39** - Coins, Cesque & Zonalhaz
 
-# *Master* Duality
+## *Master* Duality
 * **29:02** - Coins, Cesque & Zonalhaz
 * **41:46** - Coins, Cesque & Zonalhaz
 
-# Prophecy
+## Ghosts of the Deep
+* **44:14** - Coins, Cesque & Zonalhaz *2023-05-29*
+
+## Prophecy
 * **21:25** - Coins, Cesque & Zonalhaz
 * **25:19** - Coins, Cesque & Zonalhaz
 * **30:25** - Coins, Cesque & Zonalhaz
 * **43:07** - Coins, Cesque & Zonalhaz
 
----
+## Shattered Throne
+* **16:13** - Coins, Cesque & Zonalhaz
+* **18:21** - Coins, Cesque & Zonalhaz
 
-# Arms Dealer
+## Warlord's Ruin
+* **55:55** - Coins, Cesque & Zonalhaz *2024-02-23*
+
+# Strikes
+
+## Arms Dealer
 * **5:46** - Zonalhaz, Cesque & Random
 * **6:35** - Zonalhaz, Cesque & Random
 * **7:42** - Zonalhaz, Cesque & Hexi
 * **7:51** - Coins, Cesque & Hexi
 
-# Arms Dealer (remastered)
+## Arms Dealer (remastered)
 * **8:58** - Zonalhaz, Cesque & Coins
 
-# Strange Terrain
+## Garden World
+* **6:37** - Zonalhaz, Cesque & Hexi
+* **7:21** - Zonalhaz, Cesque & Random
+
+## Lake of Shadows
+* **3:25** - Zonalhaz, Cesque & Hexi
+* **3:25** - Zonalhaz, Cesque & Random (older)
+* **3:35** - Zonalhaz, Cesque & Supercoins
+* **3:39** - Zonalhaz, Cesque & Random
+* **3:50** - Cesque, Supercoins & Hexi
+* **5:36** - Zonalhaz, Beasley & Cesque
+* **5:48** - Beasley, Cesque & Random
+* **6:04** - Zonalhaz, Cesque & Supercoins
+
+## Lake of Shadows (remastered)
+* **7:21** - Zonalhaz, Cesque & Coins
+
+## Strange Terrain
 * **4:54** - Cesque, Zonalhaz & Hexi
 * **6:46** - Cesque, Zonalhaz & Hexi
 * **8:17** - Cesque, Zonalhaz & Hexi
 * **8:19** - Cesque, Zonalhaz & Random
 
-# Will of the Thousands
-* **6:31** - Coins, Cesque & Zonalhaz
-
-# Warden of Nothing
+## Warden of Nothing
 * **7:11** - Coins, Cesque & Zonalhaz (guardian games)
 * **7:15** - Coins, Cesque & Random
 * **8:14** - Coins, Cesque & Zonalhaz
@@ -63,22 +79,8 @@ editor: markdown
 * **9:57** - Coins, Cesque & Zonalhaz
 	* shoutout to tom for pushing the warden off the map :)
 
-# Lake of Shadows
-* **3:25** - Zonalhaz, Cesque & Hexi
-* **3:25** - Zonalhaz, Cesque & Random (older)
-* **3:35** - Zonalhaz, Cesque & Supercoins
-* **3:39** - Zonalhaz, Cesque & Random
-* **3:50** - Cesque, Supercoins & Hexi
-* **5:36** - Zonalhaz, Beasley & Cesque
-* **5:48** - Beasley, Cesque & Random
-* **6:04** - Zonalhaz, Cesque & Supercoins
-
-# Lake of Shadows (remastered)
-* **7:21** - Zonalhaz, Cesque & Coins
-
-# Garden World
-* **6:37** - Zonalhaz, Cesque & Hexi
-* **7:21** - Zonalhaz, Cesque & Random
+## Will of the Thousands
+* **6:31** - Coins, Cesque & Zonalhaz
 
 # Inverted Spire
 * **5:51** - Zonalhaz, Cesque & Random
