@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2024-03-08T21:31:44.692Z
+date: 2024-03-08T21:32:06.812Z
 tags: 
 editor: markdown
 ---
@@ -144,7 +144,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "train can go anywhere" - huw 29/11/2023
 - "donkeys are pretty raptor-ish in their noises" - huw 21/1/2024
 	- <span style="color: #888">"are you some kinda donkey expert?" - marvin 21/1/2024</span>
-- "(accusatively, angrily) YOU KNOW HOW TO OINK, *PIG*. GO ON, *OINK*!" - huw, to jak 2024-03-08
+- "(accusatively, angrily) YOU KNOW HOW TO OINK, *PIG*. GO ON, *OINK*!" - huw, to jak 8/3/2024
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
