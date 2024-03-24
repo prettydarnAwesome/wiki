@@ -1,8 +1,8 @@
 ---
 title: marvin
-description: Professional Scrum Master, should be in a band
+description: Professional Scrum Master, Tier 5 Gay, should be in a band
 published: true
-date: 2024-02-25T20:25:50.346Z
+date: 2024-03-24T19:56:44.999Z
 tags: 
 editor: markdown
 ---
