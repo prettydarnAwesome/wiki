@@ -2,7 +2,7 @@
 title: Hexi
 description: Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2024-01-22T01:22:35.538Z
+date: 2024-03-24T15:49:49.347Z
 tags: 
 editor: markdown
 ---
@@ -110,6 +110,7 @@ editor: markdown
 * "jazz: comfy, unless it's silly and crazy" - hexi 21/11/2023
 * "you can send your teeth to people you meet :)" - hexi 29/11/2023
 * "i felt like a chimp then. but in a good way" - hexi 13/1/2024
+* "a piss in the bed's worth two in the toilet" - hexi 24/3/2024
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
