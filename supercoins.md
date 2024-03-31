@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-03-05T22:23:34.092Z
+date: 2024-03-31T00:15:31.130Z
 tags: 
 editor: markdown
 ---
@@ -85,3 +85,4 @@ editor: markdown
 - "how's a homunculus different to an amongus?" - tom 24/11/2023
 - "can you get me a can of pizza?" - tom 12/1/2024
 - "gooey is inconvenient, syrupy is a problem" - tom 5/3/2024
+- "i don't think i know anything about robots" - tom 31/3/2024
