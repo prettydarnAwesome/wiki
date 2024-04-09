@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-04-06T17:24:50.146Z
+date: 2024-04-09T20:08:16.971Z
 tags: 
 editor: markdown
 ---
@@ -174,3 +174,7 @@ editor: markdown
 
 ## Will of the Thousands
 * **6:31** - Coins, Cesque & Zonalhaz
+
+# Exotic Missions and things
+## The Whisper
+* **8:21** - Coins, Cesque & Zonalhaz
