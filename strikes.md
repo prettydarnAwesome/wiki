@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-04-12T17:18:57.161Z
+date: 2024-04-12T18:01:58.957Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,7 @@ editor: markdown
 
 ## Warlord's Ruin
 * **37:11** - Coins, Cesque & Zonalhaz
+* **39:55** - Coins, Cesque & Syphonx
 * **45:16** - Coins, Cesque & Zonalhaz
 * **55:55** - Coins, Cesque & Zonalhaz *2024-02-23*
 
