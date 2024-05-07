@@ -2,7 +2,7 @@
 title: Hexi
 description: Super User of the Freezedryer, Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2024-04-06T22:30:05.461Z
+date: 2024-05-07T19:25:49.562Z
 tags: 
 editor: markdown
 ---
@@ -112,6 +112,7 @@ editor: markdown
 * "i felt like a chimp then. but in a good way" - hexi 13/1/2024
 * "a piss in the bed's worth two in the toilet" - hexi 24/3/2024
 * "i'm doggable now" - hexi 6/4/2024
+* "what is the longest nose bone?" - 7/5/2024
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
