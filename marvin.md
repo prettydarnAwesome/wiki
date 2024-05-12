@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, Tier 5 Gay, should be in a band
 published: true
-date: 2024-03-24T19:56:44.999Z
+date: 2024-05-12T20:29:15.101Z
 tags: 
 editor: markdown
 ---
@@ -144,6 +144,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 bonus verse quotes because he doesn't have a page:
 * "be right back i have to pee from my dick" - verse 17/1/2021
 * "snakes are basically bugs" - verse 12/8/2021
+* "dude there's gonna be mantis porn" - verse 12/5/2024
 
 <img src=https://cesque.com/storage/21/07/08/816466415685.png width=500px style="margin-top: 50px">
 
