@@ -2,7 +2,7 @@
 title: Games To Play
 description: Some games that SuperCoins should play and potentially stream
 published: true
-date: 2021-09-26T12:32:50.046Z
+date: 2024-05-19T19:58:23.569Z
 tags: 
 editor: markdown
 ---
@@ -47,7 +47,6 @@ editor: markdown
 * [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
 * [Nowhere Prophet](https://store.steampowered.com/app/681730/Nowhere_Prophet/)
 * [The Messenger](https://store.steampowered.com/app/764790/The_Messenger/)
-* [Environmental Station Alpha](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/)
 * [The Medium](https://store.steampowered.com/app/1293160/The_Medium/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/the-medium/9NFSR96G6K4N?activetab=pivot:overviewtab)
 * [Vambrace: Cold Soul](https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/)
 * [Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/touhou-luna-nights/9NBLGJQQBHH4?activetab=pivot:overviewtab) (and Dan owns it)
@@ -117,3 +116,4 @@ editor: markdown
 * [~~The Last of Us Part II~~](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/)
 * [~~STAR WARS Jedi: Fallen Order~~](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [~~Monster Sanctuary~~](https://store.steampowered.com/app/814370/Monster_Sanctuary/)
+* [~~Environmental Station Alpha~~](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/) (100% i think)
