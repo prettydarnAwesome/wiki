@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-06-27T18:39:34.894Z
+date: 2024-06-27T18:55:28.979Z
 tags: 
 editor: markdown
 ---
@@ -87,7 +87,8 @@ editor: markdown
 - "gooey is inconvenient, syrupy is a problem" - tom 5/3/2024
 - "i don't think i know anything about robots" - tom 31/3/2024
 - "[on a creature without bones] it means he can blorp into different forms" - tom 27/6/2024
-	- <span style="color: #aaa">like rats. rats don't have any bones" - tom 27/6/2024</span>
+	- <span style="color: #aaa">"like rats. rats don't have any bones" - tom 27/6/2024</span>
+  	- <span style="color: #aaa">"ben's boneless rats" - huw 27/6/2024</span>
 
 
 
