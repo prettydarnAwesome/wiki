@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2023-07-30T23:36:47.782Z
+date: 2024-06-29T15:17:38.573Z
 tags: 
 editor: markdown
 ---
@@ -58,4 +58,6 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i didn't know corn grows on spiders" - ardam 10/4/2023
 "i still think you are squishier than a car" - jane about ardam 7/7/2023
 "i think that the key part of a gun is that it's made to kill people" - ardam 8/7/2023
-"i've never been in an inadequately lit tunnel - ardam 8/7/2023
+"i've never been in an inadequately lit tunnel" - ardam 8/7/2023
+"suck of all the whales and get the ambergris" - ardan 29/06/2024
+"whoever's suck gets the 'gris, you'll get two-sixths" - ardan 29/06/2024
