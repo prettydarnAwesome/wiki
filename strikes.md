@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-06-25T18:19:07.947Z
+date: 2024-07-06T15:04:58.667Z
 tags: 
 editor: markdown
 ---
@@ -30,6 +30,7 @@ editor: markdown
 * **43:07** - Coins, Cesque & Zonalhaz
 
 ## Shattered Throne
+* **15:18** - Coins, Cesque & Zonalhaz
 * **16:13** - Coins, Cesque & Zonalhaz
 * **18:21** - Coins, Cesque & Zonalhaz
 
