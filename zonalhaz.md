@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2024-07-04T21:50:38.180Z
+date: 2024-07-09T15:46:07.553Z
 tags: 
 editor: markdown
 ---
@@ -148,6 +148,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "they made splagenti and i'm eating it... mmmm splagenti" - huw 29/6/2024
 - "good old cloaca women" - huw 3/7/2024
 - "you put bread in and it despawns, and then the toast spawns in" - huw, on how a toaster works 4/7/2024
+- "that noodle has seem some heavy usage lol" - huw 9/7/2024
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
