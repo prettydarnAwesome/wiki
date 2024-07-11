@@ -2,15 +2,13 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2024-07-05T13:15:25.715Z
+date: 2024-07-11T20:08:50.448Z
 tags: 
 editor: markdown
 ---
 
 # Manga Face-off
 
-1. Mystery Fantasy Romance - https://twitter.com/MangaMoguraRE/status/1808981694839672905
-2. Psychological Mystery - https://twitter.com/MangaMoguraRE/status/1808976104394535034
 3. Kimono Fashion Drama - https://twitter.com/MangaMoguraRE/status/1808969327271374884
 > Kimono Fashion Drama "Gintarou-san Otanomi Mousu" vol 5 by "Princess Jellyfish" creator Akiko Higashimura
 4. Fighting Sports Tale - https://twitter.com/MangaMoguraRE/status/1808930612004225277
@@ -39,3 +37,7 @@ editor: markdown
 > Music Manga Series "Rock is a lady's modesty" vol 5 by Fukuda Hiroshi (Mushibugyo)
 16. Kindergarten Action Comedy - https://twitter.com/MangaMoguraRE/status/1808003735064301933
 > "Kindergarten Wars" by Chiba Yuu has 1.4 Million Copies in Circulation for vols 1-10 incl. digital!
+1. Hardboiled Chicken Battle Action - https://twitter.com/MangaMoguraRE/status/1810750890888089850
+> "Rooster Fighter" Battle Action Comedy by Sakuratani Shu
+2. Renaissance Artist Drama - https://twitter.com/MangaMoguraRE/status/1810758986154823899
+> Renaissance Artist Drama "Arte" by Kei Ohkubo will end in a few chapters 
