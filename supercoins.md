@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-07-09T20:01:35.263Z
+date: 2024-07-18T18:25:16.977Z
 tags: 
 editor: markdown
 ---
@@ -90,6 +90,7 @@ editor: markdown
 	- <span style="color: #aaa">"like rats. rats don't have any bones" - tom 27/6/2024</span>
   	- <span style="color: #aaa">"ben's boneless rats" - huw 27/6/2024</span>
 - "do rabbits exist in the night?" - tom 9/7/2024
+- "you are dumb when you are small, it's the rules" - tom 18/7/2024
 
 
 
