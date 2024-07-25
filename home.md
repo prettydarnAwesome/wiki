@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2023-08-04T23:24:56.021Z
+date: 2024-07-25T09:33:36.628Z
 tags: 
 editor: markdown
 ---
@@ -38,13 +38,14 @@ Click one of the above buddies to go find out information about them!
 * [Book Gathering](book-gathering)
 * [Game ideas](game-ideas)
 
-# PDA Questions
+# pdA Questions
 
 * What percentage of people in the UK have cut a lime?
 * If you had to eat dirt would you?
-* If you could trade a human ability for a chitinous shell which ability?
-* If you had to lose a sense, How long could you lose it for? Which sense would you want to be twice as good?
+* What human ability would you give up for a chitinous shell?
+* If you had to lose a sense for a given amount of time such that when you got it back it would be twice as strong, which sense would you lose for how long?
 * Can you invent a new weather?
+* What's the steepest concrete incline you could successfully climb (in degrees)?
 
 # Discord rules
 ## 1
