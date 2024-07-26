@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2024-03-08T19:55:31.752Z
+date: 2024-07-26T20:05:56.881Z
 tags: 
 editor: markdown
 ---
@@ -63,6 +63,10 @@ editor: markdown
 	- "I will soon be a piss eater" - jak 6/9/2023
 * "if a baby can't survive the cold, skill issue" - jak 11/11/2023
 * "i've got so many balls... and they're all spinning" - jak 8/3/2024
+* "i didn't realise you could make your own soup... like legally" - jak 20/7/2024
+* "dentists are just hairdressers for your teeth" - jak 20/7/2024
+* "oh man, i set my thermostat to liquid savings time and now it's 1 degree behind" - jak 20/7/2024
+* "imagine 2 onions and then shit yourself" - jak 20/7/2024
 
 # Games That Jak Should Play
 * hyper light drifter
