@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2024-06-29T15:17:38.573Z
+date: 2024-08-02T23:08:33.265Z
 tags: 
 editor: markdown
 ---
@@ -61,3 +61,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "i've never been in an inadequately lit tunnel" - ardam 8/7/2023
 "suck of all the whales and get the ambergris" - ardan 29/06/2024
 "whoever's suck gets the 'gris, you'll get two-sixths" - ardan 29/06/2024
+"if i had a throat sack like this, *i'd* use it for long-term storage!" - ardam 3/8/2024
