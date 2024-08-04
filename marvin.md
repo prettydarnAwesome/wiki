@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, Tier 5 Gay, should be in a band
 published: true
-date: 2024-07-28T20:13:12.883Z
+date: 2024-08-04T18:19:27.587Z
 tags: 
 editor: markdown
 ---
@@ -135,7 +135,8 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i don't have sardine x-ray vision" - marvin 9/12/2023
 * "can sharks leave world? >:(" - marvin 21/2/2024
 * "i wish i was a desiccated corpse" - marvin 25/2/2024
-* "if you steal, you definitely deserve to die on the spot instantly" - marvin  28/7/2024
+* "if you steal, you definitely deserve to die on the spot instantly" - marvin 28/7/2024
+* "this guy looks way too alive to be dead" - marvin 4/8/2024
 
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
