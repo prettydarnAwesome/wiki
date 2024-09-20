@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2024-07-26T20:05:56.881Z
+date: 2024-09-20T20:53:48.465Z
 tags: 
 editor: markdown
 ---
@@ -67,6 +67,7 @@ editor: markdown
 * "dentists are just hairdressers for your teeth" - jak 20/7/2024
 * "oh man, i set my thermostat to liquid savings time and now it's 1 degree behind" - jak 20/7/2024
 * "imagine 2 onions and then shit yourself" - jak 20/7/2024
+* "i'm replacing sex with Hexi Face" - jak 20/9/2024
 
 # Games That Jak Should Play
 * hyper light drifter
