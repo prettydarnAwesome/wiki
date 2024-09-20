@@ -2,7 +2,7 @@
 title: Flight Sim Journey Log
 description: 
 published: true
-date: 2023-07-26T20:21:11.262Z
+date: 2024-09-20T11:12:52.763Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 
 The concept is that [cesque](/cesque) and [zonalhaz](/zonalhaz) are travelling southwards together from the very northernmost part of the UK in flight sim. Our goal is to reach the south of the UK and then onwards from there to... Norway? France? who knows...
 
-<a href="https://skyvector.com/?ll=52.04010289234709,-2.558349598273719&chart=301&zoom=6&fpl=%20EGPB%20EGPA%20LSM%20EGPE%205708N00440W%20EGEO%20BRUCE%20EGPI%20EGAA" style="color: #8e44ad; font-weight: bold;">CLICK HERE FOR SKYVECTOR MAP</a> (hopefully we kept it up to date)
+<a href="https://skyvector.com/?ll=50.19096776072657,31.889648450775162&chart=301&zoom=14&fpl=%20EGPB%20EGPA%20LSM%20EGPE%205708N00440W%20EGEO%20BRUCE%20EGPI%20EGAA%20EIDW%20EGOV%20EGFE%20EGFF%20EGWC%20EGBB%20EGLL%20EHAM%20EDDH%20ENBR%20ENAL%20ESNZ%20ESNN%20EFVA%20ESSA%20ESSV%20ESMZ%20EETN%20EVRA%20EYVI%20UMMG%20UMKK%20EPWA%20LZTT%20LKTB%20LOWI%20LIPZ%20LJLJ%20LDRI%20LDZA%20LHSM%20LDOR%20LYBE%20LQSA%20LDDU%20LGTS%20LGSR%20OLBA%20OERR%20OERF%20OMDB%20OOKB%20OOKB" style="color: #8e44ad; font-weight: bold;">CLICK HERE FOR SKYVECTOR MAP</a> (hopefully we kept it up to date)
 
 # 2020-08-31: Sumburgh `EGPB` → Kirkwall `EGPA` (57m)
 
