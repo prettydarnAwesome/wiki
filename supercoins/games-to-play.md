@@ -2,7 +2,7 @@
 title: Games To Play
 description: Some games that SuperCoins should play and potentially stream
 published: true
-date: 2024-05-19T19:58:23.569Z
+date: 2024-09-26T02:44:42.748Z
 tags: 
 editor: markdown
 ---
@@ -10,14 +10,14 @@ editor: markdown
 # To Play
 ### Very Big Games
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
-* [The Legend of Zelda: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/)
-* [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
+* [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) (Halfway)
 * [Death Stranding](https://store.steampowered.com/app/1190460/Death_Stranding/) (Near the end)
 * [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/pc) (Need to finish)
-* [God of War](https://godofwar.playstation.com/) (Need to finish)
+* [God of War Ragnarök](https://godofwar.playstation.com/) (About a third of the way through)
 * [Assassin's Creed Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/) (Need to finish)
 * [NieR:Automata](https://store.steampowered.com/app/524220/NieRAutomata/) (Need to finish more)
 * [Persona 5 Royal](https://atlus.com/p5r/) (Boy is this game longer than I expected)
+* [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
 
 ### Big Games
 * [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2/) (Near the end)
@@ -31,12 +31,10 @@ editor: markdown
 * [Final Fantasy XII: The Zodiac Age](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/)
 * [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 * [Control](https://store.steampowered.com/app/870780/Control/) (Half way through)
-* [Disgaea 4 Complete+](https://store.steampowered.com/app/1233880/Disgaea_4_Complete/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/disgaea-4-complete/9PFJDSL1CC7G?activetab=pivot:overviewtab)
 * [A Plague Tale: Innocence](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K?activetab=pivot:overviewtab)
 
 ### Small Games
 * [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/) (This game is hard)
-* [Slime Rancher](https://store.steampowered.com/app/433340/Slime_Rancher/) (Need to finish)
 * [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
 * [DOOM](https://store.steampowered.com/app/379720/DOOM/)
 * [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
@@ -44,7 +42,6 @@ editor: markdown
 * [GRIS](https://store.steampowered.com/app/683320/GRIS/)
 * [Black Future '88](https://store.steampowered.com/app/751820/Black_Future_88/)
 * [Cadence of Hyrule](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Cadence-of-Hyrule-Crypt-of-the-NecroDancer-Featuring-The-Legend-of-Zelda-1533129.html)
-* [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
 * [Nowhere Prophet](https://store.steampowered.com/app/681730/Nowhere_Prophet/)
 * [The Messenger](https://store.steampowered.com/app/764790/The_Messenger/)
 * [The Medium](https://store.steampowered.com/app/1293160/The_Medium/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/the-medium/9NFSR96G6K4N?activetab=pivot:overviewtab)
@@ -59,8 +56,6 @@ editor: markdown
 * [GONNER2](https://store.steampowered.com/app/1117670/GONNER2/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/gonner2-win10/9P44W70MC99Z?activetab=pivot:overviewtab)
 * [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/crosscode/9NFDPQ0KZ6RN?activetab=pivot:overviewtab) (and Dan owns it)
 * [Carto](https://store.steampowered.com/app/1172450/Carto/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carto/9PFS8Q01C2C4?activetab=pivot:overviewtab) (and Dan owns it)
-* [Carrion](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab) (and Dan owns it)
-* [Hollow Knight Randomiser](https://www.nexusmods.com/hollowknight/mods/9) (enemy randomiser + item randomiser)
 * [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
 
 ### Hard Games
@@ -117,3 +112,9 @@ editor: markdown
 * [~~STAR WARS Jedi: Fallen Order~~](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/)
 * [~~Monster Sanctuary~~](https://store.steampowered.com/app/814370/Monster_Sanctuary/)
 * [~~Environmental Station Alpha~~](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/) (100% i think)
+* [~~God of War~~](https://godofwar.playstation.com/)
+* [~~Slime Rancher~~](https://store.steampowered.com/app/433340/Slime_Rancher/)
+* [~~Slime Rancher 2~~](https://store.steampowered.com/app/1657630/Slime_Rancher_2/) (early access)
+* [~~Monster Train~~](https://store.steampowered.com/app/1102190/Monster_Train/) (100% achievements)
+* [~~Carrion~~](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab)
+* [~~Hollow Knight Randomiser~~](https://www.nexusmods.com/hollowknight/mods/9) (enemy randomiser + item randomiser)
