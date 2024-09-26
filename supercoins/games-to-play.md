@@ -2,13 +2,14 @@
 title: Games To Play
 description: Some games that SuperCoins should play and potentially stream
 published: true
-date: 2024-09-26T02:44:42.748Z
+date: 2024-09-26T03:09:16.336Z
 tags: 
 editor: markdown
 ---
 
 # To Play
 ### Very Big Games
+* [Baldurs Gate 3]()
 * [The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 * [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) (Halfway)
 * [Death Stranding](https://store.steampowered.com/app/1190460/Death_Stranding/) (Near the end)
@@ -20,6 +21,11 @@ editor: markdown
 * [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
 
 ### Big Games
+* [Potionomics](https://store.steampowered.com/app/1874490/Potionomics/)
+* [Hi-Fi Rush](https://store.steampowered.com/app/1817230/HiFi_RUSH/)
+* [Ooblets](https://store.steampowered.com/app/593150/Ooblets/)
+* [DEATHLOOP](https://store.steampowered.com/app/1252330/DEATHLOOP/)
+* [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/)
 * [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2/) (Near the end)
 * [Wolfenstein II: The New Colossus](https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
 * [Dishonoured 2](https://store.steampowered.com/app/403640/Dishonored_2/) - [Microsoft Game Pass](https://www.xbox.com/en-GB/xbox-game-pass/pc-games)
@@ -32,9 +38,13 @@ editor: markdown
 * [Astral Chain](https://www.nintendo.com/games/detail/astral-chain-switch/)
 * [Control](https://store.steampowered.com/app/870780/Control/) (Half way through)
 * [A Plague Tale: Innocence](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K?activetab=pivot:overviewtab)
+* [Pacific Drive](https://store.steampowered.com/app/1458140/Pacific_Drive/) (need to finish)
+* [Going Under](https://store.steampowered.com/app/1154810/Going_Under/)
+* [Guardians of the Galaxy](https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/)
 
 ### Small Games
 * [Cultist Simulator](https://store.steampowered.com/app/718670/Cultist_Simulator/) (This game is hard)
+* [BOOK OF HOURS](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/)
 * [Glittermitten Grove](https://en.wikipedia.org/wiki/Spoiler_(media))
 * [DOOM](https://store.steampowered.com/app/379720/DOOM/)
 * [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
@@ -57,6 +67,17 @@ editor: markdown
 * [CrossCode](https://store.steampowered.com/app/368340/CrossCode/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/crosscode/9NFDPQ0KZ6RN?activetab=pivot:overviewtab) (and Dan owns it)
 * [Carto](https://store.steampowered.com/app/1172450/Carto/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carto/9PFS8Q01C2C4?activetab=pivot:overviewtab) (and Dan owns it)
 * [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
+* [A Little to the Left](https://store.steampowered.com/app/1629520/A_Little_to_the_Left/) (started)
+* [Halls of Torment](https://store.steampowered.com/app/2218750/Halls_of_Torment/) (played a decent bit)
+* [Magicraft](https://store.steampowered.com/app/2103140/Magicraft/) (early access)
+* [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (need to 100%)
+* [Dave the Diver](https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/)
+* [Tiny Rogues](https://store.steampowered.com/app/2088570/Tiny_Rogues/)
+* [God of Weapons](https://store.steampowered.com/app/2342950/God_Of_Weapons/) (played a bit)
+* [Death Must Die](https://store.steampowered.com/app/2334730/Death_Must_Die/) (early access)
+* [Haiku](https://store.steampowered.com/app/1231880/Haiku_the_Robot/) (need to 100%)
+* [Moonstone Island](https://store.steampowered.com/app/1658150/Moonstone_Island/)
+* [Heretic's Fork](https://store.steampowered.com/app/2181610/Heretics_Fork/)
 
 ### Hard Games
 * [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
@@ -67,6 +88,9 @@ editor: markdown
 * [Deaths Gambit](https://store.steampowered.com/app/356650/Deaths_Gambit/)
 * [The Sojourn](https://store.steampowered.com/app/794960/The_Sojourn/)
 * [Iratus: Lord of the Dead](https://store.steampowered.com/app/807120/Iratus_Lord_of_the_Dead/)
+* [Peglin](https://store.steampowered.com/app/1296610/Peglin/) (started getting hard)
+* [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
+
 
 # Played
 * [~~Moonlighter~~](https://store.steampowered.com/app/606150/Moonlighter/)
@@ -118,3 +142,8 @@ editor: markdown
 * [~~Monster Train~~](https://store.steampowered.com/app/1102190/Monster_Train/) (100% achievements)
 * [~~Carrion~~](https://store.steampowered.com/app/953490/CARRION/) - [Microsoft Game Pass](https://www.microsoft.com/en-gb/p/carrion/9MSMJH3C6TKR?activetab=pivot:overviewtab)
 * [~~Hollow Knight Randomiser~~](https://www.nexusmods.com/hollowknight/mods/9) (enemy randomiser + item randomiser)
+* [~~Unpacking~~](https://store.steampowered.com/app/1135690/Unpacking/)
+* [~~Backpack Hero~~](https://store.steampowered.com/app/1970580/Backpack_Hero/)
+* [~~Hades II~~](https://store.steampowered.com/app/1145350/Hades_II/) (early access)
+* [~~The Talos Principle 2](https://store.steampowered.com/app/835960/The_Talos_Principle_2/)
+* [~~To The Core~~](https://store.steampowered.com/app/1988550/To_The_Core/) (could do with 100%)
