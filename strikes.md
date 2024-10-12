@@ -2,13 +2,16 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-09-24T21:08:51.908Z
+date: 2024-10-12T22:44:25.615Z
 tags: 
 editor: markdown
 ---
 
 
 # Dungeons
+
+## Vesper's Host
+* **59:42** - Coins, Cesque & Zonalhaz *(first non-contest run)*
 
 ## Duality
 * **25:22** - Coins, Cesque & Zonalhaz *(and we did Heartshadow catalyst lmao)*
