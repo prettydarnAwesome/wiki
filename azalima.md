@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2024-08-02T23:08:33.265Z
+date: 2024-12-04T22:03:44.316Z
 tags: 
 editor: markdown
 ---
@@ -62,3 +62,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "suck of all the whales and get the ambergris" - ardan 29/06/2024
 "whoever's suck gets the 'gris, you'll get two-sixths" - ardan 29/06/2024
 "if i had a throat sack like this, *i'd* use it for long-term storage!" - ardam 3/8/2024
+"the Hannah Montana linux shutdown sound" - ardam 25/8/2024 (publes moment)
