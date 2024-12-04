@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2024-12-04T22:02:14.727Z
+date: 2024-12-04T22:03:07.045Z
 tags: 
 editor: markdown
 ---
@@ -67,6 +67,8 @@ editor: markdown
 * "dentists are just hairdressers for your teeth" - jak 20/7/2024
 * "oh man, i set my thermostat to liquid savings time and now it's 1 degree behind" - jak 20/7/2024
 * "imagine 2 onions and then shit yourself" - jak 20/7/2024
+* "everyone that comes to my house? hot girl." - jak 15/9/2024
+* "if there's a cow nearby, you can always see it with binoculars" - jak 15/9/2024
 * "i'm replacing sex with Hexi Face" - jak 20/9/2024
 * "you can bring a horse to water but you can't make it think... that Barbie is a good movie" - jak 5/10/2024
 * "where do horses even hang out?" - jak 23/10/2024
