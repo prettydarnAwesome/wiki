@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-09-10T21:12:08.390Z
+date: 2024-12-04T22:04:29.531Z
 tags: 
 editor: markdown
 ---
@@ -91,7 +91,9 @@ editor: markdown
   	- <span style="color: #aaa">"ben's boneless rats" - huw 27/6/2024</span>
 - "do rabbits exist in the night?" - tom 9/7/2024
 - "you are dumb when you are small, it's the rules" - tom 18/7/2024
+- "i hope the process of asking a baby a survey doesn't hasten the process of object permanence" - tom 24/8/2024
 - "when you multiplication is multiplicative" - tom 10/9/2024
+
 
 
 
