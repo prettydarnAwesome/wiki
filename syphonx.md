@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2024-12-04T22:01:45.622Z
+date: 2024-12-04T22:02:14.727Z
 tags: 
 editor: markdown
 ---
@@ -68,6 +68,7 @@ editor: markdown
 * "oh man, i set my thermostat to liquid savings time and now it's 1 degree behind" - jak 20/7/2024
 * "imagine 2 onions and then shit yourself" - jak 20/7/2024
 * "i'm replacing sex with Hexi Face" - jak 20/9/2024
+* "you can bring a horse to water but you can't make it think... that Barbie is a good movie" - jak 5/10/2024
 * "where do horses even hang out?" - jak 23/10/2024
 
 # Games That Jak Should Play
