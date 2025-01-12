@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-12T20:40:32.747Z
+date: 2025-01-12T20:42:40.168Z
 tags: 
 editor: markdown
 ---
@@ -61,7 +61,7 @@ editor: markdown
 > Gambling manga "Bakuchi Gui" vol 3 by "Casino Gui" duo Shirou Yoshida & Nozaki Hanaichi.
 
 > No translation (**but** we can read Casino Gui instead)
-{.is-danger}
+{.is-info}
 
 10. **The Cosmic Star That I Love** - Cosmic Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808831771099685094) [anilist](https://anilist.co/manga/166114/Boku-ga-Koisuru-Cosmic-Star) [mangadex](https://mangadex.org/title/8b924b1a-d422-4d99-83fa-ce445abde18b)
 > Cosmic Romcom "Boku ga koi suru Cosmic Star" final vol 4 by Heriyama.
@@ -84,8 +84,8 @@ editor: markdown
 13. **Rock is a Lady's Modesty** - Music - [tweet](https://twitter.com/MangaMoguraRE/status/1808809933783126206) [anilist](https://anilist.co/manga/156348/Rock-wa-Lady-no-Tashina-Mideshite) [mangadex](https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649)
 > Music Manga Series "Rock is a lady's modesty" vol 5 by Fukuda Hiroshi (Mushibugyo)
 
-> 1 chapter translated, 59 pages
-{.is-danger}
+> 4 chapters translated
+{.is-info}
 
 14. **Kindergarten WARS** - Kindergarten Action Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808003735064301933) [anilist](https://anilist.co/manga/154349/Kindergarten-WARS) [bato](https://bato.to/series/125630)
 > "Kindergarten Wars" by Chiba Yuu has 1.4 Million Copies in Circulation for vols 1-10 incl. digital!
