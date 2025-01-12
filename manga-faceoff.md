@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2024-07-12T17:37:07.821Z
+date: 2025-01-12T20:38:55.186Z
 tags: 
 editor: markdown
 ---
@@ -24,8 +24,8 @@ editor: markdown
 3. **Cells at Work - Cats** - "Cells at Work" Spin-off - [tweet](https://twitter.com/MangaMoguraRE/status/1808927921945596273) [anilist](https://anilist.co/manga/174112/Hataraku-Saibou-Neko)
 > Spin-Off "Cells at Work - Cats" vol 2 by Kaire Meku, Aozora Choco, Akane Shimizu
 
-> No translation
-{.is-danger}
+> 16 chapters, 27 page avg.
+{.is-success}
 
 4. **Mr. Yano's ordinary days** - Clumsy Boy Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808892253408219373) [anilist](https://anilist.co/manga/136498/Yanokun-no-Futsuu-no-Hibi) [mangadex](https://mangadex.org/title/0bac7be9-490a-4019-ae87-9b5b324af65a)
 > Clumsy Boy Romcom "Mr Yano's Ordinary Days" by Yui Tamura is getting an Anime Adaptation!
