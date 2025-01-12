@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-12T20:42:40.168Z
+date: 2025-01-12T21:03:31.123Z
 tags: 
 editor: markdown
 ---
@@ -104,3 +104,14 @@ editor: markdown
 
 > 72 chapters, 30 page avg.
 {.is-success}
+
+---
+
+To sort: new suggestions to potentially replace any that need replacing (5, 7, 12 and any that we decide don't have enough chapters)
+https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos
+https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku
+https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost
+https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai
+https://mangadex.org/title/6158dcf1-359c-429f-8bf2-41f3c42abc91/shoukoku-no-altair
+https://mangadex.org/title/83acc901-c42e-4468-a6dd-f5d8b9d48567/trillion-game
+https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi
