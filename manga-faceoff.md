@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-12T20:38:55.186Z
+date: 2025-01-12T20:40:32.747Z
 tags: 
 editor: markdown
 ---
@@ -60,7 +60,7 @@ editor: markdown
 9. **Bakuchigui** - Gambling - [tweet](https://twitter.com/MangaMoguraRE/status/1808835650579484933) [anilist](https://anilist.co/manga/176008/Bakuchigui)
 > Gambling manga "Bakuchi Gui" vol 3 by "Casino Gui" duo Shirou Yoshida & Nozaki Hanaichi.
 
-> No translation
+> No translation (**but** we can read Casino Gui instead)
 {.is-danger}
 
 10. **The Cosmic Star That I Love** - Cosmic Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808831771099685094) [anilist](https://anilist.co/manga/166114/Boku-ga-Koisuru-Cosmic-Star) [mangadex](https://mangadex.org/title/8b924b1a-d422-4d99-83fa-ce445abde18b)
