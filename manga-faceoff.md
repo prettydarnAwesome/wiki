@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-19T19:52:28.269Z
+date: 2025-01-19T20:11:21.634Z
 tags: 
 editor: markdown
 ---
@@ -127,10 +127,45 @@ editor: markdown
 > 8 chapters, 50 page avg.
 {.is-success}
 
-*These were found as potential replacements later, not tooooo much thought has gone into their quality*
-https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku
-https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost
-https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai
-https://mangadex.org/title/6158dcf1-359c-429f-8bf2-41f3c42abc91/shoukoku-no-altair
-https://mangadex.org/title/83acc901-c42e-4468-a6dd-f5d8b9d48567/trillion-game
-https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi
+4. **Hana wa Saku, Shura no Gotoku** - Broadcasting Club x Coming of Age - [tweet](https://x.com/MangaMoguraRE/status/1876874205691621608) [anilist](https://anilist.co/manga/135827/Hana-wa-Saku-Shura-no-Gotoku) [mangadex](https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku)
+> A teenage girl who lives on a small island & loves reading to people is invited to join the local school's broadcasting club.
+
+> 31 chapters, 35 page avg.
+{.is-success}
+
+5. **MF Ghost** - Car Racing Drama - [tweet](https://x.com/MangaMoguraRE/status/1876661646455693720) [anilist](https://anilist.co/manga/100238/MF-Ghost/) [mangadex](https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost)
+> Car Racing Drama "MF Ghost" by "Initial D" creator Shigeno Shuichi will end in 6 chapters in Weekly Young Magazine! 
+
+> 250 chapters, 20 page avg.
+{.is-success}
+
+6. **Shrink ~Psychiatrist Yowai~** - Psychiatrist Drama  - [tweet](https://x.com/MangaMoguraRE/status/1876482231163924978) [anilist](https://anilist.co/manga/114671/Shrink-Seishinkai-Yowai) [mangadex](https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai)
+> Psychiatrist Drama "Shrink" by Jin Nanami & Tsukiko has 1.3 million copies in circulation for vols 1-14 including digital!
+
+> 19 chapters, 35 page avg.
+> Volume 1 = 199 pages
+{.is-success}
+
+7. **Shoukoku no Altair** - Ottoman Empire Warfare Fantasy - [tweet](https://x.com/MangaMoguraRE/status/1772079375736840256) [anilist](https://anilist.co/manga/31605/Altair-A-Record-of-Battles/) [mangadex](https://mangadex.org/title/6158dcf1-359c-429f-8bf2-41f3c42abc91/shoukoku-no-altair)
+
+> Ottoman Empire Warfare Fantasy "Shoukoku no Altair" Final Vol.27 by Katou Kotono
+
+> 152 chapters, 35 page avg.
+> Volume 1 = 204 pages
+{.is-success}
+
+8. **Trillion Game** - IT Thriller - [tweet](https://x.com/MangaMoguraRE/status/1844498098321780953) [anilist](https://anilist.co/anime/169315/Trillion-Game) [mangadex](https://mangadex.org/title/83acc901-c42e-4468-a6dd-f5d8b9d48567/trillion-game)
+
+> IT Thriller "Trillion Game" by "Dr. Stone" writer Inagaki Riichiro & Ikegami Ryoichi (Sanctuary, Crying Freeman) is on cover of the latest Big Comic Superior issue 21/2024.
+
+> 29 chapters, 25 page avg.
+> Volume 1 = 205 pages
+{.is-success}
+
+9. Sheeply Horned Witch Romi - - [tweet](https://x.com/MangaMoguraRE/status/1605475444094296064) [anilist](https://x.com/MangaMoguraRE/status/1605475444094296064) [mangadex](https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi)
+
+> "Youkaku no Majoromi" vol 2 by Yoichi Abe
+
+> 15 chapters, 10 page avg.
+> Volume 1 = ???
+{.is-success}
