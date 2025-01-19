@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-19T20:42:36.135Z
+date: 2025-01-19T20:50:52.732Z
 tags: 
 editor: markdown
 ---
@@ -113,30 +113,35 @@ editor: markdown
 > Post-Apocalyptic Exploration Drama "Usuzumi no Hate - Mission in the Apocalypse" by Iwamune Haruo is getting an ENGLISH RELEASE
 
 > 25 chapters, 25 page avg.
+> Volume 1 = 196 pages
 {.is-success}
 
 2. **Star Tripper: Planetarium Ghost Travel** - Galactic Archivist Adventure - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/158684/Hoshitabi-Shounen) [mangadex](https://mangadex.org/title/77c7d3eb-16e9-4ef2-81f0-4d3876a037c5/star-tripper-planetarium-ghost-travel)
 > "Star Tripper - Planetarium Ghost Travel" by Sakatsuki Sakana is getting a French Release starting Oct 16, 2024
 
 > 15 chapters, 40 page avg.
+> Volume 1 = 248 pages
 {.is-success}
 
 3. **COSMOS** - Sci-Fi Action Drama - [tweet](https://x.com/MangaMoguraRE/status/1872429875539456238) [anilist](https://anilist.co/manga/162799/COSMOS) [mangadex](https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos)
 > Sci-Fi Action Drama about a high school student teaming up with a strange alien girl to work as intergalactic insurance investigators.
 
 > 8 chapters, 50 page avg.
+> Volume 1 = 216 pages
 {.is-success}
 
 4. **Hana wa Saku, Shura no Gotoku** - Broadcasting Club x Coming of Age - [tweet](https://x.com/MangaMoguraRE/status/1876874205691621608) [anilist](https://anilist.co/manga/135827/Hana-wa-Saku-Shura-no-Gotoku) [mangadex](https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku)
 > A teenage girl who lives on a small island & loves reading to people is invited to join the local school's broadcasting club.
 
 > 31 chapters, 35 page avg.
+> Volume 1 = 208 pages
 {.is-success}
 
 5. **MF Ghost** - Car Racing Drama - [tweet](https://x.com/MangaMoguraRE/status/1876661646455693720) [anilist](https://anilist.co/manga/100238/MF-Ghost/) [mangadex](https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost)
 > Car Racing Drama "MF Ghost" by "Initial D" creator Shigeno Shuichi will end in 6 chapters in Weekly Young Magazine! 
 
 > 250 chapters, 20 page avg.
+> Volume 1 = 194 pages
 {.is-success}
 
 6. **Shrink ~Psychiatrist Yowai~** - Psychiatrist Drama  - [tweet](https://x.com/MangaMoguraRE/status/1876482231163924978) [anilist](https://anilist.co/manga/114671/Shrink-Seishinkai-Yowai) [mangadex](https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai)
@@ -162,7 +167,7 @@ editor: markdown
 > Volume 1 = 205 pages
 {.is-success}
 
-9. Sheeply Horned Witch Romi - - [tweet](https://x.com/MangaMoguraRE/status/1605475444094296064) [anilist](https://x.com/MangaMoguraRE/status/1605475444094296064) [mangadex](https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi)
+9. Sheeply Horned Witch Romi - Sleepy Post-apocalyptic Romance - [tweet](https://x.com/MangaMoguraRE/status/1605475444094296064) [anilist](https://x.com/MangaMoguraRE/status/1605475444094296064) [mangadex](https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi)
 
 > "Youkaku no Majoromi" vol 2 by Yoichi Abe
 
