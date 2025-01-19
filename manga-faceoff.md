@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-19T20:11:21.634Z
+date: 2025-01-19T20:42:36.135Z
 tags: 
 editor: markdown
 ---
@@ -167,5 +167,5 @@ editor: markdown
 > "Youkaku no Majoromi" vol 2 by Yoichi Abe
 
 > 15 chapters, 10 page avg.
-> Volume 1 = ???
+> Volume 1 = 180
 {.is-success}
