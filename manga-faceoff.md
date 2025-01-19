@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-12T21:06:35.708Z
+date: 2025-01-19T19:52:28.269Z
 tags: 
 editor: markdown
 ---
@@ -107,12 +107,27 @@ editor: markdown
 
 ---
 
-To sort: new suggestions to potentially replace any that need replacing (5, 7, 12 and any that we decide don't have enough chapters)
-*These were earmarked when we originally made the bracket:*
-https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857/the-color-of-the-end-mission-in-the-apocalypse
-https://mangadex.org/title/77c7d3eb-16e9-4ef2-81f0-4d3876a037c5/star-tripper-planetarium-ghost-travel
+## Bonus
+
+1. **The Color of the End: Mission in the Apocalypse** - Post-Apocalyptic Exploration Drama - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/145531/Usuzumi-no-Hate) [mangadex](https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857/the-color-of-the-end-mission-in-the-apocalypse)
+> Post-Apocalyptic Exploration Drama "Usuzumi no Hate - Mission in the Apocalypse" by Iwamune Haruo is getting an ENGLISH RELEASE
+
+> 25 chapters, 25 page avg.
+{.is-success}
+
+2. **Star Tripper: Planetarium Ghost Travel** - Galactic Archivist Adventure - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/158684/Hoshitabi-Shounen) [mangadex](https://mangadex.org/title/77c7d3eb-16e9-4ef2-81f0-4d3876a037c5/star-tripper-planetarium-ghost-travel)
+> "Star Tripper - Planetarium Ghost Travel" by Sakatsuki Sakana is getting a French Release starting Oct 16, 2024
+
+> 15 chapters, 40 page avg.
+{.is-success}
+
+3. **COSMOS** - Sci-Fi Action Drama - [tweet](https://x.com/MangaMoguraRE/status/1872429875539456238) [anilist](https://anilist.co/manga/162799/COSMOS) [mangadex](https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos)
+> Sci-Fi Action Drama about a high school student teaming up with a strange alien girl to work as intergalactic insurance investigators.
+
+> 8 chapters, 50 page avg.
+{.is-success}
+
 *These were found as potential replacements later, not tooooo much thought has gone into their quality*
-https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos
 https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku
 https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost
 https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai
