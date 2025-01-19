@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-19T20:50:52.732Z
+date: 2025-01-19T21:05:12.295Z
 tags: 
 editor: markdown
 ---
@@ -19,18 +19,20 @@ editor: markdown
 > Female Martial Artist "Hatch Patch Punch" vol 2 by Katsuragi Genki & Saga Aki.
 
 > 22 chapters, 3 translated (120 pages)
-{.is-info}
+{.is-danger}
 
-3. **Cells at Work - Cats** - "Cells at Work" Spin-off - [tweet](https://twitter.com/MangaMoguraRE/status/1808927921945596273) [anilist](https://anilist.co/manga/174112/Hataraku-Saibou-Neko)
+3. **Cells at Work - Cats** - "Cells at Work" Spin-off - [tweet](https://twitter.com/MangaMoguraRE/status/1808927921945596273) [anilist](https://anilist.co/manga/174112/Hataraku-Saibou-Neko) [mangadex](https://mangadex.org/title/768cded0-80ac-4c0d-b29b-cc28fc224d70/hataraku-saibou-neko)
 > Spin-Off "Cells at Work - Cats" vol 2 by Kaire Meku, Aozora Choco, Akane Shimizu
 
 > 16 chapters, 27 page avg.
+> Volume 1 = 161
 {.is-success}
 
 4. **Mr. Yano's ordinary days** - Clumsy Boy Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808892253408219373) [anilist](https://anilist.co/manga/136498/Yanokun-no-Futsuu-no-Hibi) [mangadex](https://mangadex.org/title/0bac7be9-490a-4019-ae87-9b5b324af65a)
 > Clumsy Boy Romcom "Mr Yano's Ordinary Days" by Yui Tamura is getting an Anime Adaptation!
 
 > 24 chapters, 25 page avg.
+> Volume 1 = 209
 {.is-success}
 
 5. **Gate In!** - Horse Racing Sports - [tweet](https://twitter.com/MangaMoguraRE/status/1808878080653496581)
@@ -43,6 +45,7 @@ editor: markdown
 > Student Council Comedy "Seitokai ni mo ana wa aru" vol 7 by Muchimaro.
 
 > 33 chapters, 10 page avg.
+> Volume 1 = 150 pages
 {.is-success}
 
 7. **Ocha no Ma Sweets Garden** - Age-gap Friendship Drama - [tweet](https://twitter.com/MangaMoguraRE/status/1808866577929908684) [anilist](https://anilist.co/manga/173071/Ocha-no-Ma-Sweets-Garden)
@@ -55,7 +58,8 @@ editor: markdown
 > "Good Morning Leon" final vol 3 by Kitagou Kai.
 
 > 13 chapters, 10 page avg.
-{.is-info}
+> Volume 1 = 126
+{.is-success}
 
 9. **Bakuchigui** - Gambling - [tweet](https://twitter.com/MangaMoguraRE/status/1808835650579484933) [anilist](https://anilist.co/manga/176008/Bakuchigui)
 > Gambling manga "Bakuchi Gui" vol 3 by "Casino Gui" duo Shirou Yoshida & Nozaki Hanaichi.
@@ -67,13 +71,14 @@ editor: markdown
 > Cosmic Romcom "Boku ga koi suru Cosmic Star" final vol 4 by Heriyama.
 
 > 39 chapters, 20 page avg.
+> Volume 1 = 203 pages
 {.is-success}
 
 11. **White Dragon Hadou** - Criminal Underworld Drama - [tweet](https://twitter.com/MangaMoguraRE/status/1808971471861018699) [anilist](https://anilist.co/manga/123097/Hakuryuu-Hadou) [mangadex](https://mangadex.org/title/11fa6c37-1e53-445e-8d8e-aa06dc7c384d)
 > Criminal underworld drama "Hakuryuu Hadou" vol 39 by Michio Watanabe & Dai Tennouji
 
 > 2 chapters translated (75 pages)
-{.is-info}
+{.is-danger}
 
 12. **Shosen Hitogoto...** - Online Harassment Lawyer - [tweet](https://twitter.com/MangaMoguraRE/status/1808815393399583137) [anilist](https://anilist.co/manga/163553/Shosen-Hitogoto-desu-kara-Toaru-Bengoshi-no-Honne-no-Shigoto)
 > Online Harassment Lawyer Manga "Shosen Hitogoto desu kara" vol 7 by Satou Masamichi, Fujiya Katsuhito, Shimizu Youhei.
@@ -84,25 +89,28 @@ editor: markdown
 13. **Rock is a Lady's Modesty** - Music - [tweet](https://twitter.com/MangaMoguraRE/status/1808809933783126206) [anilist](https://anilist.co/manga/156348/Rock-wa-Lady-no-Tashina-Mideshite) [mangadex](https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649)
 > Music Manga Series "Rock is a lady's modesty" vol 5 by Fukuda Hiroshi (Mushibugyo)
 
-> 4 chapters translated
+> 4 chapters translated (190 pages)
 {.is-info}
 
 14. **Kindergarten WARS** - Kindergarten Action Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808003735064301933) [anilist](https://anilist.co/manga/154349/Kindergarten-WARS) [bato](https://bato.to/series/125630)
 > "Kindergarten Wars" by Chiba Yuu has 1.4 Million Copies in Circulation for vols 1-10 incl. digital!
 
 > 83 chapters, 30 page avg.
+> Volume 1 = 208 pages
 {.is-success}
 
 15. **Rooster Fighter** - Hardboiled Chicken Battle Action - [tweet](https://twitter.com/MangaMoguraRE/status/1810750890888089850) [anilist](https://anilist.co/manga/127554/Rooster-Fighter) [readm](https://readm.today/manga/rooster-fighter)
 > "Rooster Fighter" Battle Action Comedy by Sakuratani Shu
 
 > 28 chapters, 30 page avg.
+> Volume 1 = 192 pages
 {.is-success}
 
 16. **Arte** - Renaissance Artist Drama - [tweet](https://twitter.com/MangaMoguraRE/status/1810758986154823899) [anilist](https://anilist.co/manga/87466/Arte) [bato (1 - 45)](https://bato.to/series/4433) [mangadex (11 - 72)](https://mangadex.org/title/c66d2a14-e0a2-4488-9023-abdab7249d61)
 > Renaissance Artist Drama "Arte" by Kei Ohkubo will end in a few chapters 
 
 > 72 chapters, 30 page avg.
+> Volume 1 = 194 pages
 {.is-success}
 
 ---
