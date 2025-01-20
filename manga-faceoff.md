@@ -2,7 +2,7 @@
 title: Manga Faceoff
 description: 
 published: true
-date: 2025-01-19T21:29:11.556Z
+date: 2025-01-20T22:23:43.182Z
 tags: 
 editor: markdown
 ---
@@ -33,15 +33,7 @@ editor: markdown
 > 4 Volumes translated
 {.is-success}
 
-4. **Good Morning Leon** - Pet Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808838166796980498) [anilist](https://anilist.co/manga/138243/Good-Morning-Leon) [mangadex](https://mangadex.org/title/36e672ed-1b39-4266-9dfb-3ca9b5337e3e/good-morning-leon)
-> "Good Morning Leon" final vol 3 by Kitagou Kai.
-
-> 13 chapters, 10 page avg.
-> Volume 1 = 126
-> 1 Volume released
-{.is-success}
-
-5. **The Cosmic Star That I Love** - Cosmic Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808831771099685094) [anilist](https://anilist.co/manga/166114/Boku-ga-Koisuru-Cosmic-Star) [mangadex](https://mangadex.org/title/8b924b1a-d422-4d99-83fa-ce445abde18b)
+4. **The Cosmic Star That I Love** - Cosmic Romcom - [tweet](https://twitter.com/MangaMoguraRE/status/1808831771099685094) [anilist](https://anilist.co/manga/166114/Boku-ga-Koisuru-Cosmic-Star) [mangadex](https://mangadex.org/title/8b924b1a-d422-4d99-83fa-ce445abde18b)
 > Cosmic Romcom "Boku ga koi suru Cosmic Star" final vol 4 by Heriyama.
 
 > 39 chapters, 20 page avg.
@@ -49,14 +41,7 @@ editor: markdown
 > 4 Volumes translated
 {.is-success}
 
-6. **Rock is a Lady's Modesty** - Music - [tweet](https://twitter.com/MangaMoguraRE/status/1808809933783126206) [anilist](https://anilist.co/manga/156348/Rock-wa-Lady-no-Tashina-Mideshite) [mangadex](https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649)
-> Music Manga Series "Rock is a lady's modesty" vol 5 by Fukuda Hiroshi (Mushibugyo)
-
-> 4 chapters translated (190 pages)
-> 1 Volume translated
-{.is-success}
-
-7. **Kindergarten WARS** - Kindergarten Action Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808003735064301933) [anilist](https://anilist.co/manga/154349/Kindergarten-WARS) [bato](https://bato.to/series/125630)
+5. **Kindergarten WARS** - Kindergarten Action Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808003735064301933) [anilist](https://anilist.co/manga/154349/Kindergarten-WARS) [bato](https://bato.to/series/125630)
 > "Kindergarten Wars" by Chiba Yuu has 1.4 Million Copies in Circulation for vols 1-10 incl. digital!
 
 > 83 chapters, 30 page avg.
@@ -64,7 +49,7 @@ editor: markdown
 > 4+ Volumes translated
 {.is-success}
 
-8. **Rooster Fighter** - Hardboiled Chicken Battle Action - [tweet](https://twitter.com/MangaMoguraRE/status/1810750890888089850) [anilist](https://anilist.co/manga/127554/Rooster-Fighter) [readm](https://readm.today/manga/rooster-fighter)
+6. **Rooster Fighter** - Hardboiled Chicken Battle Action - [tweet](https://twitter.com/MangaMoguraRE/status/1810750890888089850) [anilist](https://anilist.co/manga/127554/Rooster-Fighter) [readm](https://readm.today/manga/rooster-fighter)
 > "Rooster Fighter" Battle Action Comedy by Sakuratani Shu
 
 > 28 chapters, 30 page avg.
@@ -72,7 +57,7 @@ editor: markdown
 > 6 Volumes translated
 {.is-success}
 
-9. **Arte** - Renaissance Artist Drama - [tweet](https://twitter.com/MangaMoguraRE/status/1810758986154823899) [anilist](https://anilist.co/manga/87466/Arte) [bato (1 - 45)](https://bato.to/series/4433) [mangadex (11 - 72)](https://mangadex.org/title/c66d2a14-e0a2-4488-9023-abdab7249d61)
+7. **Arte** - Renaissance Artist Drama - [tweet](https://twitter.com/MangaMoguraRE/status/1810758986154823899) [anilist](https://anilist.co/manga/87466/Arte) [bato (1 - 45)](https://bato.to/series/4433) [mangadex (11 - 72)](https://mangadex.org/title/c66d2a14-e0a2-4488-9023-abdab7249d61)
 > Renaissance Artist Drama "Arte" by Kei Ohkubo will end in a few chapters 
 
 > 72 chapters, 30 page avg.
@@ -80,7 +65,7 @@ editor: markdown
 > 15 Volumes translated
 {.is-success}
 
-10. **The Color of the End: Mission in the Apocalypse** - Post-Apocalyptic Exploration Drama - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/145531/Usuzumi-no-Hate) [mangadex](https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857/the-color-of-the-end-mission-in-the-apocalypse)
+8. **The Color of the End: Mission in the Apocalypse** - Post-Apocalyptic Exploration Drama - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/145531/Usuzumi-no-Hate) [mangadex](https://mangadex.org/title/e05dd982-6d09-4f3d-8e8e-6c9ae65b5857/the-color-of-the-end-mission-in-the-apocalypse)
 > Post-Apocalyptic Exploration Drama "Usuzumi no Hate - Mission in the Apocalypse" by Iwamune Haruo is getting an ENGLISH RELEASE
 
 > 25 chapters, 25 page avg.
@@ -88,7 +73,7 @@ editor: markdown
 > 3 Volumes translated
 {.is-success}
 
-11. **Star Tripper: Planetarium Ghost Travel** - Galactic Archivist Adventure - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/158684/Hoshitabi-Shounen) [mangadex](https://mangadex.org/title/77c7d3eb-16e9-4ef2-81f0-4d3876a037c5/star-tripper-planetarium-ghost-travel)
+9. **Star Tripper: Planetarium Ghost Travel** - Galactic Archivist Adventure - [tweet](https://x.com/MangaMoguraRE/status/1821977118567493957) [anilist](https://anilist.co/manga/158684/Hoshitabi-Shounen) [mangadex](https://mangadex.org/title/77c7d3eb-16e9-4ef2-81f0-4d3876a037c5/star-tripper-planetarium-ghost-travel)
 > "Star Tripper - Planetarium Ghost Travel" by Sakatsuki Sakana is getting a French Release starting Oct 16, 2024
 
 > 15 chapters, 40 page avg.
@@ -96,7 +81,7 @@ editor: markdown
 > 3 Volumes translated
 {.is-success}
 
-12. **COSMOS** - Sci-Fi Action Drama - [tweet](https://x.com/MangaMoguraRE/status/1872429875539456238) [anilist](https://anilist.co/manga/162799/COSMOS) [mangadex](https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos)
+10. **COSMOS** - Sci-Fi Action Drama - [tweet](https://x.com/MangaMoguraRE/status/1872429875539456238) [anilist](https://anilist.co/manga/162799/COSMOS) [mangadex](https://mangadex.org/title/c4b1cb49-46e9-405d-8b48-8104de22e659/cosmos)
 > Sci-Fi Action Drama about a high school student teaming up with a strange alien girl to work as intergalactic insurance investigators.
 
 > 8 chapters, 50 page avg.
@@ -104,7 +89,7 @@ editor: markdown
 > 2 Volumes translated
 {.is-success}
 
-13. **Hana wa Saku, Shura no Gotoku** - Broadcasting Club x Coming of Age - [tweet](https://x.com/MangaMoguraRE/status/1876874205691621608) [anilist](https://anilist.co/manga/135827/Hana-wa-Saku-Shura-no-Gotoku) [mangadex](https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku)
+11. **Hana wa Saku, Shura no Gotoku** - Broadcasting Club x Coming of Age - [tweet](https://x.com/MangaMoguraRE/status/1876874205691621608) [anilist](https://anilist.co/manga/135827/Hana-wa-Saku-Shura-no-Gotoku) [mangadex](https://mangadex.org/title/6b804c1a-2d85-4f09-b6ca-8b109e0191e6/hana-wa-saku-shura-no-gotoku)
 > A teenage girl who lives on a small island & loves reading to people is invited to join the local school's broadcasting club.
 
 > 31 chapters, 35 page avg.
@@ -112,7 +97,7 @@ editor: markdown
 > 7 Volumes translated
 {.is-success}
 
-14. **MF Ghost** - Car Racing Drama - [tweet](https://x.com/MangaMoguraRE/status/1876661646455693720) [anilist](https://anilist.co/manga/100238/MF-Ghost/) [mangadex](https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost)
+12. **MF Ghost** - Car Racing Drama - [tweet](https://x.com/MangaMoguraRE/status/1876661646455693720) [anilist](https://anilist.co/manga/100238/MF-Ghost/) [mangadex](https://mangadex.org/title/c96f1bf8-a100-40bb-98ef-c240b9b7cf96/mf-ghost)
 > Car Racing Drama "MF Ghost" by "Initial D" creator Shigeno Shuichi will end in 6 chapters in Weekly Young Magazine! 
 
 > 250 chapters, 20 page avg.
@@ -120,7 +105,7 @@ editor: markdown
 > 21 Volumes translated
 {.is-success}
 
-15. **Sheeply Horned Witch Romi** - Sleepy Post-apocalyptic Romance - [tweet](https://x.com/MangaMoguraRE/status/1605475444094296064) [anilist](https://x.com/MangaMoguraRE/status/1605475444094296064) [mangadex](https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi)
+13. **Sheeply Horned Witch Romi** - Sleepy Post-apocalyptic Romance - [tweet](https://x.com/MangaMoguraRE/status/1605475444094296064) [anilist](https://anilist.co/manga/105965/Youkaku-no-Majoromi) [mangadex](https://mangadex.org/title/8627e210-25dc-4e9a-8531-142c917e4760/sheeply-horned-witch-romi)
 
 > "Youkaku no Majoromi" vol 2 by Yoichi Abe
 
@@ -129,7 +114,7 @@ editor: markdown
 > 2 Volumes translated
 {.is-success}
 
-16. **Shrink ~Psychiatrist Yowai~** - Psychiatrist Drama  - [tweet](https://x.com/MangaMoguraRE/status/1876482231163924978) [anilist](https://anilist.co/manga/114671/Shrink-Seishinkai-Yowai) [mangadex](https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai)
+14. **Shrink ~Psychiatrist Yowai~** - Psychiatrist Drama  - [tweet](https://x.com/MangaMoguraRE/status/1876482231163924978) [anilist](https://anilist.co/manga/114671/Shrink-Seishinkai-Yowai) [mangadex](https://mangadex.org/title/dfb1718e-6702-4606-bdb5-5ae3fa76b3b9/shrink-psychiatrist-yowai)
 > Psychiatrist Drama "Shrink" by Jin Nanami & Tsukiko has 1.3 million copies in circulation for vols 1-14 including digital!
 
 > 19 chapters, 35 page avg.
@@ -137,7 +122,7 @@ editor: markdown
 > 3 Volumes translated
 {.is-success}
 
-17. **Shoukoku no Altair** - Ottoman Empire Warfare Fantasy - [tweet](https://x.com/MangaMoguraRE/status/1772079375736840256) [anilist](https://anilist.co/manga/31605/Altair-A-Record-of-Battles/) [mangadex](https://mangadex.org/title/6158dcf1-359c-429f-8bf2-41f3c42abc91/shoukoku-no-altair)
+15. **Shoukoku no Altair** - Ottoman Empire Warfare Fantasy - [tweet](https://x.com/MangaMoguraRE/status/1772079375736840256) [anilist](https://anilist.co/manga/31605/Altair-A-Record-of-Battles/) [mangadex](https://mangadex.org/title/6158dcf1-359c-429f-8bf2-41f3c42abc91/shoukoku-no-altair)
 
 > Ottoman Empire Warfare Fantasy "Shoukoku no Altair" Final Vol.27 by Katou Kotono
 
@@ -146,7 +131,7 @@ editor: markdown
 > 26 Volumes translated
 {.is-success}
 
-18. **Trillion Game** - IT Thriller - [tweet](https://x.com/MangaMoguraRE/status/1844498098321780953) [anilist](https://anilist.co/anime/169315/Trillion-Game) [mangadex](https://mangadex.org/title/83acc901-c42e-4468-a6dd-f5d8b9d48567/trillion-game)
+16. **Trillion Game** - IT Thriller - [tweet](https://x.com/MangaMoguraRE/status/1844498098321780953) [anilist](https://anilist.co/anime/169315/Trillion-Game) [mangadex](https://mangadex.org/title/83acc901-c42e-4468-a6dd-f5d8b9d48567/trillion-game)
 
 > IT Thriller "Trillion Game" by "Dr. Stone" writer Inagaki Riichiro & Ikegami Ryoichi (Sanctuary, Crying Freeman) is on cover of the latest Big Comic Superior issue 21/2024.
 
@@ -200,3 +185,18 @@ editor: markdown
 
 > No translation
 {.is-danger}
+
+8. **Good Morning Leon** - Pet Comedy - [tweet](https://twitter.com/MangaMoguraRE/status/1808838166796980498) [anilist](https://anilist.co/manga/138243/Good-Morning-Leon) [mangadex](https://mangadex.org/title/36e672ed-1b39-4266-9dfb-3ca9b5337e3e/good-morning-leon)
+> "Good Morning Leon" final vol 3 by Kitagou Kai.
+
+> 13 chapters, 10 page avg.
+> Volume 1 = 126
+> 1 Volume released
+{.is-info}
+
+9. **Rock is a Lady's Modesty** - Music - [tweet](https://twitter.com/MangaMoguraRE/status/1808809933783126206) [anilist](https://anilist.co/manga/156348/Rock-wa-Lady-no-Tashina-Mideshite) [mangadex](https://mangadex.org/title/d1cf91fe-67cb-4ca0-bbba-8b35d896c649)
+> Music Manga Series "Rock is a lady's modesty" vol 5 by Fukuda Hiroshi (Mushibugyo)
+
+> 4 chapters translated (190 pages)
+> 1 Volume translated
+{.is-info}
