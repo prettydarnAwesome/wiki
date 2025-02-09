@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2024-12-04T22:04:29.531Z
+date: 2025-02-09T19:13:51.296Z
 tags: 
 editor: markdown
 ---
@@ -93,6 +93,8 @@ editor: markdown
 - "you are dumb when you are small, it's the rules" - tom 18/7/2024
 - "i hope the process of asking a baby a survey doesn't hasten the process of object permanence" - tom 24/8/2024
 - "when you multiplication is multiplicative" - tom 10/9/2024
+- "all socks are shoes" - tom 09/2/2025
+- "it means when you're wearing socks and shoes you're just wearing two bags on your feet" - tom 09/2/2025
 
 
 
