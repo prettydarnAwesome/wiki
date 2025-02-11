@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2025-02-11T21:49:35.641Z
+date: 2025-02-11T22:29:58.235Z
 tags: 
 editor: markdown
 ---
@@ -151,8 +151,9 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "that noodle has seem some heavy usage lol" - huw 9/7/2024
 - "that's what Jesus does: he kills people!" - huw 11/8/2024
 - "If things are going badly i just start stabbing" - huw 10/01/2025
-![](https://cesque.com/storage/20/02/04/223613402362.png)
 - "i'm an arm boy" - huw 11/2/2025
+
+![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
 
 [<img src="https://cesque.com/storage/19/04/19/unknown.png" />](https://cesque.com/storage/21/07/22/867048638949.png)
