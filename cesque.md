@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2024-05-05T18:07:47.803Z
+date: 2025-02-25T00:02:09.974Z
 tags: 
 editor: markdown
 ---
@@ -41,6 +41,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "topologically, dogs *can* eat strawberries" - cesque 12/11/2023
 * "why doesn't wikipedia have an arachnophobia mode?" - cesque 7/3/2023
 * "bread is just holes" - cesque 5/5/2024
+* "I don't want my fingers in anyone else's mouth - well it depends on who" - cesque 25/2/2025
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
