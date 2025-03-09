@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2025-02-09T19:13:51.296Z
+date: 2025-03-09T18:36:39.937Z
 tags: 
 editor: markdown
 ---
@@ -95,7 +95,7 @@ editor: markdown
 - "when you multiplication is multiplicative" - tom 10/9/2024
 - "all socks are shoes" - tom 09/2/2025
 - "it means when you're wearing socks and shoes you're just wearing two bags on your feet" - tom 09/2/2025
-
+- "i'll eat a rat just for fun" - tom 9/3/2025
 
 
 
