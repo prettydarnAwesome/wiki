@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2024-12-04T22:03:07.045Z
+date: 2025-03-19T23:44:49.005Z
 tags: 
 editor: markdown
 ---
@@ -72,6 +72,8 @@ editor: markdown
 * "i'm replacing sex with Hexi Face" - jak 20/9/2024
 * "you can bring a horse to water but you can't make it think... that Barbie is a good movie" - jak 5/10/2024
 * "where do horses even hang out?" - jak 23/10/2024
+* "most people have met the queen" - jak 19/3/2025
+* "the hottest liquid on the planet is apple" - jak 19/3/2025 (within 30 seconds of the previous quote)
 
 # Games That Jak Should Play
 * hyper light drifter
