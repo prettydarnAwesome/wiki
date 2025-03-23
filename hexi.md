@@ -2,7 +2,7 @@
 title: Hexi
 description: Super User of the Freezedryer, Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2025-03-19T21:14:44.705Z
+date: 2025-03-23T22:52:28.308Z
 tags: 
 editor: markdown
 ---
@@ -114,6 +114,8 @@ editor: markdown
 * "i'm doggable now" - hexi 6/4/2024
 * "what is the longest nose bone?" - 7/5/2024
 * "if someone sent me an emoji of a bagpipe man i'd be like hell yeah" - hexi 19/3/2025
+* "if you were to put a magic orb here, where would it go?" - tom 23/3/2025
+	- "frog!" - hexi, in response
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
