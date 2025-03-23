@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2024-10-12T23:16:00.239Z
+date: 2025-03-23T17:06:18.047Z
 tags: 
 editor: markdown
 ---
@@ -138,6 +138,7 @@ editor: markdown
 * **6:04** - Zonalhaz, Cesque & Supercoins
 
 ## Lake of Shadows (remastered)
+* **7:08** - Zonalhaz, Cesque & Coins
 * **7:21** - Zonalhaz, Cesque & Coins
 
 ## The Lightblade
