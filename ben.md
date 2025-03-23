@@ -2,7 +2,7 @@
 title: Ben
 description: (boneless), Sludge Magic Wizard, Popefucker, Stinky-stack Soog
 published: true
-date: 2025-03-22T14:35:37.985Z
+date: 2025-03-23T23:05:27.820Z
 tags: 
 editor: markdown
 ---
@@ -35,7 +35,7 @@ editor: markdown
 "i could just murder them, I'm not sure if that's frowned upon though" - Erwin 8/10/20
 "i just wanna fall on top of people, yaknow?" - Ben 08/11/2020
 "yo, imagine being, just, like, a **worm**" - Ben 14/11/2020
-"i have herpies" - Ben 21/11/2020
+"i have herpes" - Ben 21/11/2020
 "do you have sea legs or sea ass?" - Ben 27/11/2020
 "i've got massive arms and a small head!" - Ben 29/11/2020
 "I turned my second for away!" - Ben 22/12/2020
