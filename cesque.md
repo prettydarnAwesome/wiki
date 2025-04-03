@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :(
 published: true
-date: 2025-02-25T11:21:13.787Z
+date: 2025-04-03T19:44:24.908Z
 tags: 
 editor: markdown
 ---
@@ -43,6 +43,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "bread is just holes" - cesque 5/5/2024
 * "I don't want my fingers in anyone else's mouth - well it depends on who" - cesque 24/2/2025
 	- <span style="color: #888">"i mean if my fingers are already in their mouth they can kinda do what they like" - cesque 25/2/2025, on the topic of Tongue</span>
+* "It's spelt the same but with a different letter" - cesque 3/4/2025
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
