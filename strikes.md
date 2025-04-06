@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2025-03-23T17:06:18.047Z
+date: 2025-04-06T13:11:25.867Z
 tags: 
 editor: markdown
 ---
@@ -22,6 +22,7 @@ editor: markdown
 * **41:46** - Coins, Cesque & Zonalhaz
 
 ## Ghosts of the Deep
+* **40:09** - Coins, Cesque & Zonalhaz *2025-04-06*
 * **44:14** - Coins, Cesque & Zonalhaz *2023-05-29*
 
 ## Prophecy
