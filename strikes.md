@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2025-04-06T13:11:25.867Z
+date: 2025-04-06T15:34:59.427Z
 tags: 
 editor: markdown
 ---
@@ -11,6 +11,7 @@ editor: markdown
 # Dungeons
 
 ## Vesper's Host
+* **54:03** - Coins, Cesque & Zonalhaz
 * **59:42** - Coins, Cesque & Zonalhaz *(first non-contest run)*
 
 ## Duality
