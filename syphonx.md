@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2025-04-10T23:31:31.599Z
+date: 2025-04-10T23:44:02.959Z
 tags: 
 editor: markdown
 ---
@@ -73,7 +73,7 @@ editor: markdown
 * "you can bring a horse to water but you can't make it think... that Barbie is a good movie" - jak 5/10/2024
 * "where do horses even hang out?" - jak 23/10/2024
 * "absolute technology is, like, a shovel" - jak 18/2/2025
-* "have captured all available horses?" - jak 19/2/2025
+* "have we captured all available horses?" - jak 19/2/2025
 	* "are there 0 neutral owned by the system horses on the map and you walk up to them and they turn blue and you say 'oh that's my horse now'" - jak 19/2/2025
 * "would you like to hear the story of my first kiss? okay so it was me and 3 friends" - jak 24/2/2025
 * "awkward sexy bus station" - jak 24/2/2025
