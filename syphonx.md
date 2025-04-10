@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2025-03-19T23:44:49.005Z
+date: 2025-04-10T23:31:31.599Z
 tags: 
 editor: markdown
 ---
@@ -72,8 +72,18 @@ editor: markdown
 * "i'm replacing sex with Hexi Face" - jak 20/9/2024
 * "you can bring a horse to water but you can't make it think... that Barbie is a good movie" - jak 5/10/2024
 * "where do horses even hang out?" - jak 23/10/2024
+* "absolute technology is, like, a shovel" - jak 18/2/2025
+* "have captured all available horses?" - jak 19/2/2025
+	* "are there 0 neutral owned by the system horses on the map and you walk up to them and they turn blue and you say 'oh that's my horse now'" - jak 19/2/2025
+* "would you like to hear the story of my first kiss? okay so it was me and 3 friends" - jak 24/2/2025
+* "awkward sexy bus station" - jak 24/2/2025
+* "here's some fun misogyny for you" - jak 16/3/2025
 * "most people have met the queen" - jak 19/3/2025
 * "the hottest liquid on the planet is apple" - jak 19/3/2025 (within 30 seconds of the previous quote)
+* "you shouldn't go around and judge people in what they do... well you can make fun of furries, that's fine" - jak 31/3/2025
+* "i've got infinite skin" - jak 5/4/2025
+* "dad is an essence" - jak 8/4/2025
+* "if you're not the most fuckable person in the grocery store, then what's the point in going to Tesco?" - jak 10/4/2025
 
 # Games That Jak Should Play
 * hyper light drifter
