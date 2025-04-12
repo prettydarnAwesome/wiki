@@ -2,13 +2,39 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2025-04-04T20:25:24.994Z
+date: 2025-04-12T16:23:39.599Z
 tags: 
 editor: markdown
 ---
 
 # Salvation's Edge
 <img src=https://cesque.com/storage/25/04/04/354829886551.png width=800px>
+
+## Verity
+Things to explain:
+- Light room vs Dark room
+- Shapes and shape components (2d, 3d)
+- Light room swapping components ( goal)
+- Dark room shadows
+- Dark room goal
+- Dark room sending
+- Ghost phases
+
+Before encounter: unique glam and ghost skin
+
+Light room:
+1. find out from left to right which inherent shape each statue is (dark room friends will tell you)
+2. you can swap shape components by dunking the component you want to remove from a statue, twice. this swaps the components
+3. make each statue have the 2 components that AREN'T its inherent component e.g Circle statue should have [Square   Triangle] which is Pyramid
+4. best way to do this is left to right, make left statue correct then you just need to fix the other 2
+
+Dark room:
+1. find out your inherent shape (Square, Circle or Triangle). you can check statues, or wait for someone else to do that for you
+2. Check which 2 shadow shapes you have on the back wall
+3. If one of those shadows is NOT your inherent shape, send it to the matching guardian
+4. send your inherent shape to other statues, one each (best to do left to right to prevent accidental resends)
+5. once you have 2 shadow symbols that are different to your inherent, pick up both (3d shape) wait for everyone else to be done (both light and dark)
+6. run through back wall (sparkly)
 
 # Ghosts of the Deep
 <img src=https://cesque.com/storage/23/05/28/695195445836.jpg width=800px>
