@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2025-04-12T16:23:39.599Z
+date: 2025-04-12T16:23:53.367Z
 tags: 
 editor: markdown
 ---
@@ -22,13 +22,13 @@ Things to explain:
 
 Before encounter: unique glam and ghost skin
 
-Light room:
+**Light** room:
 1. find out from left to right which inherent shape each statue is (dark room friends will tell you)
 2. you can swap shape components by dunking the component you want to remove from a statue, twice. this swaps the components
 3. make each statue have the 2 components that AREN'T its inherent component e.g Circle statue should have [Square   Triangle] which is Pyramid
 4. best way to do this is left to right, make left statue correct then you just need to fix the other 2
 
-Dark room:
+**Dark** room:
 1. find out your inherent shape (Square, Circle or Triangle). you can check statues, or wait for someone else to do that for you
 2. Check which 2 shadow shapes you have on the back wall
 3. If one of those shadows is NOT your inherent shape, send it to the matching guardian
