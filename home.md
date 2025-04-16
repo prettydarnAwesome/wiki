@@ -2,7 +2,7 @@
 title: pretty darn Wiki
 description: this is the wiki of pretty darn Awesome
 published: true
-date: 2024-07-25T09:33:36.628Z
+date: 2025-04-16T19:46:15.581Z
 tags: 
 editor: markdown
 ---
@@ -14,6 +14,7 @@ This is the wiki for **pretty darn Awesome**. It contains such interesting and i
 (𝟑 𝐍𝐀𝐁𝐒)
 
 Here's a link to [The Copypasta](opporator-idea)
+> This discord is like a fey world - brie 16/04/2025
 # Friends
 * [Azalima](azalima)
 * [Ben](ben)
