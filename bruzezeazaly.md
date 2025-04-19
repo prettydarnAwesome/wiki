@@ -1,8 +1,8 @@
 ---
 title: Brie
-description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around)
+description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around) -- can recognise video game salmon immediately
 published: true
-date: 2023-11-17T21:37:37.757Z
+date: 2025-04-19T13:27:45.709Z
 tags: 
 editor: markdown
 ---
