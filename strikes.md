@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2025-04-06T15:34:59.427Z
+date: 2025-04-21T18:51:57.312Z
 tags: 
 editor: markdown
 ---
@@ -175,6 +175,9 @@ editor: markdown
 * **6:46** - Cesque, Zonalhaz & Hexi
 * **8:17** - Cesque, Zonalhaz & Hexi
 * **8:19** - Cesque, Zonalhaz & Random
+
+## The Sunless Cell
+* **8:02** - Zonalhaz, Cesque & Random
 
 ## Tree of Probabilities
 * **7:31** - Zonalhaz, Cesque & Hexi
