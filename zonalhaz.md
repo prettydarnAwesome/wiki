@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2025-03-23T23:14:26.932Z
+date: 2025-04-23T18:50:41.239Z
 tags: 
 editor: markdown
 ---
@@ -153,6 +153,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "If things are going badly i just start stabbing" - huw 10/01/2025
 - "i'm an arm boy" - huw 11/2/2025
 - "i'm a big legger" - huw 23/3/2025
+- "humans and cats, what's the difference really?" - huw 23/4/2025
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
