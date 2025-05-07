@@ -2,7 +2,7 @@
 title: Brie
 description: THEY'RE NEVER AROUND :( (when did we write this rofl, they're always around) -- can recognise video game salmon immediately
 published: true
-date: 2025-04-19T13:27:45.709Z
+date: 2025-05-07T19:57:02.529Z
 tags: 
 editor: markdown
 ---
@@ -29,3 +29,4 @@ editor: markdown
 "the feet wear the legs as a hat" - brie 30/4/2022
 "Sir John Progesterone" - brie 18/9/2022
 "just think like Chumbawumba" - brie 17/11/2023
+"am i gonna become the next Woke Pope?" - brie 7/5/2025
