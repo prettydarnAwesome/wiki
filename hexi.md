@@ -2,7 +2,7 @@
 title: Hexi
 description: Super User of the Freezedryer, Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2025-04-30T21:26:15.948Z
+date: 2025-07-11T19:03:59.381Z
 tags: 
 editor: markdown
 ---
@@ -117,6 +117,7 @@ editor: markdown
 * "if you were to put a magic orb here, where would it go?" - tom 23/3/2025
 	- "frog!" - hexi, in response
 * "bouncers are the opposite of dentists" - hexi 30/4/2025
+* "i've got the most cooked pussycat" - hexi 11/7/2025
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
