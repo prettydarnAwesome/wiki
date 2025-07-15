@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2025-04-10T23:44:02.959Z
+date: 2025-07-15T23:19:48.687Z
 tags: 
 editor: markdown
 ---
@@ -84,6 +84,7 @@ editor: markdown
 * "i've got infinite skin" - jak 5/4/2025
 * "dad is an essence" - jak 8/4/2025
 * "if you're not the most fuckable person in the grocery store, then what's the point in going to Tesco?" - jak 10/4/2025
+* "why is west right but it's in the top left" - jak, unprompted 15/7/2025
 
 # Games That Jak Should Play
 * hyper light drifter
