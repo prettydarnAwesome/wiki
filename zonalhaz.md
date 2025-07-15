@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2025-06-18T19:19:22.832Z
+date: 2025-07-15T22:30:37.733Z
 tags: 
 editor: markdown
 ---
@@ -156,6 +156,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "humans and cats, what's the difference really?" - huw 23/4/2025
 - "am i allergic to midnight!?" - huw 4/5/2025 after sneezing at midnight for multiple days in a row
 - "ghost are real, that's why you can't see them" - huw 18/6/2025
+- "i went to the toilet and got silly" - huw 15/7/2025
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
