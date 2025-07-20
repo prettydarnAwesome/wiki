@@ -2,7 +2,7 @@
 title: cesque
 description: huw didnt make me a page :( -- noted breast enjoyer
 published: true
-date: 2025-06-18T19:54:37.911Z
+date: 2025-07-20T10:19:58.188Z
 tags: 
 editor: markdown
 ---
@@ -44,6 +44,7 @@ Look here for games: [Games to Play](cesque/games-to-play)
 * "I don't want my fingers in anyone else's mouth - well it depends on who" - cesque 24/2/2025
 	- <span style="color: #888">"i mean if my fingers are already in their mouth they can kinda do what they like" - cesque 25/2/2025, on the topic of Tongue</span>
 * "It's spelt the same but with a different letter" - cesque 3/4/2025
+* "blind people don't usually have Dans near them" - cesque 20/7/2025
 
 ![](https://cesque.com/storage/19/08/28/738482523210.png)
 # Brand Guidelines
