@@ -2,10 +2,17 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2025-04-12T16:23:53.367Z
+date: 2025-07-20T17:45:20.451Z
 tags: 
 editor: markdown
 ---
+
+# Desert Perpetual
+
+<img src=https://cesque.com/storage/25/07/20/819703315470.png width=500px>
+
+bonus:
+<img src=https://cesque.com/storage/25/07/20/974066067289.png width=500px>
 
 # Salvation's Edge
 <img src=https://cesque.com/storage/25/04/04/354829886551.png width=800px>
