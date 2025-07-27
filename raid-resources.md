@@ -2,7 +2,7 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2025-07-20T17:45:20.451Z
+date: 2025-07-27T14:05:53.650Z
 tags: 
 editor: markdown
 ---
@@ -52,7 +52,7 @@ Before encounter: unique glam and ghost skin
 
 # Vault of Glass
 
-![image.png](/image.png)
+<img src=https://cesque.com/storage/25/07/27/091111244016.png width=800px>
 
 # Vow of the Disciple
 
