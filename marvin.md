@@ -2,7 +2,7 @@
 title: marvin
 description: Professional Scrum Master, Tier 5 Gay, should be in a band
 published: true
-date: 2024-08-04T18:19:27.587Z
+date: 2025-08-10T13:37:20.130Z
 tags: 
 editor: markdown
 ---
@@ -137,6 +137,7 @@ when an enemy unit within 800 range thinks about Carly Rae Jepsen, marvin's prox
 * "i wish i was a desiccated corpse" - marvin 25/2/2024
 * "if you steal, you definitely deserve to die on the spot instantly" - marvin 28/7/2024
 * "this guy looks way too alive to be dead" - marvin 4/8/2024
+* "oh no there's like Ants many people" - marvin 10/8/2025
 
 
 <img src=https://cesque.com/storage/20/11/20/945613593590.png width=500px>
