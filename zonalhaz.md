@@ -2,7 +2,7 @@
 title: Zonalhaz
 description: "I said something stupid pretty recently" -- he's from sheffield, he knows the bible and ornithology
 published: true
-date: 2025-07-27T14:04:54.180Z
+date: 2025-08-17T12:24:39.902Z
 tags: 
 editor: markdown
 ---
@@ -158,6 +158,7 @@ Huw is categorically **NOT** an expert on Bovril:tm:.
 - "ghost are real, that's why you can't see them" - huw 18/6/2025
 - "i went to the toilet and got silly" - huw 15/7/2025
 - "everyone's a little bit Welsh" - huw 27/7/2025
+- "if only we had like, a prehensile tongue" - huw, building gundam 17/8/2025
 
 ![](https://cesque.com/storage/20/02/04/223613402362.png)
 # Finally
