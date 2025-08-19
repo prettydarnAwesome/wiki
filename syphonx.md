@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2025-08-19T20:52:54.461Z
+date: 2025-08-19T23:07:15.253Z
 tags: 
 editor: markdown
 ---
@@ -86,6 +86,7 @@ editor: markdown
 * "if you're not the most fuckable person in the grocery store, then what's the point in going to Tesco?" - jak 10/4/2025
 * "why is west right but it's in the top left" - jak, unprompted 15/7/2025
 * "i like eating spicy and pointy  things" - jak 19/8/2025
+* "people that are Dutch are Dutch, but why is Amsterdam there?" - jak 19/8/2025
 
 # Games That Jak Should Play
 * hyper light drifter
