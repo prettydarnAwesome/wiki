@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2025-07-15T22:37:09.306Z
+date: 2025-08-20T22:34:59.175Z
 tags: 
 editor: markdown
 ---
@@ -97,7 +97,7 @@ editor: markdown
 - "it means when you're wearing socks and shoes you're just wearing two bags on your feet" - tom 09/2/2025
 - "i'll eat a rat just for fun" - tom 9/3/2025
 - "ducks are neutral... perhaps less than neutral... but alchemists are +50%" - tom, unknown 2025
-
+- "more things should be biding their time" - tom 20/8/2025
 
 
 
