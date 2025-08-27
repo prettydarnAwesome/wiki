@@ -2,7 +2,7 @@
 title: Syphonx
 description: non-sexual grandma
 published: true
-date: 2025-08-19T23:07:28.643Z
+date: 2025-08-27T22:00:42.868Z
 tags: 
 editor: markdown
 ---
@@ -87,6 +87,7 @@ editor: markdown
 * "why is west right but it's in the top left" - jak, unprompted 15/7/2025
 * "i like eating spicy and pointy  things" - jak 19/8/2025
 * "people that are Dutch are Dutch, but why is Amsterdam there?" - jak 19/8/2025
+* "I'm laughing thinking about a pig going sicko mode" - jak 27/8/2025
 
 # Games That Jak Should Play
 * hyper light drifter
