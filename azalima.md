@@ -2,7 +2,7 @@
 title: Azalima
 description: a very blursed boy
 published: true
-date: 2024-12-04T22:03:44.316Z
+date: 2026-04-01T19:36:39.924Z
 tags: 
 editor: markdown
 ---
@@ -63,3 +63,4 @@ Alpha Beta Charlie Delta EatenByABear Fuck Gate
 "whoever's suck gets the 'gris, you'll get two-sixths" - ardan 29/06/2024
 "if i had a throat sack like this, *i'd* use it for long-term storage!" - ardam 3/8/2024
 "the Hannah Montana linux shutdown sound" - ardam 25/8/2024 (publes moment)
+"dude, just reflect on longjohns a little bit over the next year, yeah?" - ardam 1/4/2026
