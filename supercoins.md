@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2025-08-20T22:34:59.175Z
+date: 2026-04-03T13:22:09.988Z
 tags: 
 editor: markdown
 ---
@@ -98,6 +98,7 @@ editor: markdown
 - "i'll eat a rat just for fun" - tom 9/3/2025
 - "ducks are neutral... perhaps less than neutral... but alchemists are +50%" - tom, unknown 2025
 - "more things should be biding their time" - tom 20/8/2025
+- "if you get on a spaceship and there's a horse on there, that's _not_ sci-fi" - tom 3/4/2026
 
 
 
