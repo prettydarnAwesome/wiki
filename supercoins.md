@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2026-04-03T13:22:09.988Z
+date: 2026-05-16T20:21:45.711Z
 tags: 
 editor: markdown
 ---
@@ -99,7 +99,7 @@ editor: markdown
 - "ducks are neutral... perhaps less than neutral... but alchemists are +50%" - tom, unknown 2025
 - "more things should be biding their time" - tom 20/8/2025
 - "if you get on a spaceship and there's a horse on there, that's _not_ sci-fi" - tom 3/4/2026
-
+- "i think after a man constructs 50,000 brain-teasers, he should be killed" - tom 16/5/2026
 
 
 
