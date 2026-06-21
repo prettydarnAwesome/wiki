@@ -2,7 +2,7 @@
 title: Hexi
 description: Super User of the Freezedryer, Squire of the Weeb Society, aka "Doob, the King of the Holy Roman Empire", aka The Hexagonal Man Which Bees Share A Common Shape With
 published: true
-date: 2026-06-19T21:42:43.801Z
+date: 2026-06-21T21:29:36.906Z
 tags: 
 editor: markdown
 ---
@@ -120,6 +120,7 @@ editor: markdown
 * "i've got the most cooked pussycat" - hexi 11/7/2025
 * "do you think ancient ghosts generally want to help the world or harm the world?" - hexi 05/4/2026
 * "the abacus is already paying for itself" - hexi 19/6/2026
+* "it's like when you cut down a tree: you have to kill a gay to see how gay they are" - hexi 21/6/2026 (he's an ally i promise)
 
 <a href="https://cesque.com/storage/21/02/13/201869046852.png" class="image-link">
   <img src="https://cesque.com/storage/21/02/13/201869046852.png">
