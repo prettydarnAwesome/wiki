@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2026-06-25T18:33:52.434Z
+date: 2026-06-25T18:35:01.117Z
 tags: 
 editor: markdown
 ---
@@ -15,6 +15,7 @@ editor: markdown
 * **59:42** - Coins, Cesque & Zonalhaz *(first non-contest run)*
 
 ## Duality
+* **23:54** - Martin, Cesque & Zonalhaz
 * **25:22** - Coins, Cesque & Zonalhaz *(and we did Heartshadow catalyst lmao)*
 * **25:39** - Coins, Cesque & Zonalhaz
 
