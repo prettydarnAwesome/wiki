@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2026-05-29T11:29:07.516Z
+date: 2026-07-15T20:09:38.790Z
 tags: 
 editor: markdown
 ---
@@ -101,6 +101,7 @@ editor: markdown
 - "if you get on a spaceship and there's a horse on there, that's _not_ sci-fi" - tom 3/4/2026
 - "i think after a man constructs 50,000 brain-teasers, he should be killed" - tom 16/5/2026
 - "that’s why they call them lines of coke, because lines never end until they run out" - tom 29/5/2026
+- (about god) "he got all the eyes but the angels got all the ears" - 15/7/2026
 
 
 
