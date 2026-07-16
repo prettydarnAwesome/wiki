@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2026-06-25T18:35:01.117Z
+date: 2026-07-16T19:24:07.343Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,7 @@ editor: markdown
 
 ## Spire of the Watcher
 * **18:49** - Martin, Cesque, Zonalhaz *2026-01-04*
+* **20:57** - Coins, Cesque & Zonalhaz *2026-07016*
 * **27:06** - Coins, Cesque & Syphonx *2024-04-12*
 * **27:42** - Hexi, Cesque & Zonalhaz
 * **28:28** - Coins, Cesque & Zonalhaz
