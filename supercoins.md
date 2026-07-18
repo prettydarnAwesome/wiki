@@ -2,7 +2,7 @@
 title: SuperCoins
 description: 
 published: true
-date: 2026-07-15T20:09:38.790Z
+date: 2026-07-18T11:53:45.039Z
 tags: 
 editor: markdown
 ---
@@ -102,6 +102,7 @@ editor: markdown
 - "i think after a man constructs 50,000 brain-teasers, he should be killed" - tom 16/5/2026
 - "that’s why they call them lines of coke, because lines never end until they run out" - tom 29/5/2026
 - (about god) "he got all the eyes but the angels got all the ears" - 15/7/2026
+- "it's morning somewhere, and i've decided it's morning in my house, my life, right now" - tom 18/7/2026
 
 
 
