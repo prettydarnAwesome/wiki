@@ -2,10 +2,13 @@
 title: Raid Resources
 description: Use these things to help you do raids and dungeons in Destiny 2
 published: true
-date: 2025-07-27T14:05:53.650Z
+date: 2026-07-18T12:05:33.695Z
 tags: 
 editor: markdown
 ---
+
+# Sundered Doctrine
+<img src=https://cesque.com/storage/26/07/18/243756508983.png width=500px>
 
 # Desert Perpetual
 
