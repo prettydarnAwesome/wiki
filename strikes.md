@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2026-07-16T19:44:29.206Z
+date: 2026-08-12T21:15:23.506Z
 tags: 
 editor: markdown
 ---
@@ -60,6 +60,9 @@ editor: markdown
 * **27:06** - Coins, Cesque & Syphonx *2024-04-12*
 * **27:42** - Hexi, Cesque & Zonalhaz
 * **28:28** - Coins, Cesque & Zonalhaz
+
+## Grasp of Avarice
+* **25:48** - Coins, Cesque & Zonalhaz *2026-08-12*
 
 # Strikes
 
