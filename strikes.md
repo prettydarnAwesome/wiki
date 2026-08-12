@@ -2,7 +2,7 @@
 title: Strikes
 description: Fast strike times
 published: true
-date: 2026-08-12T21:15:23.506Z
+date: 2026-08-12T21:18:41.453Z
 tags: 
 editor: markdown
 ---
